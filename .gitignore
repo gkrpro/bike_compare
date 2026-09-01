@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# local scratch files from selector inspection, not part of the project
+inspect_*.js
+inspect_*.html

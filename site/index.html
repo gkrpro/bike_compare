@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bike Price Compare</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <h1>🚲 Bike Price Compare</h1>
+      <p class="tagline">Bikes currently listed across a handful of shops, refreshed automatically by GitHub Actions.</p>
+    </header>
+
+    <div class="meta-row" id="meta-row"></div>
+    <div class="shop-status" id="shop-status"></div>
+    <div id="error-banner"></div>
+
+    <div class="controls">
+      <input type="search" id="search" placeholder="Search bike name…" autocomplete="off" />
+      <select id="sort">
+        <option value="price-asc">Price: low to high</option>
+        <option value="price-desc">Price: high to low</option>
+        <option value="name-asc">Name: A–Z</option>
+        <option value="shop-asc">Shop: A–Z</option>
+      </select>
+    </div>
+    <div class="shop-filters" id="shop-filters"></div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th data-sort="shop">Shop <span class="arrow"></span></th>
+            <th data-sort="name">Bike <span class="arrow"></span></th>
+            <th data-sort="price">Price <span class="arrow"></span></th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+      <div class="empty-state" id="empty-state" hidden>No bikes match your filters.</div>
+    </div>
+
+    <footer class="page-footer">
+      <p>
+        Data is scraped periodically from each shop's public listing page (not a real-time price feed) and this page
+        just displays the most recent snapshot. A full price history is also kept once a week in
+        <a href="data/history.csv" target="_blank" rel="noopener">data/history.csv</a> in this repository.
+      </p>
+      <p>Some shops occasionally block automated requests — see the shop status above for the latest run.</p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

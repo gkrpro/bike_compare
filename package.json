@@ -1,0 +1,15 @@
+{
+  "name": "bike-compare",
+  "version": "1.0.0",
+  "description": "Compares live bike prices across several online shops and keeps a weekly price history in CSV.",
+  "private": true,
+  "main": "scraper/scrape.js",
+  "scripts": {
+    "scrape": "node scraper/scrape.js",
+    "snapshot": "node scraper/snapshot.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.62.1"
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "generatedAt": "2026-09-01T05:47:06.164Z",
+  "totalItems": 49,
+  "shops": [
+    {
+      "shop": "Cyclovia",
+      "sourceUrl": "https://www.cycloviastore.com/shop/?sort=price_low",
+      "ok": true,
+      "items": [
+        {
+          "name": "Cervélo Áspero",
+          "price": 4899,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/cervelo-aspero/"
+        },
+        {
+          "name": "Cervélo Caledonia 5",
+          "price": 7499,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/cervelo-s5-copie/"
+        },
+        {
+          "name": "Cervélo S5",
+          "price": 9999,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/colnago-v4rs-copie/"
+        },
+        {
+          "name": "Colnago C68 Road",
+          "price": 10200,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/colnagoc68road/"
+        },
+        {
+          "name": "Colnago G4-X",
+          "price": 4330,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/colnago-g4x/"
+        },
+        {
+          "name": "Colnago V4",
+          "price": 5200,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/colnago-v4/"
+        },
+        {
+          "name": "Colnago V4Rs",
+          "price": 9090,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/colnago-c68-road-copie/"
+        },
+        {
+          "name": "Colnago Y1Rs",
+          "price": 16200,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/colnago-y1rs/"
+        },
+        {
+          "name": "Wilier Adlar",
+          "price": 3500,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/wilier-adlar/"
+        },
+        {
+          "name": "Wilier Filante SLR",
+          "price": 9360,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/wilier-0sl-copie/"
+        },
+        {
+          "name": "Wilier Garda",
+          "price": 2600,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/wilier-garda/"
+        },
+        {
+          "name": "Wilier Granturismo SLR",
+          "price": 8160,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
+        }
+      ],
+      "scrapedAt": "2026-09-01T05:46:08.705Z"
+    },
+    {
+      "shop": "Bikester",
+      "sourceUrl": "https://www.bikester.be/",
+      "ok": true,
+      "items": [
+        {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 EX (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
+          "price": 2999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Acid 240 FE (2027)  | 24 inch jeugd-/kinder-MTB",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-acid-240-fe-lightolive-n-orange",
+          "price": 429,
+          "currency": "EUR"
+        },
+        {
+          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-blackline",
+          "price": 4999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aim SLX (2027)  | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-slx-slateblack-n-chrome",
+          "price": 699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
+          "price": 4099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Agree C:62 ONE (2026) | Racefiets",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-agree-c62-one-storm-n-grey",
+          "price": 2699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nature EXC Allroad (2026) | Trekkingfiets",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nature-exc-allroad-seasalt-n-pyrite-2025",
+          "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Touring Hybrid ONE 600 (2026) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-coal-n-chrome",
+          "price": 2399,
+          "currency": "EUR"
+        },
+        {
+          "name": "Litening AERO C:68X Race (2026) | Aero racefiets",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-litening-aero-c68x-race-blackline",
+          "price": 4849,
+          "currency": "EUR"
+        },
+        {
+          "name": "Cross Race C:62 Pro (2026) | Cyclocrossfiets",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-cross-race-c-62-pro-carbon-n-orange-2025",
+          "price": 2299,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kathmandu Hybrid SLT 800 (2026) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-slt-800-duskwood-n-goblin",
+          "price": 4899,
+          "currency": "EUR"
+        },
+        {
+          "name": "Supreme Hybrid Pro 625 Easy Entry (2026) | Stad E-Bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-supreme-hybrid-pro-625-easy-entry-electricblue-n-blue-2025",
+          "price": 2699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix TWO (2026) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
+          "price": 869,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 EX (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
+          "price": 2999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
+          "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix TWO (2026) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
+          "price": 869,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura 100 verlichtingsset incl. Blaze Link",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
+          "price": 75.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bordo Granit 6500K/120 SH vouwslot",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
+          "price": 139.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bordo Combo 6000C/120 SH vouwslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-6000c-120-sh-faltschloss-schwarz",
+          "price": 114.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Granit CityChain X-Plus 1060 Kettingslot",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-granit-citychain-x-plus-1060-kettenschloss-schwarz",
+          "price": 159.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bagagedragerstas CITY 8 RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktragertasche-city-8-rilink",
+          "price": 54.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Verlichtingsset TOUR 90 USB",
+          "brand": "RFR",
+          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
+          "price": 39.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "CityChain 1010/85 kettingslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
+          "price": 92.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Verlichtingsset PRO 30",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
+          "price": 32.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bagagedrager SIC 29\" RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
+          "price": 45.99,
+          "currency": "EUR"
+        }
+      ],
+      "scrapedAt": "2026-09-01T05:46:05.619Z"
+    },
+    {
+      "shop": "Bike24",
+      "sourceUrl": "https://www.bike24.be/fr/cyclisme/velos",
+      "ok": false,
+      "items": [],
+      "error": "blocked (status 403, title \"Access Denied\")",
+      "scrapedAt": "2026-09-01T05:46:02.265Z"
+    },
+    {
+      "shop": "Decathlon",
+      "sourceUrl": "https://www.decathlon.be/fr/tous-les-sports/velo",
+      "ok": false,
+      "items": [],
+      "error": "page.waitForSelector: Timeout 20000ms exceeded.",
+      "scrapedAt": "2026-09-01T05:47:06.161Z"
+    }
+  ]
+}
