@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T16:19:25.039Z",
-  "totalItems": 47,
+  "generatedAt": "2026-09-01T20:48:07.233Z",
+  "totalItems": 49,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-01T16:18:25.674Z"
+      "scrapedAt": "2026-09-01T20:47:08.339Z"
     },
     {
       "shop": "Bikester",
@@ -95,17 +95,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
-          "price": 1999,
-          "currency": "EUR"
-        },
-        {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
           "price": 2599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nulane Hybrid C:62 Race 400X FE (2027) | Stad E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nulane-hybrid-c62-race-400x-fe-seagreynblack",
+          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -200,13 +200,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
-          "price": 1999,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
@@ -246,6 +239,13 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
           "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Topstone 1 (2025) | Gravelbike",
+          "brand": "Cannondale",
+          "url": "https://www.bikester.be/products/cannondale-700-u-topstone-1-obsidian",
+          "price": 1849,
           "currency": "EUR"
         },
         {
@@ -331,9 +331,23 @@
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
           "price": 32.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Bagagedrager SIC 29\" RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
+          "price": 45.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "PCS-10.3 montagestandaard",
+          "brand": "Park Tool",
+          "url": "https://www.bikester.be/products/park-tool-pcs-10-3-montagestander",
+          "price": 269.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-01T16:18:23.542Z"
+      "scrapedAt": "2026-09-01T20:47:06.228Z"
     },
     {
       "shop": "Bike24",
@@ -341,7 +355,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-01T16:18:21.274Z"
+      "scrapedAt": "2026-09-01T20:47:03.663Z"
     },
     {
       "shop": "Decathlon",
@@ -349,7 +363,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-01T16:19:25.029Z"
+      "scrapedAt": "2026-09-01T20:48:07.221Z"
     }
   ]
 }
