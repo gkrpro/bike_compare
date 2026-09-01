@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T11:22:39.338Z",
-  "totalItems": 49,
+  "generatedAt": "2026-09-01T16:19:25.039Z",
+  "totalItems": 47,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-01T11:21:40.860Z"
+      "scrapedAt": "2026-09-01T16:18:25.674Z"
     },
     {
       "shop": "Bikester",
@@ -284,24 +284,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PRO",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
-          "price": 27.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 100 verlichtingsset incl. Blaze Link",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
           "price": 75.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bordo Granit 6500K/120 SH vouwslot",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
-          "price": 139.99,
           "currency": "EUR"
         },
         {
@@ -347,7 +333,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-01T11:21:38.652Z"
+      "scrapedAt": "2026-09-01T16:18:23.542Z"
     },
     {
       "shop": "Bike24",
@@ -355,7 +341,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-01T11:21:35.870Z"
+      "scrapedAt": "2026-09-01T16:18:21.274Z"
     },
     {
       "shop": "Decathlon",
@@ -363,7 +349,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-01T11:22:39.328Z"
+      "scrapedAt": "2026-09-01T16:19:25.029Z"
     }
   ]
 }
