@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T10:56:29.088Z",
-  "totalItems": 49,
+  "generatedAt": "2026-09-02T16:15:46.724Z",
+  "totalItems": 50,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-02T10:55:29.993Z"
+      "scrapedAt": "2026-09-02T16:14:47.199Z"
     },
     {
       "shop": "Bikester",
@@ -95,17 +95,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
           "price": 2599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nulane Hybrid C:62 Race 400X FE (2027) | Stad E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nulane-hybrid-c62-race-400x-fe-seagreynblack",
-          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -186,6 +186,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Nuroad Hybrid C:62 Race 400X (2026) | E-Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-hybrid-c62-race-400x-reedbeigenblack",
+          "price": 3799,
+          "currency": "EUR"
+        },
+        {
           "name": "Supreme Hybrid Pro 625 Easy Entry (2026) | Stad E-Bike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-supreme-hybrid-pro-625-easy-entry-electricblue-n-blue-2025",
@@ -196,6 +203,13 @@
           "name": "Nuroad C:62 ONE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
           "price": 1999,
           "currency": "EUR"
         },
@@ -239,13 +253,6 @@
           "brand": "Cannondale",
           "url": "https://www.bikester.be/products/cannondale-700-u-topstone-1-obsidian",
           "price": 1849,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
-          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -347,7 +354,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-02T10:55:27.854Z"
+      "scrapedAt": "2026-09-02T16:14:45.404Z"
     },
     {
       "shop": "Bike24",
@@ -355,7 +362,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-02T10:55:25.445Z"
+      "scrapedAt": "2026-09-02T16:14:43.044Z"
     },
     {
       "shop": "Decathlon",
@@ -363,7 +370,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-02T10:56:29.079Z"
+      "scrapedAt": "2026-09-02T16:15:46.715Z"
     }
   ]
 }
