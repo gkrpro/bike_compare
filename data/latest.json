@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T10:56:13.237Z",
+  "generatedAt": "2026-09-03T16:05:34.441Z",
   "totalItems": 54,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-03T10:55:14.135Z"
+      "scrapedAt": "2026-09-03T16:04:35.543Z"
     },
     {
       "shop": "Bikester",
@@ -319,10 +319,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Bordo Granit 6500K/120 SH vouwslot",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
+          "price": 139.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Aura 100 verlichtingsset incl. Blaze Link",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
           "price": 75.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura Micro Set USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
+          "price": 24.99,
           "currency": "EUR"
         },
         {
@@ -354,35 +368,21 @@
           "currency": "EUR"
         },
         {
+          "name": "Fietsenstandaard FM PURE",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
+          "price": 24.95,
+          "currency": "EUR"
+        },
+        {
           "name": "Bordo uGrip 5700C/80 SH vouwslot zwart",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-ugrip-5700c-80-sh-faltschloss-schwarz",
           "price": 64.99,
           "currency": "EUR"
-        },
-        {
-          "name": "Verlichtingsset PRO 30",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
-          "price": 32.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bagagedrager SIC 29\" RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
-          "price": 45.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bagagedragerstas CITY 8 RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragertasche-city-8-rilink",
-          "price": 54.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-03T10:55:12.005Z"
+      "scrapedAt": "2026-09-03T16:04:33.185Z"
     },
     {
       "shop": "Bike24",
@@ -390,7 +390,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-03T10:55:09.656Z"
+      "scrapedAt": "2026-09-03T16:04:30.952Z"
     },
     {
       "shop": "Decathlon",
@@ -398,7 +398,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-03T10:56:13.229Z"
+      "scrapedAt": "2026-09-03T16:05:34.431Z"
     }
   ]
 }
