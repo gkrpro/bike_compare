@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T20:47:09.939Z",
+  "generatedAt": "2026-09-03T03:40:48.643Z",
   "totalItems": 50,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-02T20:46:10.897Z"
+      "scrapedAt": "2026-09-03T03:39:49.166Z"
     },
     {
       "shop": "Bikester",
@@ -214,10 +214,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "name": "Gravix TWO (2026) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
-          "price": 1099,
+          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
+          "price": 869,
           "currency": "EUR"
         },
         {
@@ -228,10 +228,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix TWO (2026) | Gravelbike",
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 869,
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "price": 1099,
           "currency": "EUR"
         },
         {
@@ -249,17 +249,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Topstone 1 (2025) | Gravelbike",
-          "brand": "Cannondale",
-          "url": "https://www.bikester.be/products/cannondale-700-u-topstone-1-obsidian",
-          "price": 1849,
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
+          "price": 1199,
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "name": "Gravix TWO (2026) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
-          "price": 1099,
+          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
+          "price": 869,
           "currency": "EUR"
         },
         {
@@ -270,10 +270,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix TWO (2026) | Gravelbike",
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 869,
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "price": 1099,
           "currency": "EUR"
         },
         {
@@ -319,10 +319,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Bagagedragerstas CITY 8 RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragertasche-city-8-rilink",
-          "price": 54.99,
+          "name": "Granit CityChain X-Plus 1060 Kettingslot",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-granit-citychain-x-plus-1060-kettenschloss-schwarz",
+          "price": 159.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bordo uGrip 5700C/80 SH vouwslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-ugrip-5700c-80-sh-faltschloss-schwarz",
+          "price": 64.99,
           "currency": "EUR"
         },
         {
@@ -333,13 +340,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Granit CityChain X-Plus 1060 Kettingslot",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-granit-citychain-x-plus-1060-kettenschloss-schwarz",
-          "price": 159.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bagagedrager SIC 29\" RILink",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
@@ -347,14 +347,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo uGrip 5700C/80 SH vouwslot zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-ugrip-5700c-80-sh-faltschloss-schwarz",
-          "price": 64.99,
+          "name": "Bagagedragerstas CITY 8 RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktragertasche-city-8-rilink",
+          "price": 54.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-02T20:46:08.710Z"
+      "scrapedAt": "2026-09-03T03:39:47.086Z"
     },
     {
       "shop": "Bike24",
@@ -362,7 +362,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-02T20:46:06.287Z"
+      "scrapedAt": "2026-09-03T03:39:45.262Z"
     },
     {
       "shop": "Decathlon",
@@ -370,7 +370,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-02T20:47:09.927Z"
+      "scrapedAt": "2026-09-03T03:40:48.635Z"
     }
   ]
 }
