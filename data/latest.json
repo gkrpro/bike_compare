@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T03:40:48.643Z",
-  "totalItems": 50,
+  "generatedAt": "2026-09-03T10:56:13.237Z",
+  "totalItems": 54,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-03T03:39:49.166Z"
+      "scrapedAt": "2026-09-03T10:55:14.135Z"
     },
     {
       "shop": "Bikester",
@@ -144,59 +144,87 @@
           "currency": "EUR"
         },
         {
-          "name": "Agree C:62 ONE (2026) | Racefiets",
+          "name": "Agree C:62 Pro (2026) | Racefiets",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-agree-c62-one-storm-n-grey",
-          "price": 2699,
+          "url": "https://www.bikester.be/products/cube-agree-c62-pro-blackline",
+          "price": 3299,
           "currency": "EUR"
         },
         {
-          "name": "Nature EXC Allroad (2026) | Trekkingfiets",
+          "name": "Kathmandu Hybrid EXC 800 Diamant (2026) | Trekking E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nature-exc-allroad-seasalt-n-pyrite-2025",
-          "price": 1099,
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-exc-800-cedarnchrome",
+          "price": 3599,
           "currency": "EUR"
         },
         {
-          "name": "Touring Hybrid ONE 600 (2026) | Trekking E-bike",
+          "name": "Nuroad Hybrid C:62 Race 400X FE (2026) | E-Gravelbike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-coal-n-chrome",
-          "price": 2399,
+          "url": "https://www.bikester.be/products/cube-nuroad-hybrid-c62-race-400x-fe-reedbeigenblack",
+          "price": 3899,
           "currency": "EUR"
         },
         {
-          "name": "Litening AERO C:68X Race (2026) | Aero racefiets",
+          "name": "Kathmandu Hybrid Pro 800 (2026) | Trekking E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-litening-aero-c68x-race-blackline",
-          "price": 4849,
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-coal-n-black",
+          "price": 3399,
           "currency": "EUR"
         },
         {
-          "name": "Cross Race C:62 Pro (2026) | Cyclocrossfiets",
+          "name": "Supreme Hybrid Comfort ONE 600 Easy Entry (2026) | Stad E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-cross-race-c-62-pro-carbon-n-orange-2025",
-          "price": 2299,
+          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-foggrey-n-reflex",
+          "price": 2499,
           "currency": "EUR"
         },
         {
-          "name": "Kathmandu Hybrid SLT 800 (2026) | Trekking E-bike",
+          "name": "Touring Hybrid Pro 800 (2026) | Trekking E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-slt-800-duskwood-n-goblin",
-          "price": 4899,
+          "url": "https://www.bikester.be/products/cube-touring-hybrid-pro-800-pearlgrey-n-grey",
+          "price": 2799,
           "currency": "EUR"
         },
         {
-          "name": "Nuroad Hybrid C:62 Race 400X (2026) | E-Gravelbike",
+          "name": "Kathmandu Hybrid ONE 800 (2026) | Trekking E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-hybrid-c62-race-400x-reedbeigenblack",
-          "price": 3799,
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one-800-metallicgreyngrey",
+          "price": 2999,
           "currency": "EUR"
         },
         {
-          "name": "Supreme Hybrid Pro 625 Easy Entry (2026) | Stad E-Bike",
+          "name": "Reaction Hybrid ONE 800 Easy Entry (2026) | 27,5 inch E-MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-supreme-hybrid-pro-625-easy-entry-electricblue-n-blue-2025",
-          "price": 2699,
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-one-800-easy-entry-sleekgreynprism",
+          "price": 2599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Touring ONE (2026) | Trekkingfiets",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-touring-one-night-n-chrome",
+          "price": 649,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kathmandu Hybrid C:62 SLX 400X (2026) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-c62-slx-400x-liquidblack-n-bluedust",
+          "price": 3599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Supreme Hybrid Comfort Pro 600 Easy Entry (2026) | City E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-pro-600-easy-entry-solareclipse-n-gold",
+          "price": 2949,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Race 800 Easy Entry (2026)  | 27,5 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-easy-entry-amber-n-black",
+          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -354,7 +382,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-03T03:39:47.086Z"
+      "scrapedAt": "2026-09-03T10:55:12.005Z"
     },
     {
       "shop": "Bike24",
@@ -362,7 +390,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-03T03:39:45.262Z"
+      "scrapedAt": "2026-09-03T10:55:09.656Z"
     },
     {
       "shop": "Decathlon",
@@ -370,7 +398,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-03T03:40:48.635Z"
+      "scrapedAt": "2026-09-03T10:56:13.229Z"
     }
   ]
 }
