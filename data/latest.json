@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T11:02:26.406Z",
-  "totalItems": 41,
+  "generatedAt": "2026-09-04T16:01:18.924Z",
+  "totalItems": 42,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-04T11:01:27.406Z"
+      "scrapedAt": "2026-09-04T16:00:19.103Z"
     },
     {
       "shop": "Bikester",
@@ -134,6 +134,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
           "price": 3899,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aim SLX (2027)  | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-slx-shiftverden-chrome",
+          "price": 699,
           "currency": "EUR"
         },
         {
@@ -291,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-04T11:01:24.790Z"
+      "scrapedAt": "2026-09-04T16:00:17.211Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-04T11:01:22.646Z"
+      "scrapedAt": "2026-09-04T16:00:15.462Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-04T11:02:26.398Z"
+      "scrapedAt": "2026-09-04T16:01:18.916Z"
     }
   ]
 }
