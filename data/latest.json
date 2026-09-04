@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T03:43:43.860Z",
-  "totalItems": 54,
+  "generatedAt": "2026-09-04T11:02:26.406Z",
+  "totalItems": 41,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-04T03:42:44.312Z"
+      "scrapedAt": "2026-09-04T11:01:27.406Z"
     },
     {
       "shop": "Bikester",
@@ -116,24 +116,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-blackline",
-          "price": 4999,
-          "currency": "EUR"
-        },
-        {
           "name": "Aim SLX (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-slx-slateblack-n-chrome",
           "price": 699,
-          "currency": "EUR"
-        },
-        {
-          "name": "Acid 240 FE (2027)  | 24 inch jeugd-/kinder-MTB",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-240-fe-lightolive-n-orange",
-          "price": 429,
           "currency": "EUR"
         },
         {
@@ -144,87 +130,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Agree C:62 Pro (2026) | Racefiets",
+          "name": "Reaction Hybrid Race 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-agree-c62-pro-blackline",
-          "price": 3299,
-          "currency": "EUR"
-        },
-        {
-          "name": "Kathmandu Hybrid EXC 800 Diamant (2026) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-exc-800-cedarnchrome",
-          "price": 3599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad Hybrid C:62 Race 400X FE (2026) | E-Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-hybrid-c62-race-400x-fe-reedbeigenblack",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
           "price": 3899,
-          "currency": "EUR"
-        },
-        {
-          "name": "Kathmandu Hybrid Pro 800 (2026) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-coal-n-black",
-          "price": 3399,
-          "currency": "EUR"
-        },
-        {
-          "name": "Touring Hybrid Pro 800 (2026) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-touring-hybrid-pro-800-pearlgrey-n-grey",
-          "price": 2799,
-          "currency": "EUR"
-        },
-        {
-          "name": "Kathmandu Hybrid ONE 800 (2026) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one-800-metallicgreyngrey",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
-          "name": "Reaction Hybrid ONE 800 Easy Entry (2026) | 27,5 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-one-800-easy-entry-sleekgreynprism",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Touring ONE (2026) | Trekkingfiets",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-touring-one-night-n-chrome",
-          "price": 649,
-          "currency": "EUR"
-        },
-        {
-          "name": "Kathmandu Hybrid C:62 SLX 400X (2026) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-c62-slx-400x-liquidblack-n-bluedust",
-          "price": 3599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Supreme Hybrid Comfort Pro 600 Easy Entry (2026) | City E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-pro-600-easy-entry-solareclipse-n-gold",
-          "price": 2949,
-          "currency": "EUR"
-        },
-        {
-          "name": "Reaction Hybrid Race 800 Easy Entry (2026)  | 27,5 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-easy-entry-amber-n-black",
-          "price": 3199,
-          "currency": "EUR"
-        },
-        {
-          "name": "Supreme Hybrid SLX 625 Easy Entry (2026) | Stad E-Bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-supreme-hybrid-slx-625-easy-entry-grey-n-lunar-2025",
-          "price": 3049,
           "currency": "EUR"
         },
         {
@@ -382,7 +291,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-04T03:42:42.215Z"
+      "scrapedAt": "2026-09-04T11:01:24.790Z"
     },
     {
       "shop": "Bike24",
@@ -390,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-04T03:42:40.169Z"
+      "scrapedAt": "2026-09-04T11:01:22.646Z"
     },
     {
       "shop": "Decathlon",
@@ -398,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-04T03:43:43.851Z"
+      "scrapedAt": "2026-09-04T11:02:26.398Z"
     }
   ]
 }
