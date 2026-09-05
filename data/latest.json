@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:15:16.335Z",
+  "generatedAt": "2026-09-05T14:52:13.936Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-05T10:14:17.313Z"
+      "scrapedAt": "2026-09-05T14:51:14.296Z"
     },
     {
       "shop": "Bikester",
@@ -109,13 +109,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
           "name": "Aim SLX (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-slx-slateblack-n-chrome",
@@ -141,6 +134,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
           "price": 599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aim SLX (2027)  | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-slx-shiftverden-chrome",
+          "price": 699,
           "currency": "EUR"
         },
         {
@@ -179,13 +179,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
@@ -197,6 +190,13 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
           "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Topstone 1 (2025) | Gravelbike",
+          "brand": "Cannondale",
+          "url": "https://www.bikester.be/products/cannondale-700-u-topstone-1-obsidian",
+          "price": 1849,
           "currency": "EUR"
         },
         {
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-05T10:14:14.569Z"
+      "scrapedAt": "2026-09-05T14:51:12.124Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-05T10:14:12.755Z"
+      "scrapedAt": "2026-09-05T14:51:10.293Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-05T10:15:16.327Z"
+      "scrapedAt": "2026-09-05T14:52:13.925Z"
     }
   ]
 }
