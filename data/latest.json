@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T20:31:42.459Z",
+  "generatedAt": "2026-09-05T03:41:17.869Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-04T20:30:44.092Z"
+      "scrapedAt": "2026-09-05T03:40:19.730Z"
     },
     {
       "shop": "Bikester",
@@ -158,13 +158,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix TWO (2026) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
@@ -196,6 +189,13 @@
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
           "price": 1199,
           "currency": "EUR"
         },
@@ -270,13 +270,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Granit CityChain X-Plus 1060 Kettingslot",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-granit-citychain-x-plus-1060-kettenschloss-schwarz",
-          "price": 159.99,
-          "currency": "EUR"
-        },
-        {
           "name": "4204K/110 Goose Lock zwart",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-4204k-110-goose-lock-schwarz",
@@ -291,6 +284,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Bagagedrager PURE Universeel 26\" - 29\" RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktrager-pure-universal-26-29-rilink",
+          "price": 36.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Bagagedrager SIC 29\" RILink",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-04T20:30:41.204Z"
+      "scrapedAt": "2026-09-05T03:40:16.729Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-04T20:30:38.880Z"
+      "scrapedAt": "2026-09-05T03:40:14.456Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-04T20:31:42.448Z"
+      "scrapedAt": "2026-09-05T03:41:17.859Z"
     }
   ]
 }
