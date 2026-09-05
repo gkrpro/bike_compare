@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T14:52:13.936Z",
+  "generatedAt": "2026-09-05T20:07:41.196Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-05T14:51:14.296Z"
+      "scrapedAt": "2026-09-05T20:06:42.561Z"
     },
     {
       "shop": "Bikester",
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-05T14:51:12.124Z"
+      "scrapedAt": "2026-09-05T20:06:39.796Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-05T14:51:10.293Z"
+      "scrapedAt": "2026-09-05T20:06:37.628Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-05T14:52:13.925Z"
+      "scrapedAt": "2026-09-05T20:07:41.190Z"
     }
   ]
 }
