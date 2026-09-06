@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T03:42:58.898Z",
+  "generatedAt": "2026-09-06T10:35:42.882Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-06T03:41:59.611Z"
+      "scrapedAt": "2026-09-06T10:34:43.735Z"
     },
     {
       "shop": "Bikester",
@@ -109,17 +109,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Aim SLX (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-slx-slateblack-n-chrome",
-          "price": 699,
-          "currency": "EUR"
-        },
-        {
           "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
           "price": 4099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aim SLX (2027)  | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-slx-slateblack-n-chrome",
+          "price": 699,
           "currency": "EUR"
         },
         {
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-06T03:41:57.146Z"
+      "scrapedAt": "2026-09-06T10:34:41.881Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-06T03:41:55.466Z"
+      "scrapedAt": "2026-09-06T10:34:39.291Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-06T03:42:58.886Z"
+      "scrapedAt": "2026-09-06T10:35:42.869Z"
     }
   ]
 }
