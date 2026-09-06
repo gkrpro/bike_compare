@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T10:35:42.882Z",
-  "totalItems": 42,
+  "generatedAt": "2026-09-06T15:11:49.288Z",
+  "totalItems": 39,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-06T10:34:43.735Z"
+      "scrapedAt": "2026-09-06T15:10:50.199Z"
     },
     {
       "shop": "Bikester",
@@ -256,31 +256,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo Combo 6000C/120 SH vouwslot zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-6000c-120-sh-faltschloss-schwarz",
-          "price": 114.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Verlichtingsset TOUR 90 USB",
           "brand": "RFR",
           "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
           "price": 39.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Verlichtingsset PRO 30",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
-          "price": 32.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "4204K/110 Goose Lock zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-4204k-110-goose-lock-schwarz",
-          "price": 63.99,
           "currency": "EUR"
         },
         {
@@ -298,7 +277,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-06T10:34:41.881Z"
+      "scrapedAt": "2026-09-06T15:10:47.363Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +285,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-06T10:34:39.291Z"
+      "scrapedAt": "2026-09-06T15:10:45.675Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +293,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-06T10:35:42.869Z"
+      "scrapedAt": "2026-09-06T15:11:49.280Z"
     }
   ]
 }
