@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T20:07:41.196Z",
+  "generatedAt": "2026-09-06T03:42:58.898Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-05T20:06:42.561Z"
+      "scrapedAt": "2026-09-06T03:41:59.611Z"
     },
     {
       "shop": "Bikester",
@@ -167,14 +167,14 @@
         {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
           "price": 1099,
           "currency": "EUR"
         },
         {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
           "currency": "EUR"
         },
@@ -209,14 +209,14 @@
         {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
           "price": 1099,
           "currency": "EUR"
         },
         {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
           "currency": "EUR"
         },
@@ -270,17 +270,17 @@
           "currency": "EUR"
         },
         {
-          "name": "4204K/110 Goose Lock zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-4204k-110-goose-lock-schwarz",
-          "price": 63.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Verlichtingsset PRO 30",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
           "price": 32.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "4204K/110 Goose Lock zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-4204k-110-goose-lock-schwarz",
+          "price": 63.99,
           "currency": "EUR"
         },
         {
@@ -291,14 +291,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Bagagedrager SIC 29\" RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
-          "price": 45.99,
+          "name": "Bordo uGrip 5700C/80 SH vouwslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-ugrip-5700c-80-sh-faltschloss-schwarz",
+          "price": 64.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-05T20:06:39.796Z"
+      "scrapedAt": "2026-09-06T03:41:57.146Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-05T20:06:37.628Z"
+      "scrapedAt": "2026-09-06T03:41:55.466Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-05T20:07:41.190Z"
+      "scrapedAt": "2026-09-06T03:42:58.886Z"
     }
   ]
 }
