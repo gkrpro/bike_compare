@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T15:11:49.288Z",
-  "totalItems": 39,
+  "generatedAt": "2026-09-06T20:12:31.285Z",
+  "totalItems": 42,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-06T15:10:50.199Z"
+      "scrapedAt": "2026-09-06T20:11:32.105Z"
     },
     {
       "shop": "Bikester",
@@ -109,13 +109,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
-          "price": 4099,
-          "currency": "EUR"
-        },
-        {
           "name": "Aim SLX (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-slx-slateblack-n-chrome",
@@ -141,6 +134,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-slx-shiftverden-chrome",
           "price": 699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Acid 240 Disc FE (2027)  | 24 inch jeugd-/kinder-MTB",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-acid-240-disc-fe-lizard-n-blue",
+          "price": 499,
           "currency": "EUR"
         },
         {
@@ -275,9 +275,30 @@
           "url": "https://www.bikester.be/products/abus-bordo-ugrip-5700c-80-sh-faltschloss-schwarz",
           "price": 64.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Tresor 1385 kettingslot",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
+          "price": 42.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bagagedrager SIC 29\" RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
+          "price": 45.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kettingverbinder Corvid Pro C120",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-kettenschloss-corvid-pro-c120",
+          "price": 33.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-06T15:10:47.363Z"
+      "scrapedAt": "2026-09-06T20:11:29.459Z"
     },
     {
       "shop": "Bike24",
@@ -285,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-06T15:10:45.675Z"
+      "scrapedAt": "2026-09-06T20:11:27.567Z"
     },
     {
       "shop": "Decathlon",
@@ -293,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-06T15:11:49.280Z"
+      "scrapedAt": "2026-09-06T20:12:31.276Z"
     }
   ]
 }
