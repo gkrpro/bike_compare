@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T11:59:30.353Z",
+  "generatedAt": "2026-09-07T17:43:46.754Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-07T11:58:30.684Z"
+      "scrapedAt": "2026-09-07T17:42:47.481Z"
     },
     {
       "shop": "Bikester",
@@ -109,6 +109,20 @@
           "currency": "EUR"
         },
         {
+          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
+          "price": 4099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nulane Hybrid C:62 Race 400X FE (2027) | Stad E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nulane-hybrid-c62-race-400x-fe-seagreynblack",
+          "price": 3199,
+          "currency": "EUR"
+        },
+        {
           "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
@@ -127,20 +141,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-slx-shiftverden-chrome",
           "price": 699,
-          "currency": "EUR"
-        },
-        {
-          "name": "Reaction Hybrid Race 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
-          "price": 3899,
-          "currency": "EUR"
-        },
-        {
-          "name": "Acid 240 Disc FE (2027)  | 24 inch jeugd-/kinder-MTB",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-240-disc-fe-lizard-n-blue",
-          "price": 499,
           "currency": "EUR"
         },
         {
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-07T11:58:28.275Z"
+      "scrapedAt": "2026-09-07T17:42:45.203Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-07T11:58:26.674Z"
+      "scrapedAt": "2026-09-07T17:42:43.147Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-07T11:59:30.345Z"
+      "scrapedAt": "2026-09-07T17:43:46.745Z"
     }
   ]
 }
