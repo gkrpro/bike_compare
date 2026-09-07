@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T20:12:31.285Z",
+  "generatedAt": "2026-09-07T03:42:35.211Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-06T20:11:32.105Z"
+      "scrapedAt": "2026-09-07T03:41:36.353Z"
     },
     {
       "shop": "Bikester",
@@ -186,17 +186,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
-          "price": 1199,
-          "currency": "EUR"
-        },
-        {
           "name": "Topstone 1 (2025) | Gravelbike",
           "brand": "Cannondale",
           "url": "https://www.bikester.be/products/cannondale-700-u-topstone-1-obsidian",
           "price": 1849,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
+          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -242,17 +242,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura Micro Set USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
-          "price": 24.99,
-          "currency": "EUR"
-        },
-        {
           "name": "CityChain 1010/85 kettingslot zwart",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
           "price": 92.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura Micro Set USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
+          "price": 24.99,
           "currency": "EUR"
         },
         {
@@ -277,17 +277,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Tresor 1385 kettingslot",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
-          "price": 42.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bagagedrager SIC 29\" RILink",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
           "price": 45.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Tresor 1385 kettingslot",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
+          "price": 42.99,
           "currency": "EUR"
         },
         {
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-06T20:11:29.459Z"
+      "scrapedAt": "2026-09-07T03:41:32.773Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-06T20:11:27.567Z"
+      "scrapedAt": "2026-09-07T03:41:31.665Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-06T20:12:31.276Z"
+      "scrapedAt": "2026-09-07T03:42:35.206Z"
     }
   ]
 }
