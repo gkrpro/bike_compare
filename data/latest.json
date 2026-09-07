@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T03:42:35.211Z",
-  "totalItems": 42,
+  "generatedAt": "2026-09-07T11:00:53.749Z",
+  "totalItems": 41,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-07T03:41:36.353Z"
+      "scrapedAt": "2026-09-07T10:59:54.730Z"
     },
     {
       "shop": "Bikester",
@@ -109,6 +109,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
+          "price": 599,
+          "currency": "EUR"
+        },
+        {
           "name": "Aim SLX (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-slx-slateblack-n-chrome",
@@ -120,20 +127,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
           "price": 3899,
-          "currency": "EUR"
-        },
-        {
-          "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
-          "price": 599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Aim SLX (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-slx-shiftverden-chrome",
-          "price": 699,
           "currency": "EUR"
         },
         {
@@ -298,7 +291,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-07T03:41:32.773Z"
+      "scrapedAt": "2026-09-07T10:59:51.833Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-07T03:41:31.665Z"
+      "scrapedAt": "2026-09-07T10:59:50.099Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-07T03:42:35.206Z"
+      "scrapedAt": "2026-09-07T11:00:53.739Z"
     }
   ]
 }
