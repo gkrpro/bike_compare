@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T03:47:33.569Z",
+  "generatedAt": "2026-09-08T10:55:17.657Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-08T03:46:35.042Z"
+      "scrapedAt": "2026-09-08T10:54:20.507Z"
     },
     {
       "shop": "Bikester",
@@ -144,6 +144,20 @@
           "currency": "EUR"
         },
         {
+          "name": "Rove ST MicroShift (2025) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-st-microshift-black",
+          "price": 949,
+          "currency": "EUR"
+        },
+        {
+          "name": "Rove AL (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-al-blue",
+          "price": 699,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 ONE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
@@ -183,20 +197,6 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
           "price": 1099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
-          "price": 1099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-08T03:46:32.079Z"
+      "scrapedAt": "2026-09-08T10:54:16.275Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-08T03:46:29.848Z"
+      "scrapedAt": "2026-09-08T10:54:14.169Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-08T03:47:33.558Z"
+      "scrapedAt": "2026-09-08T10:55:17.647Z"
     }
   ]
 }
