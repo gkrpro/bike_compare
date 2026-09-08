@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T10:55:17.657Z",
+  "generatedAt": "2026-09-08T16:19:25.678Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-08T10:54:20.507Z"
+      "scrapedAt": "2026-09-08T16:18:26.138Z"
     },
     {
       "shop": "Bikester",
@@ -109,13 +109,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-artline",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
           "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
@@ -141,6 +134,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-slx-shiftverden-chrome",
           "price": 699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Race 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
+          "price": 3899,
           "currency": "EUR"
         },
         {
@@ -186,16 +186,16 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-artline",
-          "price": 2999,
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "price": 1099,
           "currency": "EUR"
         },
         {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
           "currency": "EUR"
         },
@@ -256,6 +256,20 @@
           "currency": "EUR"
         },
         {
+          "name": "Fietsenstandaard FM",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
+          "price": 25.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bagagedragerstas CITY 8+16 RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktragertasche-city-8-16-rilink",
+          "price": 88.99,
+          "currency": "EUR"
+        },
+        {
           "name": "CityChain 1010/85 kettingslot zwart",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
@@ -282,23 +296,9 @@
           "url": "https://www.bikester.be/products/abus-4204k-110-goose-lock-schwarz",
           "price": 63.99,
           "currency": "EUR"
-        },
-        {
-          "name": "540 Granit X-Plus 540/160HB300",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-540-granit-x-plus",
-          "price": 94.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bagagedrager PURE Universeel 26\" - 29\" RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktrager-pure-universal-26-29-rilink",
-          "price": 36.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-08T10:54:16.275Z"
+      "scrapedAt": "2026-09-08T16:18:24.167Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-08T10:54:14.169Z"
+      "scrapedAt": "2026-09-08T16:18:22.072Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-08T10:55:17.647Z"
+      "scrapedAt": "2026-09-08T16:19:25.669Z"
     }
   ]
 }
