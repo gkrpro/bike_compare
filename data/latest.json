@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T20:55:21.596Z",
+  "generatedAt": "2026-09-09T03:52:12.846Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-08T20:54:22.754Z"
+      "scrapedAt": "2026-09-09T03:51:13.052Z"
     },
     {
       "shop": "Bikester",
@@ -130,16 +130,16 @@
           "currency": "EUR"
         },
         {
-          "name": "Aim SLX (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-slx-shiftverden-chrome",
-          "price": 699,
-          "currency": "EUR"
-        },
-        {
           "name": "Reaction Hybrid Race 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
+          "price": 3899,
+          "currency": "EUR"
+        },
+        {
+          "name": "Stereo Hybrid ONE44 Pro 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-coal-n-black",
           "price": 3899,
           "currency": "EUR"
         },
@@ -172,17 +172,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Nuroad C:62 EX (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
+          "price": 2999,
+          "currency": "EUR"
+        },
+        {
           "name": "Gravix TWO (2026) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
           "price": 869,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -256,17 +256,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
-          "price": 25.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bagagedragerstas CITY 8+16 RILink",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-gepacktragertasche-city-8-16-rilink",
           "price": 88.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Verlichtingsset TOUR 90 USB",
+          "brand": "RFR",
+          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
+          "price": 39.99,
           "currency": "EUR"
         },
         {
@@ -284,10 +284,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Verlichtingsset TOUR 90 USB",
-          "brand": "RFR",
-          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
-          "price": 39.99,
+          "name": "Bagagedrager SIC 29\" RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
+          "price": 45.99,
           "currency": "EUR"
         },
         {
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-08T20:54:20.133Z"
+      "scrapedAt": "2026-09-09T03:51:11.189Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-08T20:54:18.144Z"
+      "scrapedAt": "2026-09-09T03:51:09.222Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-08T20:55:21.587Z"
+      "scrapedAt": "2026-09-09T03:52:12.837Z"
     }
   ]
 }
