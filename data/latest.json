@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:59:54.068Z",
+  "generatedAt": "2026-09-09T16:14:13.582Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-09T10:58:55.349Z"
+      "scrapedAt": "2026-09-09T16:13:14.118Z"
     },
     {
       "shop": "Bikester",
@@ -277,6 +277,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Bordo Combo 6000C/120 SH vouwslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-6000c-120-sh-faltschloss-schwarz",
+          "price": 114.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Aura Micro Set USB verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
@@ -289,16 +296,9 @@
           "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
           "price": 45.99,
           "currency": "EUR"
-        },
-        {
-          "name": "4204K/110 Goose Lock zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-4204k-110-goose-lock-schwarz",
-          "price": 63.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-09T10:58:52.080Z"
+      "scrapedAt": "2026-09-09T16:13:11.813Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-09T10:58:50.482Z"
+      "scrapedAt": "2026-09-09T16:13:10.128Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-09T10:59:54.060Z"
+      "scrapedAt": "2026-09-09T16:14:13.573Z"
     }
   ]
 }
