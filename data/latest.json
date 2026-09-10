@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T03:51:06.049Z",
-  "totalItems": 42,
+  "generatedAt": "2026-09-10T10:56:43.754Z",
+  "totalItems": 39,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-10T03:50:06.565Z"
+      "scrapedAt": "2026-09-10T10:55:44.874Z"
     },
     {
       "shop": "Bikester",
@@ -88,10 +88,10 @@
       "ok": true,
       "items": [
         {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "name": "Nuroad C:62 EX (2027) | Gravelbike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
-          "price": 1999,
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
+          "price": 2999,
           "currency": "EUR"
         },
         {
@@ -102,17 +102,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
           "price": 2599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-blackline",
+          "price": 4999,
           "currency": "EUR"
         },
         {
@@ -123,13 +123,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Race 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
-          "price": 3899,
-          "currency": "EUR"
-        },
-        {
           "name": "Acid 240 Disc FE (2027)  | 24 inch jeugd-/kinder-MTB",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-acid-240-disc-fe-lizard-n-blue",
@@ -137,10 +130,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE22 SLX 800 FE (2027) | 29 inch E-MTB Fully",
+          "name": "Aim Pro (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one22-slx-800-fe-silverdust-n-chrome",
-          "price": 4399,
+          "url": "https://www.bikester.be/products/cube-aim-pro-topasblue-n-blue",
+          "price": 599,
           "currency": "EUR"
         },
         {
@@ -155,13 +148,6 @@
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-al-blue",
           "price": 699,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
-          "price": 1999,
           "currency": "EUR"
         },
         {
@@ -270,13 +256,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Bagagedragerstas CITY 8+16 RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragertasche-city-8-16-rilink",
-          "price": 88.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Verlichtingsset TOUR 90 USB",
           "brand": "RFR",
           "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
@@ -298,7 +277,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-10T03:50:04.427Z"
+      "scrapedAt": "2026-09-10T10:55:41.857Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +285,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-10T03:50:02.617Z"
+      "scrapedAt": "2026-09-10T10:55:40.200Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +293,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-10T03:51:06.043Z"
+      "scrapedAt": "2026-09-10T10:56:43.744Z"
     }
   ]
 }
