@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T10:56:43.754Z",
-  "totalItems": 39,
+  "generatedAt": "2026-09-10T16:05:54.790Z",
+  "totalItems": 40,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-10T10:55:44.874Z"
+      "scrapedAt": "2026-09-10T16:04:55.503Z"
     },
     {
       "shop": "Bikester",
@@ -123,17 +123,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Aim SLX FE (2027)  | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-slx-fe-rustyrosenpeach",
+          "price": 799,
+          "currency": "EUR"
+        },
+        {
           "name": "Acid 240 Disc FE (2027)  | 24 inch jeugd-/kinder-MTB",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-acid-240-disc-fe-lizard-n-blue",
           "price": 499,
-          "currency": "EUR"
-        },
-        {
-          "name": "Aim Pro (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-pro-topasblue-n-blue",
-          "price": 599,
           "currency": "EUR"
         },
         {
@@ -275,9 +275,16 @@
           "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
           "price": 60.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Tresor 1385 kettingslot",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
+          "price": 42.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-10T10:55:41.857Z"
+      "scrapedAt": "2026-09-10T16:04:52.931Z"
     },
     {
       "shop": "Bike24",
@@ -285,7 +292,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-10T10:55:40.200Z"
+      "scrapedAt": "2026-09-10T16:04:51.312Z"
     },
     {
       "shop": "Decathlon",
@@ -293,7 +300,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-10T10:56:43.744Z"
+      "scrapedAt": "2026-09-10T16:05:54.782Z"
     }
   ]
 }
