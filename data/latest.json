@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T20:42:59.178Z",
+  "generatedAt": "2026-09-10T03:51:06.049Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-09T20:41:59.625Z"
+      "scrapedAt": "2026-09-10T03:50:06.565Z"
     },
     {
       "shop": "Bikester",
@@ -130,17 +130,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE44 Pro 800 (2027)  | 27,5/29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-coal-n-black",
-          "price": 3899,
-          "currency": "EUR"
-        },
-        {
           "name": "Acid 240 Disc FE (2027)  | 24 inch jeugd-/kinder-MTB",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-acid-240-disc-fe-lizard-n-blue",
           "price": 499,
+          "currency": "EUR"
+        },
+        {
+          "name": "Stereo Hybrid ONE22 SLX 800 FE (2027) | 29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one22-slx-800-fe-silverdust-n-chrome",
+          "price": 4399,
           "currency": "EUR"
         },
         {
@@ -161,13 +161,6 @@
           "name": "Nuroad C:62 ONE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
-          "price": 1999,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
           "price": 1999,
           "currency": "EUR"
         },
@@ -193,10 +186,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
-          "price": 1099,
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -214,17 +214,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
-          "price": 1099,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
           "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "price": 1099,
           "currency": "EUR"
         },
         {
@@ -235,13 +235,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo 6000K/90 vouwslot + houder SH",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
-          "price": 85.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 100 verlichtingsset incl. Blaze Link",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
@@ -249,24 +242,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Bordo 6000K/90 vouwslot + houder SH",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
+          "price": 85.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Bordo Granit 6500K/120 SH vouwslot",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
           "price": 139.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bagagedragerstas CITY 8+16 RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragertasche-city-8-16-rilink",
-          "price": 88.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Verlichtingsset TOUR 90 USB",
-          "brand": "RFR",
-          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
-          "price": 39.99,
           "currency": "EUR"
         },
         {
@@ -284,6 +270,20 @@
           "currency": "EUR"
         },
         {
+          "name": "Bagagedragerstas CITY 8+16 RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktragertasche-city-8-16-rilink",
+          "price": 88.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Verlichtingsset TOUR 90 USB",
+          "brand": "RFR",
+          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
+          "price": 39.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Aura Micro Set USB verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
@@ -291,14 +291,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Bagagedrager SIC 29\" RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
-          "price": 45.99,
+          "name": "Aura 80/Blaze USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
+          "price": 60.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-09T20:41:57.594Z"
+      "scrapedAt": "2026-09-10T03:50:04.427Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-09T20:41:55.469Z"
+      "scrapedAt": "2026-09-10T03:50:02.617Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-09T20:42:59.166Z"
+      "scrapedAt": "2026-09-10T03:51:06.043Z"
     }
   ]
 }
