@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-11T03:48:05.859Z",
-  "totalItems": 40,
+  "generatedAt": "2026-09-11T10:54:45.246Z",
+  "totalItems": 39,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-11T03:47:06.115Z"
+      "scrapedAt": "2026-09-11T10:53:46.173Z"
     },
     {
       "shop": "Bikester",
@@ -95,10 +95,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "name": "Nulane Hybrid C:62 Race 400X FE (2027) | Stad E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
-          "price": 1999,
+          "url": "https://www.bikester.be/products/cube-nulane-hybrid-c62-race-400x-fe-seagreynblack",
+          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -106,13 +106,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
           "price": 2599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-blackline",
-          "price": 4999,
           "currency": "EUR"
         },
         {
@@ -186,17 +179,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix TWO (2026) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 869,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
           "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix TWO (2026) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
+          "price": 869,
           "currency": "EUR"
         },
         {
@@ -214,7 +207,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
+          "name": "Bordo Big 6000K/120 Vouwslot + Houder SH",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
@@ -228,7 +221,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo 6000K/90 vouwslot + houder SH",
+          "name": "Bordo 6000K/90 Vouwslot + Houder SH",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
           "price": 85.99,
@@ -284,7 +277,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-11T03:47:04.349Z"
+      "scrapedAt": "2026-09-11T10:53:43.338Z"
     },
     {
       "shop": "Bike24",
@@ -292,7 +285,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-11T03:47:01.978Z"
+      "scrapedAt": "2026-09-11T10:53:41.645Z"
     },
     {
       "shop": "Decathlon",
@@ -300,7 +293,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-11T03:48:05.847Z"
+      "scrapedAt": "2026-09-11T10:54:45.240Z"
     }
   ]
 }
