@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-11T20:43:25.581Z",
-  "totalItems": 40,
+  "generatedAt": "2026-09-12T03:50:58.781Z",
+  "totalItems": 41,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-11T20:42:26.010Z"
+      "scrapedAt": "2026-09-12T03:49:59.446Z"
     },
     {
       "shop": "Bikester",
@@ -116,13 +116,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 SLX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-slx-pinkaction-n-black",
-          "price": 3999,
-          "currency": "EUR"
-        },
-        {
           "name": "Aim SLX FE (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-slx-fe-rustyrosenpeach",
@@ -134,6 +127,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-acid-240-disc-fe-lizard-n-blue",
           "price": 499,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aim Pro (2027)  | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-pro-topasblue-n-blue",
+          "price": 599,
           "currency": "EUR"
         },
         {
@@ -172,6 +172,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
+          "currency": "EUR"
+        },
+        {
           "name": "Gravix TWO (2026) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
@@ -179,10 +186,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -221,13 +228,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 100 verlichtingsset incl. Blaze Link",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
-          "price": 75.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bordo 6000K/90 Vouwslot + Houder SH",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
@@ -235,17 +235,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Aura 100 verlichtingsset incl. Blaze Link",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
+          "price": 75.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Bordo Granit 6500K/120 SH vouwslot",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
           "price": 139.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "CityChain 1010/85 kettingslot zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
-          "price": 92.99,
           "currency": "EUR"
         },
         {
@@ -282,9 +282,16 @@
           "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
           "price": 60.99,
           "currency": "EUR"
+        },
+        {
+          "name": "CityChain 1010/85 kettingslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
+          "price": 92.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-11T20:42:23.989Z"
+      "scrapedAt": "2026-09-12T03:49:56.730Z"
     },
     {
       "shop": "Bike24",
@@ -292,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-11T20:42:21.968Z"
+      "scrapedAt": "2026-09-12T03:49:55.301Z"
     },
     {
       "shop": "Decathlon",
@@ -300,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-11T20:43:25.571Z"
+      "scrapedAt": "2026-09-12T03:50:58.773Z"
     }
   ]
 }
