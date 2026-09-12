@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T03:50:58.781Z",
-  "totalItems": 41,
+  "generatedAt": "2026-09-12T10:21:56.381Z",
+  "totalItems": 39,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-12T03:49:59.446Z"
+      "scrapedAt": "2026-09-12T10:20:57.266Z"
     },
     {
       "shop": "Bikester",
@@ -109,17 +109,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
-          "price": 599,
-          "currency": "EUR"
-        },
-        {
           "name": "Aim SLX FE (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-slx-fe-rustyrosenpeach",
           "price": 799,
+          "currency": "EUR"
+        },
+        {
+          "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
+          "price": 599,
           "currency": "EUR"
         },
         {
@@ -249,24 +249,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
-          "price": 25.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bordo Combo 6000C/120 SH vouwslot zwart",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-6000c-120-sh-faltschloss-schwarz",
           "price": 114.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bagagedragerstas CITY 8+16 RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragertasche-city-8-16-rilink",
-          "price": 88.99,
           "currency": "EUR"
         },
         {
@@ -291,7 +277,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-12T03:49:56.730Z"
+      "scrapedAt": "2026-09-12T10:20:54.806Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +285,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-12T03:49:55.301Z"
+      "scrapedAt": "2026-09-12T10:20:52.669Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +293,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-12T03:50:58.773Z"
+      "scrapedAt": "2026-09-12T10:21:56.373Z"
     }
   ]
 }
