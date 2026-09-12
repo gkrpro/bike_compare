@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T15:17:11.155Z",
+  "generatedAt": "2026-09-12T20:22:04.995Z",
   "totalItems": 41,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-12T15:16:12.305Z"
+      "scrapedAt": "2026-09-12T20:21:05.856Z"
     },
     {
       "shop": "Bikester",
@@ -109,13 +109,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Aim SLX FE (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-slx-fe-rustyrosenpeach",
-          "price": 799,
-          "currency": "EUR"
-        },
-        {
           "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
@@ -134,6 +127,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-pro-topasblue-n-blue",
           "price": 599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Touring Hybrid ONE 600 Diamant (2027) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-diamant-greyncoolgrey",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -291,7 +291,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-12T15:16:09.603Z"
+      "scrapedAt": "2026-09-12T20:21:02.655Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-12T15:16:07.525Z"
+      "scrapedAt": "2026-09-12T20:21:01.545Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-12T15:17:11.145Z"
+      "scrapedAt": "2026-09-12T20:22:04.985Z"
     }
   ]
 }
