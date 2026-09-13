@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T11:22:40.056Z",
-  "totalItems": 42,
+  "generatedAt": "2026-09-13T15:52:45.174Z",
+  "totalItems": 41,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-13T11:21:40.527Z"
+      "scrapedAt": "2026-09-13T15:51:46.203Z"
     },
     {
       "shop": "Bikester",
@@ -289,16 +289,9 @@
           "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
           "price": 92.99,
           "currency": "EUR"
-        },
-        {
-          "name": "Bagagedrager SIC 29\" RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
-          "price": 45.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-13T11:21:38.615Z"
+      "scrapedAt": "2026-09-13T15:51:42.960Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-13T11:21:36.374Z"
+      "scrapedAt": "2026-09-13T15:51:41.596Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-13T11:22:40.046Z"
+      "scrapedAt": "2026-09-13T15:52:45.166Z"
     }
   ]
 }
