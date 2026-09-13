@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T03:59:31.334Z",
-  "totalItems": 41,
+  "generatedAt": "2026-09-13T11:22:40.056Z",
+  "totalItems": 42,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
         }
       ],
-      "scrapedAt": "2026-09-13T03:58:32.222Z"
+      "scrapedAt": "2026-09-13T11:21:40.527Z"
     },
     {
       "shop": "Bikester",
@@ -99,6 +99,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
           "price": 2999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
+          "price": 1999,
           "currency": "EUR"
         },
         {
@@ -186,10 +193,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "price": 1099,
           "currency": "EUR"
         },
         {
@@ -207,17 +214,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -249,6 +256,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Dynamo-koplamp IQ-XL Highbeam",
+          "brand": "Busch + Müller",
+          "url": "https://www.bikester.be/products/busch-muller-dynamo-scheinwerfer-iq-xl-highbeam",
+          "price": 214.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Bordo Combo 6000C/120 SH vouwslot zwart",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-6000c-120-sh-faltschloss-schwarz",
@@ -277,21 +291,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura Micro Set USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
-          "price": 24.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Tresor 1385 kettingslot",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
-          "price": 42.99,
+          "name": "Bagagedrager SIC 29\" RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktrager-sic-29-rilink",
+          "price": 45.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-13T03:58:28.848Z"
+      "scrapedAt": "2026-09-13T11:21:38.615Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-13T03:58:27.809Z"
+      "scrapedAt": "2026-09-13T11:21:36.374Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-13T03:59:31.326Z"
+      "scrapedAt": "2026-09-13T11:22:40.046Z"
     }
   ]
 }
