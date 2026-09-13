@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T15:52:45.174Z",
+  "generatedAt": "2026-09-13T20:32:32.789Z",
   "totalItems": 41,
   "shops": [
     {
@@ -39,7 +39,7 @@
         },
         {
           "name": "Colnago V4",
-          "price": 5200,
+          "price": 4160,
           "currency": "EUR",
           "url": "https://www.cycloviastore.com/shop/colnago-v4/"
         },
@@ -56,31 +56,31 @@
           "url": "https://www.cycloviastore.com/shop/colnago-y1rs/"
         },
         {
-          "name": "Wilier Adlar",
-          "price": 3500,
+          "name": "Superior RR 9.5",
+          "price": 2899,
           "currency": "EUR",
-          "url": "https://www.cycloviastore.com/shop/wilier-adlar/"
+          "url": "https://www.cycloviastore.com/shop/wilier-0sl-copie-1/"
         },
         {
-          "name": "Wilier Filante SLR",
-          "price": 9360,
+          "name": "Superior RR 9.6",
+          "price": 3799,
           "currency": "EUR",
-          "url": "https://www.cycloviastore.com/shop/wilier-0sl-copie/"
+          "url": "https://www.cycloviastore.com/shop/superior-rr-9-6/"
         },
         {
-          "name": "Wilier Garda",
-          "price": 2600,
+          "name": "Superior XP 9.2",
+          "price": 2429,
           "currency": "EUR",
-          "url": "https://www.cycloviastore.com/shop/wilier-garda/"
+          "url": "https://www.cycloviastore.com/shop/superior-xp-9-2/"
         },
         {
-          "name": "Wilier Granturismo SLR",
-          "price": 8160,
+          "name": "Superior XR 9.5 GF",
+          "price": 3299,
           "currency": "EUR",
-          "url": "https://www.cycloviastore.com/shop/wilier-granturismo-slr/"
+          "url": "https://www.cycloviastore.com/shop/superior-xr-9-5-gr-copie/"
         }
       ],
-      "scrapedAt": "2026-09-13T15:51:46.203Z"
+      "scrapedAt": "2026-09-13T20:31:33.947Z"
     },
     {
       "shop": "Bikester",
@@ -291,7 +291,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-13T15:51:42.960Z"
+      "scrapedAt": "2026-09-13T20:31:30.888Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-13T15:51:41.596Z"
+      "scrapedAt": "2026-09-13T20:31:29.268Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-13T15:52:45.166Z"
+      "scrapedAt": "2026-09-13T20:32:32.778Z"
     }
   ]
 }
