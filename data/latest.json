@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T12:15:09.527Z",
-  "totalItems": 42,
+  "generatedAt": "2026-09-14T21:40:20.121Z",
+  "totalItems": 38,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -8,32 +8,20 @@
       "ok": true,
       "items": [
         {
-          "name": "Cervélo Áspero",
-          "price": 4899,
-          "currency": "EUR",
-          "url": "https://www.cycloviastore.com/shop/cervelo-aspero/"
-        },
-        {
           "name": "Cervélo Caledonia 5",
-          "price": 7499,
+          "price": 5950,
           "currency": "EUR",
           "url": "https://www.cycloviastore.com/shop/cervelo-s5-copie/"
         },
         {
           "name": "Cervélo S5",
-          "price": 9999,
+          "price": 8999,
           "currency": "EUR",
           "url": "https://www.cycloviastore.com/shop/colnago-v4rs-copie/"
         },
         {
-          "name": "Colnago C68 Road",
-          "price": 10200,
-          "currency": "EUR",
-          "url": "https://www.cycloviastore.com/shop/colnagoc68road/"
-        },
-        {
           "name": "Colnago G4-X",
-          "price": 4330,
+          "price": 5440,
           "currency": "EUR",
           "url": "https://www.cycloviastore.com/shop/colnago-g4x/"
         },
@@ -44,43 +32,31 @@
           "url": "https://www.cycloviastore.com/shop/colnago-v4/"
         },
         {
-          "name": "Colnago V4Rs",
-          "price": 9090,
-          "currency": "EUR",
-          "url": "https://www.cycloviastore.com/shop/colnago-c68-road-copie/"
-        },
-        {
           "name": "Colnago Y1Rs",
           "price": 16200,
           "currency": "EUR",
           "url": "https://www.cycloviastore.com/shop/colnago-y1rs/"
         },
         {
-          "name": "Superior RR 9.5",
-          "price": 2899,
+          "name": "Wilier Filante SLR",
+          "price": 6999,
           "currency": "EUR",
-          "url": "https://www.cycloviastore.com/shop/wilier-0sl-copie-1/"
+          "url": "https://www.cycloviastore.com/shop/wilier-0sl-copie/"
         },
         {
-          "name": "Superior RR 9.6",
-          "price": 3799,
+          "name": "Wilier Garda",
+          "price": 2080,
           "currency": "EUR",
-          "url": "https://www.cycloviastore.com/shop/superior-rr-9-6/"
+          "url": "https://www.cycloviastore.com/shop/wilier-garda/"
         },
         {
-          "name": "Superior XP 9.2",
-          "price": 2429,
+          "name": "Wilier Rave SLR ID2",
+          "price": 7800,
           "currency": "EUR",
-          "url": "https://www.cycloviastore.com/shop/superior-xp-9-2/"
-        },
-        {
-          "name": "Superior XR 9.5 GF",
-          "price": 3299,
-          "currency": "EUR",
-          "url": "https://www.cycloviastore.com/shop/superior-xr-9-5-gr-copie/"
+          "url": "https://www.cycloviastore.com/shop/wilier-rave-sl-copie/"
         }
       ],
-      "scrapedAt": "2026-09-14T12:14:09.989Z"
+      "scrapedAt": "2026-09-14T21:39:20.460Z"
     },
     {
       "shop": "Bikester",
@@ -130,17 +106,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Aim Pro (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-pro-topasblue-n-blue",
-          "price": 599,
-          "currency": "EUR"
-        },
-        {
           "name": "Touring Hybrid ONE 600 Diamant (2027) | Trekking E-bike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-diamant-greyncoolgrey",
           "price": 2599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Stereo Hybrid ONE22 SLX 800 FE (2027)  | 29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one22-slx-800-fe-silverdust-n-chrome",
+          "price": 4399,
           "currency": "EUR"
         },
         {
@@ -235,7 +211,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo 6000K/90 Vouwslot + Houder SH",
+          "name": "Bordo 6000K/90 vouwslot + houder SH",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
           "price": 85.99,
@@ -298,7 +274,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-14T12:14:08.137Z"
+      "scrapedAt": "2026-09-14T21:39:18.643Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +282,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-14T12:14:05.957Z"
+      "scrapedAt": "2026-09-14T21:39:16.788Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +290,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-14T12:15:09.518Z"
+      "scrapedAt": "2026-09-14T21:40:20.110Z"
     }
   ]
 }
