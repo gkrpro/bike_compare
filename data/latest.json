@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T20:32:32.789Z",
-  "totalItems": 41,
+  "generatedAt": "2026-09-14T04:07:07.554Z",
+  "totalItems": 42,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/superior-xr-9-5-gr-copie/"
         }
       ],
-      "scrapedAt": "2026-09-13T20:31:33.947Z"
+      "scrapedAt": "2026-09-14T04:06:08.103Z"
     },
     {
       "shop": "Bikester",
@@ -289,9 +289,16 @@
           "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
           "price": 92.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Tresor 1385 kettingslot",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
+          "price": 42.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-13T20:31:30.888Z"
+      "scrapedAt": "2026-09-14T04:06:05.551Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-13T20:31:29.268Z"
+      "scrapedAt": "2026-09-14T04:06:04.004Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-13T20:32:32.778Z"
+      "scrapedAt": "2026-09-14T04:07:07.546Z"
     }
   ]
 }
