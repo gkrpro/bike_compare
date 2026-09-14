@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T04:07:07.554Z",
+  "generatedAt": "2026-09-14T11:13:30.267Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/superior-xr-9-5-gr-copie/"
         }
       ],
-      "scrapedAt": "2026-09-14T04:06:08.103Z"
+      "scrapedAt": "2026-09-14T11:12:30.440Z"
     },
     {
       "shop": "Bikester",
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-14T04:06:05.551Z"
+      "scrapedAt": "2026-09-14T11:12:27.787Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-14T04:06:04.004Z"
+      "scrapedAt": "2026-09-14T11:12:27.181Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-14T04:07:07.546Z"
+      "scrapedAt": "2026-09-14T11:13:30.259Z"
     }
   ]
 }
