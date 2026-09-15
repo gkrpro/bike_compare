@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-15T16:36:21.572Z",
-  "totalItems": 38,
+  "generatedAt": "2026-09-15T21:02:12.506Z",
+  "totalItems": 41,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -44,19 +44,43 @@
           "url": "https://www.cycloviastore.com/shop/wilier-0sl-copie/"
         },
         {
+          "name": "Wilier Filante SLR ID2",
+          "price": 11500,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie/"
+        },
+        {
           "name": "Wilier Garda",
           "price": 2080,
           "currency": "EUR",
           "url": "https://www.cycloviastore.com/shop/wilier-garda/"
         },
         {
+          "name": "Wilier Rapida",
+          "price": 3999,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/wilier-garda-copie/"
+        },
+        {
           "name": "Wilier Rave SLR ID2",
           "price": 7800,
           "currency": "EUR",
           "url": "https://www.cycloviastore.com/shop/wilier-rave-sl-copie/"
+        },
+        {
+          "name": "Wilier Rave SLR ID2",
+          "price": 10300,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/wilier-rave-sl-copie-1/"
+        },
+        {
+          "name": "Wilier Verticale SLR",
+          "price": 6715,
+          "currency": "EUR",
+          "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-15T16:35:21.591Z"
+      "scrapedAt": "2026-09-15T21:01:13.244Z"
     },
     {
       "shop": "Bikester",
@@ -253,13 +277,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Verlichtingsset PRO 30",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
-          "price": 32.99,
-          "currency": "EUR"
-        },
-        {
           "name": "PCS-10.3 montagestandaard",
           "brand": "Park Tool",
           "url": "https://www.bikester.be/products/park-tool-pcs-10-3-montagestander",
@@ -274,7 +291,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-15T16:35:19.617Z"
+      "scrapedAt": "2026-09-15T21:01:10.340Z"
     },
     {
       "shop": "Bike24",
@@ -282,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-15T16:35:17.883Z"
+      "scrapedAt": "2026-09-15T21:01:08.938Z"
     },
     {
       "shop": "Decathlon",
@@ -290,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-15T16:36:21.564Z"
+      "scrapedAt": "2026-09-15T21:02:12.493Z"
     }
   ]
 }
