@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T04:06:13.251Z",
+  "generatedAt": "2026-09-15T11:24:23.680Z",
   "totalItems": 38,
   "shops": [
     {
@@ -56,7 +56,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-rave-sl-copie/"
         }
       ],
-      "scrapedAt": "2026-09-15T04:05:13.639Z"
+      "scrapedAt": "2026-09-15T11:23:23.239Z"
     },
     {
       "shop": "Bikester",
@@ -92,6 +92,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
+          "price": 4099,
+          "currency": "EUR"
+        },
+        {
           "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
@@ -106,17 +113,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Touring Hybrid ONE 600 Diamant (2027) | Trekking E-bike",
+          "name": "Kathmandu Hybrid ONE 800 Diamant (2027) | Trekking E-Bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-diamant-greyncoolgrey",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Stereo Hybrid ONE22 SLX 800 FE (2027)  | 29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one22-slx-800-fe-silverdust-n-chrome",
-          "price": 4399,
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one-800-diamant-cedern-chrome",
+          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -148,10 +148,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
-          "price": 1099,
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
+          "price": 1999,
           "currency": "EUR"
         },
         {
@@ -162,17 +162,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "price": 1099,
+          "currency": "EUR"
+        },
+        {
           "name": "Gravix TWO (2026) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
           "price": 869,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
-          "price": 1099,
           "currency": "EUR"
         },
         {
@@ -211,13 +211,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo 6000K/90 vouwslot + houder SH",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
-          "price": 85.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 100 verlichtingsset incl. Blaze Link",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
@@ -225,31 +218,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Bordo 6000K/90 vouwslot + houder SH",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
+          "price": 85.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Bordo Granit 6500K/120 SH vouwslot",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
           "price": 139.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Dynamo-koplamp IQ-XL Highbeam",
-          "brand": "Busch + Müller",
-          "url": "https://www.bikester.be/products/busch-muller-dynamo-scheinwerfer-iq-xl-highbeam",
-          "price": 214.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bordo Combo 6000C/120 SH vouwslot zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-6000c-120-sh-faltschloss-schwarz",
-          "price": 114.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Verlichtingsset TOUR 90 USB",
-          "brand": "RFR",
-          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
-          "price": 39.99,
           "currency": "EUR"
         },
         {
@@ -267,14 +246,35 @@
           "currency": "EUR"
         },
         {
+          "name": "Dynamo-koplamp IQ-XL Highbeam",
+          "brand": "Busch + Müller",
+          "url": "https://www.bikester.be/products/busch-muller-dynamo-scheinwerfer-iq-xl-highbeam",
+          "price": 214.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "PCS-10.3 montagestandaard",
+          "brand": "Park Tool",
+          "url": "https://www.bikester.be/products/park-tool-pcs-10-3-montagestander",
+          "price": 269.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Tresor 1385 kettingslot",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
           "price": 42.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Aura 30/Curve verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
+          "price": 19.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-15T04:05:10.927Z"
+      "scrapedAt": "2026-09-15T11:23:21.738Z"
     },
     {
       "shop": "Bike24",
@@ -282,7 +282,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-15T04:05:09.725Z"
+      "scrapedAt": "2026-09-15T11:23:20.239Z"
     },
     {
       "shop": "Decathlon",
@@ -290,7 +290,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-15T04:06:13.242Z"
+      "scrapedAt": "2026-09-15T11:24:23.673Z"
     }
   ]
 }
