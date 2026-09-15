@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:24:23.680Z",
+  "generatedAt": "2026-09-15T16:36:21.572Z",
   "totalItems": 38,
   "shops": [
     {
@@ -56,7 +56,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-rave-sl-copie/"
         }
       ],
-      "scrapedAt": "2026-09-15T11:23:23.239Z"
+      "scrapedAt": "2026-09-15T16:35:21.591Z"
     },
     {
       "shop": "Bikester",
@@ -85,13 +85,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
           "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
@@ -117,6 +110,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one-800-diamant-cedern-chrome",
           "price": 3199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aim Pro (2027) | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-pro-topasblue-n-blue",
+          "price": 599,
           "currency": "EUR"
         },
         {
@@ -253,6 +253,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Verlichtingsset PRO 30",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
+          "price": 32.99,
+          "currency": "EUR"
+        },
+        {
           "name": "PCS-10.3 montagestandaard",
           "brand": "Park Tool",
           "url": "https://www.bikester.be/products/park-tool-pcs-10-3-montagestander",
@@ -265,16 +272,9 @@
           "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
           "price": 42.99,
           "currency": "EUR"
-        },
-        {
-          "name": "Aura 30/Curve verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
-          "price": 19.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-15T11:23:21.738Z"
+      "scrapedAt": "2026-09-15T16:35:19.617Z"
     },
     {
       "shop": "Bike24",
@@ -282,7 +282,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-15T11:23:20.239Z"
+      "scrapedAt": "2026-09-15T16:35:17.883Z"
     },
     {
       "shop": "Decathlon",
@@ -290,7 +290,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-15T11:24:23.673Z"
+      "scrapedAt": "2026-09-15T16:36:21.564Z"
     }
   ]
 }
