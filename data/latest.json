@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T21:40:20.121Z",
+  "generatedAt": "2026-09-15T04:06:13.251Z",
   "totalItems": 38,
   "shops": [
     {
@@ -56,7 +56,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-rave-sl-copie/"
         }
       ],
-      "scrapedAt": "2026-09-14T21:39:20.460Z"
+      "scrapedAt": "2026-09-15T04:05:13.639Z"
     },
     {
       "shop": "Bikester",
@@ -274,7 +274,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-14T21:39:18.643Z"
+      "scrapedAt": "2026-09-15T04:05:10.927Z"
     },
     {
       "shop": "Bike24",
@@ -282,7 +282,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-14T21:39:16.788Z"
+      "scrapedAt": "2026-09-15T04:05:09.725Z"
     },
     {
       "shop": "Decathlon",
@@ -290,7 +290,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-14T21:40:20.110Z"
+      "scrapedAt": "2026-09-15T04:06:13.242Z"
     }
   ]
 }
