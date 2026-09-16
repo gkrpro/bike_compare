@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T04:03:00.891Z",
-  "totalItems": 42,
+  "generatedAt": "2026-09-16T11:08:37.763Z",
+  "totalItems": 41,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-16T04:02:01.196Z"
+      "scrapedAt": "2026-09-16T11:07:39.029Z"
     },
     {
       "shop": "Bikester",
@@ -95,17 +95,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
-          "price": 2999,
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "name": "Nulane Hybrid C:62 Race 400X FE (2027) | Stad E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
-          "price": 1999,
+          "url": "https://www.bikester.be/products/cube-nulane-hybrid-c62-race-400x-fe-seagreynblack",
+          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -165,23 +165,23 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
-          "price": 1999,
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
           "currency": "EUR"
         },
         {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
           "currency": "EUR"
         },
@@ -193,10 +193,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
-          "price": 1099,
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -207,17 +207,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix TWO (2026) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 869,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix TWO (2026) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
+          "price": 869,
           "currency": "EUR"
         },
         {
@@ -235,13 +235,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 100 verlichtingsset incl. Blaze Link",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
-          "price": 75.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bordo 6000K/90 vouwslot + houder SH",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
@@ -249,10 +242,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Aura 100 verlichtingsset incl. Blaze Link",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
+          "price": 75.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Bordo Granit 6500K/120 SH vouwslot",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
           "price": 139.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "PCS-10.3 montagestandaard",
+          "brand": "Park Tool",
+          "url": "https://www.bikester.be/products/park-tool-pcs-10-3-montagestander",
+          "price": 269.99,
           "currency": "EUR"
         },
         {
@@ -270,17 +277,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Dynamo-koplamp IQ-XL Highbeam",
-          "brand": "Busch + Müller",
-          "url": "https://www.bikester.be/products/busch-muller-dynamo-scheinwerfer-iq-xl-highbeam",
-          "price": 214.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "PCS-10.3 montagestandaard",
-          "brand": "Park Tool",
-          "url": "https://www.bikester.be/products/park-tool-pcs-10-3-montagestander",
-          "price": 269.99,
+          "name": "Aura 30/Curve verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
+          "price": 19.99,
           "currency": "EUR"
         },
         {
@@ -289,16 +289,9 @@
           "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
           "price": 42.99,
           "currency": "EUR"
-        },
-        {
-          "name": "Aura 30/Curve verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
-          "price": 19.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-16T04:01:58.796Z"
+      "scrapedAt": "2026-09-16T11:07:36.029Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-16T04:01:57.319Z"
+      "scrapedAt": "2026-09-16T11:07:34.282Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-16T04:03:00.880Z"
+      "scrapedAt": "2026-09-16T11:08:37.755Z"
     }
   ]
 }
