@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T04:09:36.984Z",
+  "generatedAt": "2026-09-17T11:18:07.829Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-17T04:08:37.496Z"
+      "scrapedAt": "2026-09-17T11:17:09.299Z"
     },
     {
       "shop": "Bikester",
@@ -102,13 +102,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Nulane Hybrid C:62 Race 400X FE (2027) | Stad E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nulane-hybrid-c62-race-400x-fe-seagreynblack",
-          "price": 3199,
-          "currency": "EUR"
-        },
-        {
           "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-blackline",
@@ -120,6 +113,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
           "price": 2999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Acid 240 Disc FE (2027)  | 24 inch jeugd-/kinder-MTB",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-acid-240-disc-fe-lizard-n-blue",
+          "price": 499,
           "currency": "EUR"
         },
         {
@@ -137,10 +137,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Acid 240 Disc FE (2027)  | 24 inch jeugd-/kinder-MTB",
+          "name": "Kathmandu Hybrid ONE 800 Diamant (2027) | Trekking E-Bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-240-disc-fe-lizard-n-blue",
-          "price": 499,
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one-800-diamant-cedern-chrome",
+          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -235,13 +235,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo 6000K/90 vouwslot + houder SH",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
-          "price": 85.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 100 verlichtingsset incl. Blaze Link",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
@@ -249,10 +242,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo Granit 6500K/120 SH vouwslot",
+          "name": "Bordo 6000K/90 vouwslot + houder SH",
           "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
-          "price": 139.99,
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
+          "price": 85.99,
           "currency": "EUR"
         },
         {
@@ -263,17 +256,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Bordo Granit 6500K/120 SH vouwslot",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
+          "price": 139.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Aura 80/Blaze USB verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
           "price": 60.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "CityChain 1010/85 kettingslot zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
-          "price": 92.99,
           "currency": "EUR"
         },
         {
@@ -284,21 +277,28 @@
           "currency": "EUR"
         },
         {
+          "name": "CityChain 1010/85 kettingslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
+          "price": 92.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura Micro Set USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
+          "price": 24.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Tresor 1385 kettingslot",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
           "price": 42.99,
           "currency": "EUR"
-        },
-        {
-          "name": "Iven Chain 8210/85 Kettingslot zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-iven-chain-8210-85-kettenschloss-schwarz",
-          "price": 64.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-17T04:08:35.162Z"
+      "scrapedAt": "2026-09-17T11:17:06.036Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-17T04:08:33.305Z"
+      "scrapedAt": "2026-09-17T11:17:04.285Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-17T04:09:36.973Z"
+      "scrapedAt": "2026-09-17T11:18:07.819Z"
     }
   ]
 }
