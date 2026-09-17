@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T11:18:07.829Z",
-  "totalItems": 42,
+  "generatedAt": "2026-09-17T16:34:55.835Z",
+  "totalItems": 40,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,20 +80,13 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-17T11:17:09.299Z"
+      "scrapedAt": "2026-09-17T16:33:57.026Z"
     },
     {
       "shop": "Bikester",
       "sourceUrl": "https://www.bikester.be/",
       "ok": true,
       "items": [
-        {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
-          "price": 1999,
-          "currency": "EUR"
-        },
         {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
@@ -155,13 +148,6 @@
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-al-blue",
           "price": 699,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
-          "price": 1999,
           "currency": "EUR"
         },
         {
@@ -242,14 +228,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo 6000K/90 vouwslot + houder SH",
+          "name": "Bordo 6000K/90 Vouwslot + Houder SH",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
           "price": 85.99,
           "currency": "EUR"
         },
         {
-          "name": "PCS-10.3 montagestandaard",
+          "name": "PCS-10.3 Montagebok",
           "brand": "Park Tool",
           "url": "https://www.bikester.be/products/park-tool-pcs-10-3-montagestander",
           "price": 269.99,
@@ -298,7 +284,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-17T11:17:06.036Z"
+      "scrapedAt": "2026-09-17T16:33:53.965Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +292,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-17T11:17:04.285Z"
+      "scrapedAt": "2026-09-17T16:33:52.251Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +300,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-17T11:18:07.819Z"
+      "scrapedAt": "2026-09-17T16:34:55.823Z"
     }
   ]
 }
