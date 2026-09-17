@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T16:34:55.835Z",
-  "totalItems": 40,
+  "generatedAt": "2026-09-17T21:07:19.245Z",
+  "totalItems": 41,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-17T16:33:57.026Z"
+      "scrapedAt": "2026-09-17T21:06:20.553Z"
     },
     {
       "shop": "Bikester",
@@ -99,6 +99,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-blackline",
           "price": 4999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nulane Hybrid C:62 Race 400X FE (2027) | Stad E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nulane-hybrid-c62-race-400x-fe-seagreynblack",
+          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -284,7 +291,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-17T16:33:53.965Z"
+      "scrapedAt": "2026-09-17T21:06:16.875Z"
     },
     {
       "shop": "Bike24",
@@ -292,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-17T16:33:52.251Z"
+      "scrapedAt": "2026-09-17T21:06:15.762Z"
     },
     {
       "shop": "Decathlon",
@@ -300,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-17T16:34:55.823Z"
+      "scrapedAt": "2026-09-17T21:07:19.237Z"
     }
   ]
 }
