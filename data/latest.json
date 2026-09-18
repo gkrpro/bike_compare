@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T03:55:33.670Z",
-  "totalItems": 41,
+  "generatedAt": "2026-09-18T10:51:11.056Z",
+  "totalItems": 42,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,20 +80,13 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-18T03:54:34.583Z"
+      "scrapedAt": "2026-09-18T10:50:11.839Z"
     },
     {
       "shop": "Bikester",
       "sourceUrl": "https://www.bikester.be/",
       "ok": true,
       "items": [
-        {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
-          "currency": "EUR"
-        },
         {
           "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
@@ -102,10 +95,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nulane Hybrid C:62 Race 400X FE (2027) | Stad E-bike",
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nulane-hybrid-c62-race-400x-fe-seagreynblack",
-          "price": 3199,
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -144,17 +137,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Acid 260 Disc (2027)  | 26 inch jeugd-/kinder-MTB",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-acid-260-disc-actionteam-2025",
+          "price": 499,
+          "currency": "EUR"
+        },
+        {
           "name": "Rove ST MicroShift (2025) | Gravelbike",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-st-microshift-black",
-          "price": 949,
+          "price": 849,
           "currency": "EUR"
         },
         {
           "name": "Rove AL (2026) | Gravelbike",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-al-blue",
-          "price": 699,
+          "price": 629,
           "currency": "EUR"
         },
         {
@@ -162,20 +162,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
           "price": 2599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
-          "price": 1099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
-          "price": 1999,
           "currency": "EUR"
         },
         {
@@ -188,6 +174,13 @@
         {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
           "currency": "EUR"
@@ -196,7 +189,14 @@
           "name": "Gravix TWO (2026) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 869,
+          "price": 779,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -217,7 +217,7 @@
           "name": "Gravix TWO (2026) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 869,
+          "price": 779,
           "currency": "EUR"
         },
         {
@@ -289,9 +289,16 @@
           "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
           "price": 42.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Verlichtingsset TOUR 90 USB",
+          "brand": "RFR",
+          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
+          "price": 39.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-18T03:54:31.378Z"
+      "scrapedAt": "2026-09-18T10:50:09.547Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-18T03:54:30.304Z"
+      "scrapedAt": "2026-09-18T10:50:07.465Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-18T03:55:33.661Z"
+      "scrapedAt": "2026-09-18T10:51:11.048Z"
     }
   ]
 }
