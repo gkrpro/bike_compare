@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T21:07:19.245Z",
+  "generatedAt": "2026-09-18T03:55:33.670Z",
   "totalItems": 41,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-17T21:06:20.553Z"
+      "scrapedAt": "2026-09-18T03:54:34.583Z"
     },
     {
       "shop": "Bikester",
@@ -172,6 +172,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 EX (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
@@ -242,13 +249,6 @@
           "currency": "EUR"
         },
         {
-          "name": "PCS-10.3 Montagebok",
-          "brand": "Park Tool",
-          "url": "https://www.bikester.be/products/park-tool-pcs-10-3-montagestander",
-          "price": 269.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bordo Granit 6500K/120 SH vouwslot",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
@@ -291,7 +291,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-17T21:06:16.875Z"
+      "scrapedAt": "2026-09-18T03:54:31.378Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-17T21:06:15.762Z"
+      "scrapedAt": "2026-09-18T03:54:30.304Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-17T21:07:19.237Z"
+      "scrapedAt": "2026-09-18T03:55:33.661Z"
     }
   ]
 }
