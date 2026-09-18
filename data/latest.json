@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:51:11.056Z",
+  "generatedAt": "2026-09-18T16:06:21.852Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-18T10:50:11.839Z"
+      "scrapedAt": "2026-09-18T16:05:22.812Z"
     },
     {
       "shop": "Bikester",
@@ -130,17 +130,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Kathmandu Hybrid Pro 800 Diamant (2027) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-coal-n-black",
+          "price": 3599,
+          "currency": "EUR"
+        },
+        {
           "name": "Kathmandu Hybrid ONE 800 Diamant (2027) | Trekking E-Bike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one-800-diamant-cedern-chrome",
           "price": 3199,
-          "currency": "EUR"
-        },
-        {
-          "name": "Acid 260 Disc (2027)  | 26 inch jeugd-/kinder-MTB",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-260-disc-actionteam-2025",
-          "price": 499,
           "currency": "EUR"
         },
         {
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-18T10:50:09.547Z"
+      "scrapedAt": "2026-09-18T16:05:19.265Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-18T10:50:07.465Z"
+      "scrapedAt": "2026-09-18T16:05:18.391Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-18T10:51:11.048Z"
+      "scrapedAt": "2026-09-18T16:06:21.841Z"
     }
   ]
 }
