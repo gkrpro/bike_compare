@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T10:34:49.476Z",
+  "generatedAt": "2026-09-19T15:39:04.482Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-19T10:33:50.202Z"
+      "scrapedAt": "2026-09-19T15:38:05.110Z"
     },
     {
       "shop": "Bikester",
@@ -242,7 +242,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo 6000K/90 Vouwslot + Houder SH",
+          "name": "Bordo 6000K/90 vouwslot + houder SH",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
           "price": 85.99,
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-19T10:33:47.805Z"
+      "scrapedAt": "2026-09-19T15:38:01.977Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-19T10:33:45.940Z"
+      "scrapedAt": "2026-09-19T15:38:00.840Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-19T10:34:49.466Z"
+      "scrapedAt": "2026-09-19T15:39:04.474Z"
     }
   ]
 }
