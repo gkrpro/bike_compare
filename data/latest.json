@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T03:52:30.366Z",
+  "generatedAt": "2026-09-19T10:34:49.476Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-19T03:51:31.441Z"
+      "scrapedAt": "2026-09-19T10:33:50.202Z"
     },
     {
       "shop": "Bikester",
@@ -95,13 +95,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
           "name": "Nuroad C:62 EX (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
@@ -109,17 +102,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
+          "currency": "EUR"
+        },
+        {
           "name": "Acid 240 Disc FE (2027)  | 24 inch jeugd-/kinder-MTB",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-acid-240-disc-fe-lizard-n-blue",
           "price": 499,
-          "currency": "EUR"
-        },
-        {
-          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
-          "price": 4099,
           "currency": "EUR"
         },
         {
@@ -144,6 +137,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
+          "price": 4099,
+          "currency": "EUR"
+        },
+        {
           "name": "Rove ST MicroShift (2025) | Gravelbike",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-st-microshift-black",
@@ -158,13 +158,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
           "name": "Nuroad C:62 EX (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
@@ -172,10 +165,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
-          "price": 1099,
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -225,6 +218,13 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
           "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "price": 1099,
           "currency": "EUR"
         },
         {
@@ -270,13 +270,6 @@
           "currency": "EUR"
         },
         {
-          "name": "CityChain 1010/85 kettingslot zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
-          "price": 92.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura Micro Set USB verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
@@ -284,10 +277,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Tresor 1385 kettingslot",
+          "name": "CityChain 1010/85 kettingslot zwart",
           "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
-          "price": 42.99,
+          "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
+          "price": 92.99,
           "currency": "EUR"
         },
         {
@@ -296,9 +289,16 @@
           "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
           "price": 39.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Tresor 1385 kettingslot",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
+          "price": 42.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-19T03:51:28.198Z"
+      "scrapedAt": "2026-09-19T10:33:47.805Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-19T03:51:26.972Z"
+      "scrapedAt": "2026-09-19T10:33:45.940Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-19T03:52:30.356Z"
+      "scrapedAt": "2026-09-19T10:34:49.466Z"
     }
   ]
 }
