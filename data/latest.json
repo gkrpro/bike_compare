@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T04:09:14.581Z",
+  "generatedAt": "2026-09-20T10:57:27.043Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-20T04:08:14.802Z"
+      "scrapedAt": "2026-09-20T10:56:28.021Z"
     },
     {
       "shop": "Bikester",
@@ -116,6 +116,20 @@
           "currency": "EUR"
         },
         {
+          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
+          "price": 4099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Race 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
+          "price": 3899,
+          "currency": "EUR"
+        },
+        {
           "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
@@ -123,24 +137,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Kathmandu Hybrid Pro 800 Diamant (2027) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-coal-n-black",
-          "price": 3599,
-          "currency": "EUR"
-        },
-        {
           "name": "Kathmandu Hybrid ONE 800 Diamant (2027) | Trekking E-Bike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one-800-diamant-cedern-chrome",
           "price": 3199,
-          "currency": "EUR"
-        },
-        {
-          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
-          "price": 4099,
           "currency": "EUR"
         },
         {
@@ -179,17 +179,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix TWO (2026) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 779,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
           "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix TWO (2026) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
+          "price": 779,
           "currency": "EUR"
         },
         {
@@ -207,17 +207,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix TWO (2026) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 779,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
           "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix TWO (2026) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
+          "price": 779,
           "currency": "EUR"
         },
         {
@@ -235,17 +235,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 100 verlichtingsset incl. Blaze Link",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
-          "price": 75.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bordo 6000K/90 vouwslot + houder SH",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
           "price": 85.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura 100 verlichtingsset incl. Blaze Link",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
+          "price": 75.99,
           "currency": "EUR"
         },
         {
@@ -263,17 +263,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 30/Curve verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
-          "price": 19.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura Micro Set USB verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
           "price": 24.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura 30/Curve verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
+          "price": 19.99,
           "currency": "EUR"
         },
         {
@@ -284,21 +284,21 @@
           "currency": "EUR"
         },
         {
-          "name": "Verlichtingsset TOUR 90 USB",
-          "brand": "RFR",
-          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
-          "price": 39.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Tresor 1385 kettingslot",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
           "price": 42.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Verlichtingsset TOUR 90 USB",
+          "brand": "RFR",
+          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
+          "price": 39.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-20T04:08:12.897Z"
+      "scrapedAt": "2026-09-20T10:56:24.587Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-20T04:08:10.987Z"
+      "scrapedAt": "2026-09-20T10:56:23.343Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-20T04:09:14.574Z"
+      "scrapedAt": "2026-09-20T10:57:27.031Z"
     }
   ]
 }
