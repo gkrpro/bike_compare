@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:17:58.871Z",
+  "generatedAt": "2026-09-20T04:09:14.581Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-19T20:16:59.679Z"
+      "scrapedAt": "2026-09-20T04:08:14.802Z"
     },
     {
       "shop": "Bikester",
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-19T20:16:57.130Z"
+      "scrapedAt": "2026-09-20T04:08:12.897Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-19T20:16:55.579Z"
+      "scrapedAt": "2026-09-20T04:08:10.987Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-19T20:17:58.862Z"
+      "scrapedAt": "2026-09-20T04:09:14.574Z"
     }
   ]
 }
