@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T04:06:27.629Z",
+  "generatedAt": "2026-09-21T11:24:29.269Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-21T04:05:28.140Z"
+      "scrapedAt": "2026-09-21T11:23:29.568Z"
     },
     {
       "shop": "Bikester",
@@ -130,10 +130,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
+          "name": "Stereo Hybrid ONE22 Pro 800 (2027) | 29 inch E-MTB Fully",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
-          "price": 599,
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one22-pro-800-slabgrey-n-chrome",
+          "price": 3699,
           "currency": "EUR"
         },
         {
@@ -291,14 +291,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Verlichtingsset TOUR 90 USB",
-          "brand": "RFR",
-          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
-          "price": 39.99,
+          "name": "Vouwslot BORDO™ 6000C",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-faltschloss-bordo-6000c-black",
+          "price": 89.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-21T04:05:25.679Z"
+      "scrapedAt": "2026-09-21T11:23:27.858Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-21T04:05:24.074Z"
+      "scrapedAt": "2026-09-21T11:23:25.748Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-21T04:06:27.622Z"
+      "scrapedAt": "2026-09-21T11:24:29.259Z"
     }
   ]
 }
