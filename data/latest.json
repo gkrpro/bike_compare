@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T21:50:54.867Z",
+  "generatedAt": "2026-09-22T04:04:02.323Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-21T21:49:55.207Z"
+      "scrapedAt": "2026-09-22T04:03:03.380Z"
     },
     {
       "shop": "Bikester",
@@ -123,13 +123,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Race 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
-          "price": 3899,
-          "currency": "EUR"
-        },
-        {
           "name": "Stereo Hybrid ONE44 Pro 800 (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-coal-n-black",
@@ -141,6 +134,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one22-pro-800-slabgrey-n-chrome",
           "price": 3699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kathmandu Hybrid ONE 800 Diamant (2027) | Trekking E-Bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one-800-diamant-cedern-chrome",
+          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -298,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-21T21:49:53.268Z"
+      "scrapedAt": "2026-09-22T04:03:00.037Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-21T21:49:51.282Z"
+      "scrapedAt": "2026-09-22T04:02:58.795Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-21T21:50:54.858Z"
+      "scrapedAt": "2026-09-22T04:04:02.316Z"
     }
   ]
 }
