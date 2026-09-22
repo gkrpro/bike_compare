@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22T11:14:21.296Z",
-  "totalItems": 42,
+  "generatedAt": "2026-09-22T16:36:33.404Z",
+  "totalItems": 41,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-22T11:13:22.830Z"
+      "scrapedAt": "2026-09-22T16:35:34.748Z"
     },
     {
       "shop": "Bikester",
@@ -137,7 +137,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Kathmandu Hybrid ONE 800 Diamant (2027) | Trekking E-Bike",
+          "name": "Kathmandu Hybrid ONE 800 Diamant (2027) | Trekking E-bike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one-800-diamant-cedern-chrome",
           "price": 3199,
@@ -154,7 +154,7 @@
           "name": "Rove AL (2026) | Gravelbike",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-al-blue",
-          "price": 629,
+          "price": 569,
           "currency": "EUR"
         },
         {
@@ -228,14 +228,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo 6000K/90 vouwslot + houder SH",
+          "name": "Bordo 6000K/90 Vouwslot + Houder SH",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
           "price": 85.99,
           "currency": "EUR"
         },
         {
-          "name": "Bordo Big 6000K/120 Vouwslot + Houder SH",
+          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
@@ -270,17 +270,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 30/Curve verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
-          "price": 19.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Tresor 1385 kettingslot",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
           "price": 42.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bordo Lite Mini 6055C/60 SH vouwslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-lite-mini-6055c-60-sh-faltschloss-schwarz",
+          "price": 59.99,
           "currency": "EUR"
         },
         {
@@ -289,16 +289,9 @@
           "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
           "price": 92.99,
           "currency": "EUR"
-        },
-        {
-          "name": "Verlichtingsset TOUR 90 USB",
-          "brand": "RFR",
-          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
-          "price": 39.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-22T11:13:19.645Z"
+      "scrapedAt": "2026-09-22T16:35:30.759Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-22T11:13:17.823Z"
+      "scrapedAt": "2026-09-22T16:35:29.844Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-22T11:14:21.288Z"
+      "scrapedAt": "2026-09-22T16:36:33.397Z"
     }
   ]
 }
