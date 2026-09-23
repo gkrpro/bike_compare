@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T04:00:20.869Z",
+  "generatedAt": "2026-09-23T11:05:59.728Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-23T03:59:21.820Z"
+      "scrapedAt": "2026-09-23T11:05:00.229Z"
     },
     {
       "shop": "Bikester",
@@ -172,6 +172,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Gravix TWO (2026) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
+          "price": 779,
+          "currency": "EUR"
+        },
+        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
@@ -183,13 +190,6 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix TWO (2026) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 779,
           "currency": "EUR"
         },
         {
@@ -200,6 +200,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Gravix TWO (2026) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
+          "price": 779,
+          "currency": "EUR"
+        },
+        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
@@ -211,13 +218,6 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix TWO (2026) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 779,
           "currency": "EUR"
         },
         {
@@ -249,13 +249,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo Granit 6500K/120 SH vouwslot",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
-          "price": 139.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 80/Blaze USB verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
@@ -270,17 +263,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Tresor 1385 kettingslot",
+          "name": "Bordo Granit 6500K/120 SH vouwslot",
           "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
-          "price": 42.99,
+          "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
+          "price": 139.99,
           "currency": "EUR"
         },
         {
-          "name": "Bordo Lite Mini 6055C/60 SH vouwslot zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-lite-mini-6055c-60-sh-faltschloss-schwarz",
-          "price": 59.99,
+          "name": "Sigma AURA 100 + HIRO 50 LINK verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-100-hiro-50-link-beleuchtungsset",
+          "price": 104.99,
           "currency": "EUR"
         },
         {
@@ -291,14 +284,21 @@
           "currency": "EUR"
         },
         {
-          "name": "Verlichtingsset TOUR 90 USB",
-          "brand": "RFR",
-          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
-          "price": 39.99,
+          "name": "Tresor 1385 kettingslot",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
+          "price": 42.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Vouwslot BORDO™ 6000C",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-faltschloss-bordo-6000c-black",
+          "price": 89.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-23T03:59:19.102Z"
+      "scrapedAt": "2026-09-23T11:04:57.463Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-23T03:59:17.392Z"
+      "scrapedAt": "2026-09-23T11:04:56.129Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-23T04:00:20.856Z"
+      "scrapedAt": "2026-09-23T11:05:59.719Z"
     }
   ]
 }
