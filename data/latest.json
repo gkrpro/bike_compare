@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T11:23:46.770Z",
-  "totalItems": 41,
+  "generatedAt": "2026-09-24T16:48:33.793Z",
+  "totalItems": 42,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-24T11:22:47.962Z"
+      "scrapedAt": "2026-09-24T16:47:34.430Z"
     },
     {
       "shop": "Bikester",
@@ -130,17 +130,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Aim Pro FE (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-pro-fe-topasblue-n-blue",
-          "price": 699,
-          "currency": "EUR"
-        },
-        {
           "name": "Kathmandu Hybrid ONE 800 Diamant (2027) | Trekking E-bike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one-800-diamant-cedern-chrome",
           "price": 3199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
+          "price": 599,
           "currency": "EUR"
         },
         {
@@ -270,7 +270,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Sigma AURA 100 + HIRO 50 LINK verlichtingsset",
+          "name": "E-Bike voorlicht PRO-E 200 High Beam X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-200-high-beam-x-connect-black",
+          "price": 139.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "AURA 100 + HIRO 50 LINK verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-100-hiro-50-link-beleuchtungsset",
           "price": 104.99,
@@ -291,7 +298,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-24T11:22:44.529Z"
+      "scrapedAt": "2026-09-24T16:47:31.861Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-24T11:22:43.334Z"
+      "scrapedAt": "2026-09-24T16:47:30.076Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-24T11:23:46.758Z"
+      "scrapedAt": "2026-09-24T16:48:33.783Z"
     }
   ]
 }
