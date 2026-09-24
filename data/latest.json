@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T03:54:41.194Z",
-  "totalItems": 42,
+  "generatedAt": "2026-09-24T11:23:46.770Z",
+  "totalItems": 41,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-24T03:53:41.535Z"
+      "scrapedAt": "2026-09-24T11:22:47.962Z"
     },
     {
       "shop": "Bikester",
@@ -102,6 +102,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 EX (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
@@ -113,13 +120,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
           "price": 4099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Stereo Hybrid ONE22 Pro 800 (2027) | 29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one22-pro-800-slabgrey-n-chrome",
-          "price": 3699,
           "currency": "EUR"
         },
         {
@@ -165,6 +165,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 EX (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
@@ -172,13 +179,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad EX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-ex-bubblegumnblack",
-          "price": 1299,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix TWO (2026) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
@@ -190,40 +190,40 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
           "price": 1199,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
-          "price": 1099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix TWO (2026) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 779,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
-          "price": 1099,
           "currency": "EUR"
         },
         {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix TWO (2026) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
+          "price": 779,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
           "currency": "EUR"
         },
@@ -289,16 +289,9 @@
           "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
           "price": 42.99,
           "currency": "EUR"
-        },
-        {
-          "name": "Vouwslot BORDO™ 6000C",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-faltschloss-bordo-6000c-black",
-          "price": 89.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-24T03:53:38.933Z"
+      "scrapedAt": "2026-09-24T11:22:44.529Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-24T03:53:37.979Z"
+      "scrapedAt": "2026-09-24T11:22:43.334Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-24T03:54:41.182Z"
+      "scrapedAt": "2026-09-24T11:23:46.758Z"
     }
   ]
 }
