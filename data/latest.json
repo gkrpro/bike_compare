@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:29:09.936Z",
+  "generatedAt": "2026-09-25T16:53:21.039Z",
   "totalItems": 41,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-25T11:28:10.438Z"
+      "scrapedAt": "2026-09-25T16:52:21.753Z"
     },
     {
       "shop": "Bikester",
@@ -270,6 +270,13 @@
           "currency": "EUR"
         },
         {
+          "name": "E-Bike voorlicht PRO-E 150 X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
+          "currency": "EUR"
+        },
+        {
           "name": "E-Bike voorlicht PRO-E 200 High Beam X-Connect zwart",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-200-high-beam-x-connect-black",
@@ -282,16 +289,9 @@
           "url": "https://www.bikester.be/products/sigma-aura-100-hiro-50-link-beleuchtungsset",
           "price": 104.99,
           "currency": "EUR"
-        },
-        {
-          "name": "Vouwslot BORDO™ 6000C",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-faltschloss-bordo-6000c-black",
-          "price": 89.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-25T11:28:08.369Z"
+      "scrapedAt": "2026-09-25T16:52:19.369Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-25T11:28:06.409Z"
+      "scrapedAt": "2026-09-25T16:52:17.521Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-25T11:29:09.925Z"
+      "scrapedAt": "2026-09-25T16:53:21.030Z"
     }
   ]
 }
