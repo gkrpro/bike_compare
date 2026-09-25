@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T04:09:44.971Z",
-  "totalItems": 42,
+  "generatedAt": "2026-09-25T11:29:09.936Z",
+  "totalItems": 41,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,20 +80,13 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-25T04:08:46.396Z"
+      "scrapedAt": "2026-09-25T11:28:10.438Z"
     },
     {
       "shop": "Bikester",
       "sourceUrl": "https://www.bikester.be/",
       "ok": true,
       "items": [
-        {
-          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-blackline",
-          "price": 4999,
-          "currency": "EUR"
-        },
         {
           "name": "Nuroad C:62 SLX (2027) | Gravelbike",
           "brand": "Cube",
@@ -116,17 +109,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
+          "name": "Supreme Hybrid Comfort Pro 600 Easy Entry (2027) | City E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
-          "price": 4099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
-          "price": 3399,
+          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-pro-600-easy-entry-burgundynclaret",
+          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -137,10 +123,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
-          "price": 599,
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
+          "price": 3399,
+          "currency": "EUR"
+        },
+        {
+          "name": "Touring Hybrid ONE 600 Diamant (2027) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-diamant-greyncoolgrey",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -263,6 +256,13 @@
           "currency": "EUR"
         },
         {
+          "name": "CityChain 1010/85 kettingslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
+          "price": 92.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Bordo Granit 6500K/120 SH vouwslot",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
@@ -284,21 +284,14 @@
           "currency": "EUR"
         },
         {
-          "name": "CityChain 1010/85 kettingslot zwart",
+          "name": "Vouwslot BORDO™ 6000C",
           "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
-          "price": 92.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Tresor 1385 kettingslot",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
-          "price": 42.99,
+          "url": "https://www.bikester.be/products/abus-faltschloss-bordo-6000c-black",
+          "price": 89.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-25T04:08:42.605Z"
+      "scrapedAt": "2026-09-25T11:28:08.369Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-25T04:08:41.476Z"
+      "scrapedAt": "2026-09-25T11:28:06.409Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-25T04:09:44.965Z"
+      "scrapedAt": "2026-09-25T11:29:09.925Z"
     }
   ]
 }
