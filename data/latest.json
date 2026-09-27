@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T16:41:19.467Z",
+  "generatedAt": "2026-09-27T21:07:05.323Z",
   "totalItems": 41,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-27T16:40:20.413Z"
+      "scrapedAt": "2026-09-27T21:06:05.916Z"
     },
     {
       "shop": "Bikester",
@@ -242,24 +242,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 80/Blaze USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
-          "price": 60.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura Micro Set USB verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
           "price": 24.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "E-Bike voorlicht PRO-E 200 High Beam X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-200-high-beam-x-connect-black",
-          "price": 139.99,
           "currency": "EUR"
         },
         {
@@ -289,9 +275,23 @@
           "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
           "price": 42.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Vouwslot BORDO™ 6000C",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-faltschloss-bordo-6000c-black",
+          "price": 89.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Verlichtingsset TOUR 90 USB",
+          "brand": "RFR",
+          "url": "https://www.bikester.be/products/rfr-beleuchtungsset-tour-90-usb",
+          "price": 39.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-27T16:40:17.329Z"
+      "scrapedAt": "2026-09-27T21:06:03.154Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-27T16:40:15.953Z"
+      "scrapedAt": "2026-09-27T21:06:01.842Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-27T16:41:19.459Z"
+      "scrapedAt": "2026-09-27T21:07:05.314Z"
     }
   ]
 }
