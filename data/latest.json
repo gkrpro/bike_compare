@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T20:50:36.826Z",
-  "totalItems": 40,
+  "generatedAt": "2026-09-27T04:29:46.947Z",
+  "totalItems": 41,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-26T20:49:37.798Z"
+      "scrapedAt": "2026-09-27T04:28:47.201Z"
     },
     {
       "shop": "Bikester",
@@ -282,9 +282,16 @@
           "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
           "price": 89.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Vouwslot BORDO™ 6000C",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-faltschloss-bordo-6000c-black",
+          "price": 89.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-26T20:49:35.085Z"
+      "scrapedAt": "2026-09-27T04:28:44.900Z"
     },
     {
       "shop": "Bike24",
@@ -292,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-26T20:49:33.378Z"
+      "scrapedAt": "2026-09-27T04:28:43.160Z"
     },
     {
       "shop": "Decathlon",
@@ -300,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-26T20:50:36.813Z"
+      "scrapedAt": "2026-09-27T04:29:46.940Z"
     }
   ]
 }
