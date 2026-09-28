@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T04:31:09.946Z",
+  "generatedAt": "2026-09-28T12:20:14.744Z",
   "totalItems": 41,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-28T04:30:11.255Z"
+      "scrapedAt": "2026-09-28T12:19:16.304Z"
     },
     {
       "shop": "Bikester",
@@ -113,6 +113,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-oldgroeynblack",
           "price": 4099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
+          "price": 3399,
           "currency": "EUR"
         },
         {
@@ -165,6 +172,20 @@
           "currency": "EUR"
         },
         {
+          "name": "Gravix TWO (2026) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
+          "price": 779,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 EX (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
@@ -172,23 +193,9 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix TWO (2026) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 779,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
           "currency": "EUR"
         },
@@ -204,19 +211,19 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
           "price": 1199,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
-          "price": 1099,
           "currency": "EUR"
         },
         {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
           "price": 1099,
           "currency": "EUR"
         },
@@ -246,13 +253,6 @@
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
           "price": 24.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bordo Granit 6500K/120 SH vouwslot",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
-          "price": 139.99,
           "currency": "EUR"
         },
         {
@@ -291,7 +291,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-28T04:30:07.824Z"
+      "scrapedAt": "2026-09-28T12:19:12.848Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-28T04:30:06.371Z"
+      "scrapedAt": "2026-09-28T12:19:11.077Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-28T04:31:09.940Z"
+      "scrapedAt": "2026-09-28T12:20:14.734Z"
     }
   ]
 }
