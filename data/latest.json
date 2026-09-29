@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:04:48.778Z",
+  "generatedAt": "2026-09-29T05:00:10.176Z",
   "totalItems": 41,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-28T23:03:49.388Z"
+      "scrapedAt": "2026-09-29T04:59:13.446Z"
     },
     {
       "shop": "Bikester",
@@ -179,17 +179,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 EX (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
+          "price": 2999,
           "currency": "EUR"
         },
         {
@@ -235,13 +235,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 80/Blaze USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
-          "price": 60.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 100 verlichtingsset incl. Blaze Link",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
@@ -253,6 +246,13 @@
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
           "price": 24.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura 80/Blaze USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
+          "price": 60.99,
           "currency": "EUR"
         },
         {
@@ -284,14 +284,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Iven Chain 8210/85 Kettingslot zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-iven-chain-8210-85-kettenschloss-schwarz",
-          "price": 64.99,
+          "name": "Fietsenstandaard FM",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
+          "price": 25.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-28T23:03:46.807Z"
+      "scrapedAt": "2026-09-29T04:59:08.444Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-28T23:03:45.211Z"
+      "scrapedAt": "2026-09-29T04:59:06.797Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-28T23:04:48.769Z"
+      "scrapedAt": "2026-09-29T05:00:10.166Z"
     }
   ]
 }
