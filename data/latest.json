@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T05:00:10.176Z",
+  "generatedAt": "2026-09-29T12:26:33.087Z",
   "totalItems": 41,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-29T04:59:13.446Z"
+      "scrapedAt": "2026-09-29T12:25:34.122Z"
     },
     {
       "shop": "Bikester",
@@ -102,24 +102,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
           "name": "Stereo Hybrid ONE44 HPC Pro 800 (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-oldgroeynblack",
           "price": 4099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
-          "price": 3399,
           "currency": "EUR"
         },
         {
@@ -130,10 +116,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Nuroad C:62 EX (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
+          "price": 2999,
+          "currency": "EUR"
+        },
+        {
           "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
           "price": 4099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Touring Hybrid ONE 600 Diamant (2027) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-diamant-greyncoolgrey",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -291,7 +291,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-29T04:59:08.444Z"
+      "scrapedAt": "2026-09-29T12:25:30.810Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +299,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-29T04:59:06.797Z"
+      "scrapedAt": "2026-09-29T12:25:29.437Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +307,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-29T05:00:10.166Z"
+      "scrapedAt": "2026-09-29T12:26:33.080Z"
     }
   ]
 }
