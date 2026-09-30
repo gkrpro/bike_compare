@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T12:11:42.581Z",
-  "totalItems": 41,
+  "generatedAt": "2026-09-30T22:01:59.238Z",
+  "totalItems": 42,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-30T12:10:44.007Z"
+      "scrapedAt": "2026-09-30T22:00:59.920Z"
     },
     {
       "shop": "Bikester",
@@ -270,6 +270,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Aura 30/Curve verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
+          "price": 19.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Fietsenstandaard FM",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
@@ -284,14 +291,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 40 /HIRO 10 USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-40-hiro-10-usb-beleuchtungsset",
-          "price": 49.99,
+          "name": "Iven Chain 8210/85 Kettingslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-iven-chain-8210-85-kettenschloss-schwarz",
+          "price": 64.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-30T12:10:40.573Z"
+      "scrapedAt": "2026-09-30T22:01:01.016Z"
     },
     {
       "shop": "Bike24",
@@ -299,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-30T12:10:39.090Z"
+      "scrapedAt": "2026-09-30T22:00:55.651Z"
     },
     {
       "shop": "Decathlon",
@@ -307,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-30T12:11:42.570Z"
+      "scrapedAt": "2026-09-30T22:01:59.232Z"
     }
   ]
 }
