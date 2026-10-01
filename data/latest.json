@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T12:45:46.082Z",
-  "totalItems": 35,
+  "generatedAt": "2026-10-01T22:30:13.634Z",
+  "totalItems": 38,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-01T12:44:47.321Z"
+      "scrapedAt": "2026-10-01T22:29:14.287Z"
     },
     {
       "shop": "Bikester",
@@ -134,6 +134,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-coal-n-black",
           "price": 3599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
+          "price": 3399,
           "currency": "EUR"
         },
         {
@@ -221,10 +228,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Aura 80/Blaze USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
+          "price": 60.99,
+          "currency": "EUR"
+        },
+        {
           "name": "CityChain 1010/85 kettingslot zwart",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
           "price": 92.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura 30/Curve verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
+          "price": 19.99,
           "currency": "EUR"
         },
         {
@@ -249,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-01T12:44:44.450Z"
+      "scrapedAt": "2026-10-01T22:29:11.563Z"
     },
     {
       "shop": "Bike24",
@@ -257,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-01T12:44:42.584Z"
+      "scrapedAt": "2026-10-01T22:29:10.166Z"
     },
     {
       "shop": "Decathlon",
@@ -265,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-01T12:45:46.070Z"
+      "scrapedAt": "2026-10-01T22:30:13.624Z"
     }
   ]
 }
