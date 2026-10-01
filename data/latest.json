@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T22:01:59.238Z",
+  "generatedAt": "2026-10-01T04:59:12.327Z",
   "totalItems": 42,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-09-30T22:00:59.920Z"
+      "scrapedAt": "2026-10-01T04:58:13.532Z"
     },
     {
       "shop": "Bikester",
@@ -109,6 +109,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Acid 240 Disc FE (2027)  | 24 inch jeugd-/kinder-MTB",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-acid-240-disc-fe-lizard-n-blue",
+          "price": 499,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 EX (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
@@ -134,13 +141,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-coal-n-black",
           "price": 3599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
-          "price": 3399,
           "currency": "EUR"
         },
         {
@@ -228,17 +228,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
-          "price": 102.99,
-          "currency": "EUR"
-        },
-        {
           "name": "PCS-10.3 montagestandaard",
           "brand": "Park Tool",
           "url": "https://www.bikester.be/products/park-tool-pcs-10-3-montagestander",
           "price": 269.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
           "currency": "EUR"
         },
         {
@@ -284,21 +284,21 @@
           "currency": "EUR"
         },
         {
+          "name": "Aura 40 /HIRO 10 USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-40-hiro-10-usb-beleuchtungsset",
+          "price": 49.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Tresor 1385 kettingslot",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
           "price": 42.99,
           "currency": "EUR"
-        },
-        {
-          "name": "Iven Chain 8210/85 Kettingslot zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-iven-chain-8210-85-kettenschloss-schwarz",
-          "price": 64.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-09-30T22:01:01.016Z"
+      "scrapedAt": "2026-10-01T04:58:10.714Z"
     },
     {
       "shop": "Bike24",
@@ -306,7 +306,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-09-30T22:00:55.651Z"
+      "scrapedAt": "2026-10-01T04:58:08.911Z"
     },
     {
       "shop": "Decathlon",
@@ -314,7 +314,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-09-30T22:01:59.232Z"
+      "scrapedAt": "2026-10-01T04:59:12.317Z"
     }
   ]
 }
