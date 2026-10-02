@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T04:49:23.998Z",
+  "generatedAt": "2026-10-02T12:09:49.783Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-02T04:48:25.249Z"
+      "scrapedAt": "2026-10-02T12:08:50.009Z"
     },
     {
       "shop": "Bikester",
@@ -109,27 +109,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuride Hybrid Performance 720 Diamant (2027) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuride-hybrid-performance-720-diamant-shadowgroeyn-grey",
-          "price": 2699,
-          "currency": "EUR"
-        },
-        {
-          "name": "Touring Hybrid ONE 600 Diamant (2027) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-diamant-greyncoolgrey",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
           "name": "Kathmandu Hybrid Pro 800 Diamant (2027) | Trekking E-bike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-coal-n-black",
@@ -141,6 +120,27 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
           "price": 3399,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kathmandu Hybrid ONE 800 Diamant (2027) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one-800-diamant-cedern-chrome",
+          "price": 3199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 EX (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
+          "price": 2999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Performance 720 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-performance-720-fe-diamant-ashgroen-prism",
+          "price": 2699,
           "currency": "EUR"
         },
         {
@@ -193,10 +193,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-surfblue-n-black",
-          "price": 2999,
+          "name": "Rove AL/DL (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
+          "price": 699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura 100 verlichtingsset incl. Blaze Link",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
+          "price": 74.99,
           "currency": "EUR"
         },
         {
@@ -211,13 +218,6 @@
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Aura 100 verlichtingsset incl. Blaze Link",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
-          "price": 74.99,
           "currency": "EUR"
         },
         {
@@ -242,17 +242,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 30/Curve verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
-          "price": 19.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Fietsenstandaard FM",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
           "price": 25.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura 30/Curve verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
+          "price": 19.99,
           "currency": "EUR"
         },
         {
@@ -263,14 +263,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Tresor 1385 kettingslot",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
-          "price": 42.99,
+          "name": "Vouwslot RIGID PURE K120",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-faltschloss-rigid-pure-k120",
+          "price": 69.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-02T04:48:22.488Z"
+      "scrapedAt": "2026-10-02T12:08:48.276Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-02T04:48:20.612Z"
+      "scrapedAt": "2026-10-02T12:08:46.199Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-02T04:49:23.988Z"
+      "scrapedAt": "2026-10-02T12:09:49.775Z"
     }
   ]
 }
