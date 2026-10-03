@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T15:58:26.065Z",
-  "totalItems": 38,
+  "generatedAt": "2026-10-03T20:47:59.492Z",
+  "totalItems": 37,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-03T15:57:26.807Z"
+      "scrapedAt": "2026-10-03T20:46:59.962Z"
     },
     {
       "shop": "Bikester",
@@ -207,13 +207,6 @@
           "currency": "EUR"
         },
         {
-          "name": "PCS-10.3 montagestandaard",
-          "brand": "Park Tool",
-          "url": "https://www.bikester.be/products/park-tool-pcs-10-3-montagestander",
-          "price": 269.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 80/Blaze USB verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
@@ -270,7 +263,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-03T15:57:23.983Z"
+      "scrapedAt": "2026-10-03T20:46:57.401Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +271,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-03T15:57:22.601Z"
+      "scrapedAt": "2026-10-03T20:46:55.818Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +279,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-03T15:58:26.053Z"
+      "scrapedAt": "2026-10-03T20:47:59.482Z"
     }
   ]
 }
