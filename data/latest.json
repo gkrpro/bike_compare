@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T04:32:03.598Z",
+  "generatedAt": "2026-10-03T11:21:01.970Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-03T04:31:04.136Z"
+      "scrapedAt": "2026-10-03T11:20:02.252Z"
     },
     {
       "shop": "Bikester",
@@ -95,17 +95,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
           "name": "Nuroad C:62 SLX (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-slx-pinkaction-n-black",
           "price": 3999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -130,17 +130,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Touring Hybrid Pro 800 Easy Entry (2027) | Trekking E-bike",
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-touring-hybrid-pro-800-easy-entry-metallicumbranblack",
-          "price": 2999,
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
+          "price": 3399,
           "currency": "EUR"
         },
         {
-          "name": "Kathmandu Hybrid Pro 800 Diamant (2027) | Trekking E-bike",
+          "name": "Kathmandu Hybrid ONE 800 Diamant (2027) | Trekking E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-coal-n-black",
-          "price": 3599,
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one-800-diamant-cedern-chrome",
+          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -158,10 +158,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
+          "name": "Speedster Gravel 10 (2026) | Gravelbike",
+          "brand": "Scott",
+          "url": "https://www.bikester.be/products/scott-speedster-gravel-10-taupe-beige",
+          "price": 1349,
           "currency": "EUR"
         },
         {
@@ -172,10 +172,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix TWO (2026) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 779,
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Topstone 1 (2025) | Gravelbike",
+          "brand": "Cannondale",
+          "url": "https://www.bikester.be/products/cannondale-700-u-topstone-1-obsidian",
+          "price": 1699,
           "currency": "EUR"
         },
         {
@@ -193,13 +200,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Topstone 1 (2025) | Gravelbike",
-          "brand": "Cannondale",
-          "url": "https://www.bikester.be/products/cannondale-700-u-topstone-1-obsidian",
-          "price": 1699,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 100 verlichtingsset incl. Blaze Link",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
@@ -211,6 +211,13 @@
           "brand": "Park Tool",
           "url": "https://www.bikester.be/products/park-tool-pcs-10-3-montagestander",
           "price": 269.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura 80/Blaze USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
+          "price": 60.99,
           "currency": "EUR"
         },
         {
@@ -228,10 +235,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 80/Blaze USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
-          "price": 60.99,
+          "name": "CityChain 1010/85 kettingslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
+          "price": 92.99,
           "currency": "EUR"
         },
         {
@@ -242,13 +249,6 @@
           "currency": "EUR"
         },
         {
-          "name": "CityChain 1010/85 kettingslot zwart",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
-          "price": 92.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Fietsenstandaard FM",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
@@ -256,10 +256,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 30/Curve verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
-          "price": 19.99,
+          "name": "Fietsenstandaard FM PRO",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
+          "price": 27.99,
           "currency": "EUR"
         },
         {
@@ -270,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-03T04:31:01.744Z"
+      "scrapedAt": "2026-10-03T11:19:59.805Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-03T04:31:00.082Z"
+      "scrapedAt": "2026-10-03T11:19:58.384Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-03T04:32:03.589Z"
+      "scrapedAt": "2026-10-03T11:21:01.964Z"
     }
   ]
 }
