@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04T12:01:00.892Z",
-  "totalItems": 37,
+  "generatedAt": "2026-10-04T16:49:46.765Z",
+  "totalItems": 38,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-04T12:00:01.274Z"
+      "scrapedAt": "2026-10-04T16:48:51.874Z"
     },
     {
       "shop": "Bikester",
@@ -261,9 +261,16 @@
           "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
           "price": 19.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Aura 40 USB voorlicht",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-40-usb-frontlicht",
+          "price": 34.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-04T11:59:59.383Z"
+      "scrapedAt": "2026-10-04T16:48:44.634Z"
     },
     {
       "shop": "Bike24",
@@ -271,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-04T11:59:57.427Z"
+      "scrapedAt": "2026-10-04T16:48:43.204Z"
     },
     {
       "shop": "Decathlon",
@@ -279,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-04T12:01:00.880Z"
+      "scrapedAt": "2026-10-04T16:49:46.757Z"
     }
   ]
 }
