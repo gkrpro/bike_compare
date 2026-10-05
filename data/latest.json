@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T12:59:30.053Z",
-  "totalItems": 36,
+  "generatedAt": "2026-10-05T14:02:57.435Z",
+  "totalItems": 38,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-05T12:58:30.770Z"
+      "scrapedAt": "2026-10-05T14:01:58.075Z"
     },
     {
       "shop": "Bikester",
@@ -200,6 +200,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Bordo 6000K/90 Vouwslot + Houder SH",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
+          "price": 85.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Aura 100 verlichtingsset incl. Blaze Link",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link",
@@ -225,6 +232,13 @@
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
           "price": 24.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "CityChain 1010/85 kettingslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
+          "price": 92.99,
           "currency": "EUR"
         },
         {
@@ -256,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-05T12:58:28.350Z"
+      "scrapedAt": "2026-10-05T14:01:56.018Z"
     },
     {
       "shop": "Bike24",
@@ -264,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-05T12:58:26.400Z"
+      "scrapedAt": "2026-10-05T14:01:53.824Z"
     },
     {
       "shop": "Decathlon",
@@ -272,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-05T12:59:30.042Z"
+      "scrapedAt": "2026-10-05T14:02:57.427Z"
     }
   ]
 }
