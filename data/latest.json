@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T05:36:20.443Z",
+  "generatedAt": "2026-10-06T13:02:40.519Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-06T05:35:21.367Z"
+      "scrapedAt": "2026-10-06T13:01:41.149Z"
     },
     {
       "shop": "Bikester",
@@ -116,7 +116,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Race 800 FE Diamant (2027) | 27,5/29 inch E-MTB hardtail",
+          "name": "Reaction Hybrid Race 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
           "price": 3899,
@@ -270,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-06T05:35:18.689Z"
+      "scrapedAt": "2026-10-06T13:01:38.852Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-06T05:35:17.001Z"
+      "scrapedAt": "2026-10-06T13:01:36.977Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-06T05:36:20.433Z"
+      "scrapedAt": "2026-10-06T13:02:40.506Z"
     }
   ]
 }
