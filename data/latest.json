@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:57:10.652Z",
+  "generatedAt": "2026-10-07T22:55:15.591Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-07T12:56:11.651Z"
+      "scrapedAt": "2026-10-07T22:54:16.067Z"
     },
     {
       "shop": "Bikester",
@@ -105,6 +105,13 @@
           "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
+          "price": 4099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Stereo Hybrid ONE44 HPC Pro 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-oldgroeynblack",
           "price": 4099,
           "currency": "EUR"
         },
@@ -134,13 +141,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-coal-n-black",
           "price": 3599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
-          "price": 3399,
           "currency": "EUR"
         },
         {
@@ -235,10 +235,24 @@
           "currency": "EUR"
         },
         {
+          "name": "E-Bike voorlicht PRO-E 200 High Beam X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-200-high-beam-x-connect-black",
+          "price": 139.99,
+          "currency": "EUR"
+        },
+        {
           "name": "CityChain 1010/85 kettingslot zwart",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-citychain-1010-85-kettenschloss-schwarz",
           "price": 92.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "E-Bike voorlicht PRO-E 150 X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
           "currency": "EUR"
         },
         {
@@ -254,23 +268,9 @@
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
           "price": 25.99,
           "currency": "EUR"
-        },
-        {
-          "name": "Granit CityChain X-Plus 1060 kettingslot",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-granit-citychain-x-plus-1060-kettenschloss-schwarz",
-          "price": 159.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Tresor 1385 kettingslot",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
-          "price": 42.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-07T12:56:08.665Z"
+      "scrapedAt": "2026-10-07T22:54:13.938Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-07T12:56:07.012Z"
+      "scrapedAt": "2026-10-07T22:54:11.972Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-07T12:57:10.645Z"
+      "scrapedAt": "2026-10-07T22:55:15.583Z"
     }
   ]
 }
