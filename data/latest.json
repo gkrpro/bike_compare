@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T05:06:22.616Z",
+  "generatedAt": "2026-10-07T12:57:10.652Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-07T05:05:23.692Z"
+      "scrapedAt": "2026-10-07T12:56:11.651Z"
     },
     {
       "shop": "Bikester",
@@ -109,10 +109,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
+          "name": "Touring Hybrid ONE 600 Trapez (2027) | Trekking E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-artline",
-          "price": 2999,
+          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-trapez-greyncoolgrey",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -123,17 +123,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Touring Hybrid ONE 600 Trapez (2027) | Trekking E-bike",
+          "name": "Aim ONE FE (2027) | 29 inch MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-trapez-greyncoolgrey",
-          "price": 2599,
+          "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
+          "price": 599,
           "currency": "EUR"
         },
         {
-          "name": "Aim Pro (2027)  | 29 inch MTB Hardtail",
+          "name": "Kathmandu Hybrid Pro 800 Diamant (2027) | Trekking E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-pro-topasblue-n-blue",
-          "price": 599,
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-coal-n-black",
+          "price": 3599,
           "currency": "EUR"
         },
         {
@@ -270,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-07T05:05:21.134Z"
+      "scrapedAt": "2026-10-07T12:56:08.665Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-07T05:05:19.091Z"
+      "scrapedAt": "2026-10-07T12:56:07.012Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-07T05:06:22.606Z"
+      "scrapedAt": "2026-10-07T12:57:10.645Z"
     }
   ]
 }
