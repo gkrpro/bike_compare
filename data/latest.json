@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T22:31:17.532Z",
+  "generatedAt": "2026-10-07T05:06:22.616Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-06T22:30:17.968Z"
+      "scrapedAt": "2026-10-07T05:05:23.692Z"
     },
     {
       "shop": "Bikester",
@@ -172,10 +172,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -186,17 +186,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
+          "name": "Rove (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-silver",
+          "price": 879,
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 EX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-ex-artline",
-          "price": 2999,
+          "name": "Rove AL/DL (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
+          "price": 699,
           "currency": "EUR"
         },
         {
@@ -214,10 +214,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 80/Blaze USB verlichtingsset",
+          "name": "Aura Micro Set USB verlichtingsset",
           "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
-          "price": 60.99,
+          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
+          "price": 24.99,
           "currency": "EUR"
         },
         {
@@ -228,10 +228,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura Micro Set USB verlichtingsset",
+          "name": "Aura 80/Blaze USB verlichtingsset",
           "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
-          "price": 24.99,
+          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
+          "price": 60.99,
           "currency": "EUR"
         },
         {
@@ -242,13 +242,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
-          "price": 25.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Fietsenstandaard FM PRO",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
@@ -256,21 +249,28 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 30/Curve verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
-          "price": 19.99,
+          "name": "Fietsenstandaard FM",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
+          "price": 25.99,
           "currency": "EUR"
         },
         {
-          "name": "Vouwslot BORDO™ 6000C",
+          "name": "Granit CityChain X-Plus 1060 kettingslot",
           "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-faltschloss-bordo-6000c-black",
-          "price": 89.99,
+          "url": "https://www.bikester.be/products/abus-granit-citychain-x-plus-1060-kettenschloss-schwarz",
+          "price": 159.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Tresor 1385 kettingslot",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-tresor-1385-85-kettenschloss-schwarz",
+          "price": 42.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-06T22:30:16.064Z"
+      "scrapedAt": "2026-10-07T05:05:21.134Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-06T22:30:13.980Z"
+      "scrapedAt": "2026-10-07T05:05:19.091Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-06T22:31:17.523Z"
+      "scrapedAt": "2026-10-07T05:06:22.606Z"
     }
   ]
 }
