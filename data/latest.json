@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T05:16:58.013Z",
+  "generatedAt": "2026-10-08T13:05:43.685Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,20 +80,13 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-08T05:15:59.700Z"
+      "scrapedAt": "2026-10-08T13:04:45.099Z"
     },
     {
       "shop": "Bikester",
       "sourceUrl": "https://www.bikester.be/",
       "ok": true,
       "items": [
-        {
-          "name": "Nuroad C:62 SLX (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-slx-pinkaction-n-black",
-          "price": 3999,
-          "currency": "EUR"
-        },
         {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
@@ -116,17 +109,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Touring Hybrid ONE 600 Trapez (2027) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-trapez-greyncoolgrey",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
           "name": "Reaction Hybrid Race 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
           "price": 3899,
+          "currency": "EUR"
+        },
+        {
+          "name": "Touring Hybrid ONE 600 Trapez (2027) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-trapez-greyncoolgrey",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -141,6 +134,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-coal-n-black",
           "price": 3599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
+          "price": 3399,
           "currency": "EUR"
         },
         {
@@ -270,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-08T05:15:56.080Z"
+      "scrapedAt": "2026-10-08T13:04:41.790Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-08T05:15:54.660Z"
+      "scrapedAt": "2026-10-08T13:04:40.003Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-08T05:16:58.001Z"
+      "scrapedAt": "2026-10-08T13:05:43.677Z"
     }
   ]
 }
