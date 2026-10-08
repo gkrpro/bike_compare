@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T13:05:43.685Z",
-  "totalItems": 38,
+  "generatedAt": "2026-10-08T23:07:16.233Z",
+  "totalItems": 37,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-08T13:04:45.099Z"
+      "scrapedAt": "2026-10-08T23:06:16.583Z"
     },
     {
       "shop": "Bikester",
@@ -106,13 +106,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-oldgroeynblack",
           "price": 4099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Reaction Hybrid Race 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
-          "price": 3899,
           "currency": "EUR"
         },
         {
@@ -270,7 +263,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-08T13:04:41.790Z"
+      "scrapedAt": "2026-10-08T23:06:14.450Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +271,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-08T13:04:40.003Z"
+      "scrapedAt": "2026-10-08T23:06:12.716Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +279,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-08T13:05:43.677Z"
+      "scrapedAt": "2026-10-08T23:07:16.227Z"
     }
   ]
 }
