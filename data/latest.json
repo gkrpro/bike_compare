@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T05:19:47.403Z",
+  "generatedAt": "2026-10-09T12:52:01.132Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-09T05:18:47.646Z"
+      "scrapedAt": "2026-10-09T12:51:02.403Z"
     },
     {
       "shop": "Bikester",
@@ -109,10 +109,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Touring Hybrid ONE 600 Trapez (2027) | Trekking E-bike",
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-trapez-greyncoolgrey",
-          "price": 2599,
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
+          "price": 3399,
           "currency": "EUR"
         },
         {
@@ -123,24 +123,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Touring Hybrid ONE 600 Trapez (2027) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-trapez-greyncoolgrey",
+          "price": 2599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Touring Hybrid ONE 600 Diamant (2027) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-touring-hybrid-one-600-diamant-greyncoolgrey",
+          "price": 2599,
+          "currency": "EUR"
+        },
+        {
           "name": "Kathmandu Hybrid Pro 800 Diamant (2027) | Trekking E-bike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-coal-n-black",
           "price": 3599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
-          "price": 3399,
-          "currency": "EUR"
-        },
-        {
-          "name": "Aim Pro FE (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-pro-fe-topasblue-n-blue",
-          "price": 699,
           "currency": "EUR"
         },
         {
@@ -270,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-09T05:18:46.219Z"
+      "scrapedAt": "2026-10-09T12:50:59.311Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-09T05:18:43.799Z"
+      "scrapedAt": "2026-10-09T12:50:57.468Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-09T05:19:47.392Z"
+      "scrapedAt": "2026-10-09T12:52:01.121Z"
     }
   ]
 }
