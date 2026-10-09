@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T23:07:16.233Z",
-  "totalItems": 37,
+  "generatedAt": "2026-10-09T05:19:47.403Z",
+  "totalItems": 38,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-08T23:06:16.583Z"
+      "scrapedAt": "2026-10-09T05:18:47.646Z"
     },
     {
       "shop": "Bikester",
@@ -137,6 +137,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Aim Pro FE (2027)  | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-pro-fe-topasblue-n-blue",
+          "price": 699,
+          "currency": "EUR"
+        },
+        {
           "name": "Rove ST MicroShift (2025) | Gravelbike",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-st-microshift-black",
@@ -158,24 +165,24 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix TWO (2026) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-gravix-two-black-shiny-2025",
-          "price": 779,
-          "currency": "EUR"
-        },
-        {
           "name": "Rove (2026) | Gravelbike",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-silver",
           "price": 879,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -207,17 +214,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura Micro Set USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
-          "price": 24.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bordo Big 6000K/120 Vouwslot + Houder SH",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura Micro Set USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
+          "price": 24.99,
           "currency": "EUR"
         },
         {
@@ -249,21 +256,21 @@
           "currency": "EUR"
         },
         {
+          "name": "Aura 30/Curve verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
+          "price": 19.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Fietsenstandaard FM",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
           "price": 25.99,
           "currency": "EUR"
-        },
-        {
-          "name": "Granit CityChain X-Plus 1060 kettingslot",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-granit-citychain-x-plus-1060-kettenschloss-schwarz",
-          "price": 159.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-08T23:06:14.450Z"
+      "scrapedAt": "2026-10-09T05:18:46.219Z"
     },
     {
       "shop": "Bike24",
@@ -271,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-08T23:06:12.716Z"
+      "scrapedAt": "2026-10-09T05:18:43.799Z"
     },
     {
       "shop": "Decathlon",
@@ -279,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-08T23:07:16.227Z"
+      "scrapedAt": "2026-10-09T05:19:47.392Z"
     }
   ]
 }
