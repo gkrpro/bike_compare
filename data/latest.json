@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T05:04:05.361Z",
+  "generatedAt": "2026-10-10T12:09:53.116Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,13 +80,20 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-10T05:03:05.797Z"
+      "scrapedAt": "2026-10-10T12:08:53.443Z"
     },
     {
       "shop": "Bikester",
       "sourceUrl": "https://www.bikester.be/",
       "ok": true,
       "items": [
+        {
+          "name": "Stereo Hybrid ONE44 HPC Pro 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-oldgroeynblack",
+          "price": 4099,
+          "currency": "EUR"
+        },
         {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
@@ -98,13 +105,6 @@
           "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
-          "price": 4099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Stereo Hybrid ONE44 HPC Pro 800 (2027)  | 27,5/29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-oldgroeynblack",
           "price": 4099,
           "currency": "EUR"
         },
@@ -270,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-10T05:03:03.114Z"
+      "scrapedAt": "2026-10-10T12:08:50.844Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-10T05:03:01.747Z"
+      "scrapedAt": "2026-10-10T12:08:49.427Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-10T05:04:05.350Z"
+      "scrapedAt": "2026-10-10T12:09:53.109Z"
     }
   ]
 }
