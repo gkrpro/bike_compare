@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T05:08:01.100Z",
+  "generatedAt": "2026-10-12T13:51:52.682Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,13 +80,20 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-12T05:07:01.401Z"
+      "scrapedAt": "2026-10-12T13:50:53.166Z"
     },
     {
       "shop": "Bikester",
       "sourceUrl": "https://www.bikester.be/",
       "ok": true,
       "items": [
+        {
+          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027) | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
+          "price": 4099,
+          "currency": "EUR"
+        },
         {
           "name": "Stereo Hybrid ONE44 HPC Pro 800 (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
@@ -99,13 +106,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
           "price": 2599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
-          "price": 4099,
           "currency": "EUR"
         },
         {
@@ -263,14 +263,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PURE",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
-          "price": 24.95,
+          "name": "Vouwslot BORDO™ 6000C",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-faltschloss-bordo-6000c-black",
+          "price": 89.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-12T05:06:59.688Z"
+      "scrapedAt": "2026-10-12T13:50:51.102Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-12T05:06:57.647Z"
+      "scrapedAt": "2026-10-12T13:50:49.114Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-12T05:08:01.092Z"
+      "scrapedAt": "2026-10-12T13:51:52.675Z"
     }
   ]
 }
