@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T04:12:15.144Z",
+  "generatedAt": "2026-10-14T11:29:27.623Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-14T04:11:16.477Z"
+      "scrapedAt": "2026-10-14T11:28:29.524Z"
     },
     {
       "shop": "Bikester",
@@ -88,16 +88,16 @@
       "ok": true,
       "items": [
         {
-          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027) | 27,5/29 inch E-MTB Fully",
+          "name": "Stereo Hybrid ONE44 HPC Pro 800 (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-oldgroeynblack",
           "price": 4099,
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE44 HPC Pro 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027) | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-oldgroeynblack",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
           "price": 4099,
           "currency": "EUR"
         },
@@ -109,17 +109,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
-          "price": 3399,
-          "currency": "EUR"
-        },
-        {
           "name": "Aim ONE FE (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
           "price": 599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
+          "price": 3399,
           "currency": "EUR"
         },
         {
@@ -249,6 +249,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Aura 100 verlichtingsset incl. Blaze Link incl. schroefbevestiging",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-100-beleuchtungsset-inkl-blaze-link-kopie",
+          "price": 81.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Fietsenstandaard FM",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
@@ -256,21 +263,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Vouwslot BORDO™ 6000C",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-faltschloss-bordo-6000c-black",
-          "price": 89.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Fietsenstandaard FM PURE",
+          "name": "Bagagedragermand 20 RILink",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
-          "price": 24.95,
+          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-20-rilink",
+          "price": 27.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-14T04:11:13.871Z"
+      "scrapedAt": "2026-10-14T11:28:26.288Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-14T04:11:11.740Z"
+      "scrapedAt": "2026-10-14T11:28:24.129Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-14T04:12:15.135Z"
+      "scrapedAt": "2026-10-14T11:29:27.614Z"
     }
   ]
 }
