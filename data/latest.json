@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:05:43.998Z",
+  "generatedAt": "2026-10-15T16:36:29.174Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-15T11:04:44.988Z"
+      "scrapedAt": "2026-10-15T16:35:30.478Z"
     },
     {
       "shop": "Bikester",
@@ -179,13 +179,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Grandurance 30 (2026) | Gravelbike",
-          "brand": "Bergamont",
-          "url": "https://www.bikester.be/products/bergamont-grandurance-30-reddish-black",
-          "price": 999,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
@@ -197,6 +190,13 @@
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-aldl-red",
           "price": 699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Topstone 1 (2025) | Gravelbike",
+          "brand": "Cannondale",
+          "url": "https://www.bikester.be/products/cannondale-700-u-topstone-1-obsidian",
+          "price": 1699,
           "currency": "EUR"
         },
         {
@@ -270,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-15T11:04:42.087Z"
+      "scrapedAt": "2026-10-15T16:35:28.961Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-15T11:04:40.466Z"
+      "scrapedAt": "2026-10-15T16:35:25.800Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-15T11:05:43.992Z"
+      "scrapedAt": "2026-10-15T16:36:29.162Z"
     }
   ]
 }
