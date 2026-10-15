@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:25:32.814Z",
+  "generatedAt": "2026-10-15T03:53:35.034Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-14T21:24:33.917Z"
+      "scrapedAt": "2026-10-15T03:52:36.634Z"
     },
     {
       "shop": "Bikester",
@@ -95,7 +95,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027) | 27,5/29 inch E-MTB Fully",
+          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
           "price": 4099,
@@ -270,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-14T21:24:31.173Z"
+      "scrapedAt": "2026-10-15T03:52:33.779Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-14T21:24:29.204Z"
+      "scrapedAt": "2026-10-15T03:52:31.798Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-14T21:25:32.805Z"
+      "scrapedAt": "2026-10-15T03:53:35.024Z"
     }
   ]
 }
