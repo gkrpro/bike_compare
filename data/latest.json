@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T11:01:33.925Z",
-  "totalItems": 36,
+  "generatedAt": "2026-10-16T16:21:13.428Z",
+  "totalItems": 38,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-16T11:00:34.906Z"
+      "scrapedAt": "2026-10-16T16:20:14.526Z"
     },
     {
       "shop": "Bikester",
@@ -99,6 +99,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
           "price": 4099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
+          "price": 1999,
           "currency": "EUR"
         },
         {
@@ -235,6 +242,13 @@
           "currency": "EUR"
         },
         {
+          "name": "E-bike voorlicht PRO-E 200 High Beam X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-200-high-beam-x-connect-black",
+          "price": 139.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Aura 30/Curve verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
@@ -249,14 +263,14 @@
           "currency": "EUR"
         },
         {
-          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
+          "name": "Bagagedragermand 20 RILink",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
-          "price": 89.99,
+          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-20-rilink",
+          "price": 27.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-16T11:00:32.105Z"
+      "scrapedAt": "2026-10-16T16:20:12.590Z"
     },
     {
       "shop": "Bike24",
@@ -264,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-16T11:00:30.479Z"
+      "scrapedAt": "2026-10-16T16:20:10.181Z"
     },
     {
       "shop": "Decathlon",
@@ -272,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-16T11:01:33.917Z"
+      "scrapedAt": "2026-10-16T16:21:13.418Z"
     }
   ]
 }
