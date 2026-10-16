@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T03:49:17.718Z",
-  "totalItems": 38,
+  "generatedAt": "2026-10-16T11:01:33.925Z",
+  "totalItems": 36,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-16T03:48:18.755Z"
+      "scrapedAt": "2026-10-16T11:00:34.906Z"
     },
     {
       "shop": "Bikester",
@@ -88,10 +88,10 @@
       "ok": true,
       "items": [
         {
-          "name": "Stereo Hybrid ONE44 HPC Pro 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "name": "Attain C:62 Race (2027) | Racefiets",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-oldgroeynblack",
-          "price": 4099,
+          "url": "https://www.bikester.be/products/cube-attain-c62-race-carbon-n-coalchrome",
+          "price": 1699,
           "currency": "EUR"
         },
         {
@@ -99,13 +99,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
           "price": 4099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -130,17 +123,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Race 800 Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
-          "price": 3699,
-          "currency": "EUR"
-        },
-        {
           "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
           "price": 599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Race 800 Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
+          "price": 3699,
           "currency": "EUR"
         },
         {
@@ -165,10 +158,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
+          "name": "Grandurance 30 (2026) | Gravelbike",
+          "brand": "Bergamont",
+          "url": "https://www.bikester.be/products/bergamont-grandurance-30-reddish-black",
+          "price": 999,
           "currency": "EUR"
         },
         {
@@ -193,10 +186,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Topstone 1 (2025) | Gravelbike",
-          "brand": "Cannondale",
-          "url": "https://www.bikester.be/products/cannondale-700-u-topstone-1-obsidian",
-          "price": 1699,
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "price": 1099,
           "currency": "EUR"
         },
         {
@@ -256,21 +249,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Bagagedragermand 20 RILink",
+          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-20-rilink",
-          "price": 27.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Fietsenstandaard FM",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
-          "price": 25.99,
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-16T03:48:15.376Z"
+      "scrapedAt": "2026-10-16T11:00:32.105Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +264,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-16T03:48:14.150Z"
+      "scrapedAt": "2026-10-16T11:00:30.479Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +272,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-16T03:49:17.712Z"
+      "scrapedAt": "2026-10-16T11:01:33.917Z"
     }
   ]
 }
