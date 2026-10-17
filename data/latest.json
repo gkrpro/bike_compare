@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T03:39:08.938Z",
-  "totalItems": 38,
+  "generatedAt": "2026-10-17T10:22:37.824Z",
+  "totalItems": 37,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-17T03:38:09.943Z"
+      "scrapedAt": "2026-10-17T10:21:39.209Z"
     },
     {
       "shop": "Bikester",
@@ -95,10 +95,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
+          "name": "Reaction Hybrid Performance 720 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
-          "price": 4099,
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-performance-720-fe-diamant-ashgroen-prism",
+          "price": 2699,
           "currency": "EUR"
         },
         {
@@ -116,10 +116,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
-          "price": 3399,
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
+          "price": 4099,
           "currency": "EUR"
         },
         {
@@ -172,10 +172,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
-          "price": 1999,
+          "name": "Addict Gravel 30 (2026) | Gravelbike",
+          "brand": "Scott",
+          "url": "https://www.bikester.be/products/scott-addict-gravel-30-carbon-grey",
+          "price": 2069,
           "currency": "EUR"
         },
         {
@@ -235,24 +235,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PRO",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
-          "price": 27.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "E-bike voorlicht PRO-E 200 High Beam X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-200-high-beam-x-connect-black",
-          "price": 139.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 30/Curve verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
           "price": 19.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM PRO",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
+          "price": 27.99,
           "currency": "EUR"
         },
         {
@@ -263,14 +256,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Bagagedragermand 20 RILink",
+          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-20-rilink",
-          "price": 27.99,
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-17T03:38:07.177Z"
+      "scrapedAt": "2026-10-17T10:21:35.718Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +271,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-17T03:38:05.472Z"
+      "scrapedAt": "2026-10-17T10:21:34.259Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +279,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-17T03:39:08.928Z"
+      "scrapedAt": "2026-10-17T10:22:37.817Z"
     }
   ]
 }
