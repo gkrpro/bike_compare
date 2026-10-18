@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T03:45:55.071Z",
-  "totalItems": 36,
+  "generatedAt": "2026-10-18T10:39:11.933Z",
+  "totalItems": 35,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-18T03:44:56.105Z"
+      "scrapedAt": "2026-10-18T10:38:12.789Z"
     },
     {
       "shop": "Bikester",
@@ -116,24 +116,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Kathmandu Hybrid Pro 800 Diamant (2027) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-coal-n-black",
-          "price": 3599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Acid 260 Disc FE (2027)  | 26 inch jeugd-/kinder-MTB",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-260-disc-fe-lizard-n-blue",
-          "price": 599,
-          "currency": "EUR"
-        },
-        {
           "name": "Reaction Hybrid Race 800 Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
           "price": 3699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
+          "price": 3399,
           "currency": "EUR"
         },
         {
@@ -214,10 +207,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 80/Blaze USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
-          "price": 60.99,
+          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
           "currency": "EUR"
         },
         {
@@ -242,21 +235,21 @@
           "currency": "EUR"
         },
         {
-          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
-          "price": 89.99,
+          "name": "Aura 80/Blaze USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
+          "price": 60.99,
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM",
+          "name": "Fietsenstandaard FM PURE",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
-          "price": 25.99,
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
+          "price": 24.95,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-18T03:44:53.147Z"
+      "scrapedAt": "2026-10-18T10:38:09.918Z"
     },
     {
       "shop": "Bike24",
@@ -264,7 +257,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-18T03:44:51.502Z"
+      "scrapedAt": "2026-10-18T10:38:08.187Z"
     },
     {
       "shop": "Decathlon",
@@ -272,7 +265,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-18T03:45:55.061Z"
+      "scrapedAt": "2026-10-18T10:39:11.924Z"
     }
   ]
 }
