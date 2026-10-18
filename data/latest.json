@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T10:39:11.933Z",
-  "totalItems": 35,
+  "generatedAt": "2026-10-18T15:37:10.549Z",
+  "totalItems": 36,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-18T10:38:12.789Z"
+      "scrapedAt": "2026-10-18T15:36:11.558Z"
     },
     {
       "shop": "Bikester",
@@ -127,6 +127,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
           "price": 3399,
+          "currency": "EUR"
+        },
+        {
+          "name": "Acid 240 Disc (2027)  | 24 inch jeugd-/kinder-MTB",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-acid-240-disc-lizard-n-blue",
+          "price": 449,
           "currency": "EUR"
         },
         {
@@ -249,7 +256,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-18T10:38:09.918Z"
+      "scrapedAt": "2026-10-18T15:36:09.072Z"
     },
     {
       "shop": "Bike24",
@@ -257,7 +264,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-18T10:38:08.187Z"
+      "scrapedAt": "2026-10-18T15:36:06.994Z"
     },
     {
       "shop": "Decathlon",
@@ -265,7 +272,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-18T10:39:11.924Z"
+      "scrapedAt": "2026-10-18T15:37:10.540Z"
     }
   ]
 }
