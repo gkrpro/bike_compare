@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:36:39.288Z",
+  "generatedAt": "2026-10-19T22:09:35.945Z",
   "totalItems": 36,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-19T12:35:41.057Z"
+      "scrapedAt": "2026-10-19T22:08:37.526Z"
     },
     {
       "shop": "Bikester",
@@ -242,21 +242,21 @@
           "currency": "EUR"
         },
         {
+          "name": "Bagagedragermand 20 RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-20-rilink",
+          "price": 27.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Aura 80/Blaze USB verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
           "price": 60.99,
           "currency": "EUR"
-        },
-        {
-          "name": "Fietsenstandaard FM PURE",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
-          "price": 24.95,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-19T12:35:37.642Z"
+      "scrapedAt": "2026-10-19T22:08:34.538Z"
     },
     {
       "shop": "Bike24",
@@ -264,7 +264,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-19T12:35:35.458Z"
+      "scrapedAt": "2026-10-19T22:08:32.385Z"
     },
     {
       "shop": "Decathlon",
@@ -272,7 +272,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-19T12:36:39.277Z"
+      "scrapedAt": "2026-10-19T22:09:35.934Z"
     }
   ]
 }
