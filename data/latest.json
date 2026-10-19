@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T03:55:15.794Z",
+  "generatedAt": "2026-10-19T11:32:08.303Z",
   "totalItems": 36,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-19T03:54:17.363Z"
+      "scrapedAt": "2026-10-19T11:31:09.027Z"
     },
     {
       "shop": "Bikester",
@@ -123,17 +123,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
           "price": 3399,
           "currency": "EUR"
         },
         {
-          "name": "Acid 240 Disc (2027)  | 24 inch jeugd-/kinder-MTB",
+          "name": "Nuride Hybrid Performance 720 Diamant (2027) | Trekking E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-240-disc-lizard-n-blue",
-          "price": 449,
+          "url": "https://www.bikester.be/products/cube-nuride-hybrid-performance-720-diamant-shadowgroeyn-grey",
+          "price": 2699,
           "currency": "EUR"
         },
         {
@@ -158,17 +158,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Grandurance 30 (2026) | Gravelbike",
-          "brand": "Bergamont",
-          "url": "https://www.bikester.be/products/bergamont-grandurance-30-reddish-black",
-          "price": 999,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
+          "name": "Addict Gravel 30 (2026) | Gravelbike",
+          "brand": "Scott",
+          "url": "https://www.bikester.be/products/scott-addict-gravel-30-carbon-grey",
+          "price": 2069,
           "currency": "EUR"
         },
         {
@@ -176,6 +169,13 @@
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-aldl-red",
           "price": 699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -214,13 +214,6 @@
           "currency": "EUR"
         },
         {
-          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
-          "price": 89.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 30/Curve verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
@@ -228,10 +221,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PRO",
+          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
-          "price": 27.99,
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
           "currency": "EUR"
         },
         {
@@ -239,6 +232,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
           "price": 22.95,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM PRO",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
+          "price": 27.99,
           "currency": "EUR"
         },
         {
@@ -256,7 +256,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-19T03:54:14.339Z"
+      "scrapedAt": "2026-10-19T11:31:06.946Z"
     },
     {
       "shop": "Bike24",
@@ -264,7 +264,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-19T03:54:12.163Z"
+      "scrapedAt": "2026-10-19T11:31:04.726Z"
     },
     {
       "shop": "Decathlon",
@@ -272,7 +272,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-19T03:55:15.783Z"
+      "scrapedAt": "2026-10-19T11:32:08.293Z"
     }
   ]
 }
