@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T11:10:31.324Z",
-  "totalItems": 36,
+  "generatedAt": "2026-10-20T16:35:39.843Z",
+  "totalItems": 35,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-20T11:09:32.772Z"
+      "scrapedAt": "2026-10-20T16:34:41.265Z"
     },
     {
       "shop": "Bikester",
@@ -92,13 +92,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-attain-c62-race-carbon-n-coalchrome",
           "price": 1699,
-          "currency": "EUR"
-        },
-        {
-          "name": "Reaction Hybrid Performance 720 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-performance-720-fe-diamant-ashgroen-prism",
-          "price": 2699,
           "currency": "EUR"
         },
         {
@@ -256,7 +249,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-20T11:09:29.717Z"
+      "scrapedAt": "2026-10-20T16:34:38.153Z"
     },
     {
       "shop": "Bike24",
@@ -264,7 +257,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-20T11:09:27.682Z"
+      "scrapedAt": "2026-10-20T16:34:36.225Z"
     },
     {
       "shop": "Decathlon",
@@ -272,7 +265,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-20T11:10:31.314Z"
+      "scrapedAt": "2026-10-20T16:35:39.834Z"
     }
   ]
 }
