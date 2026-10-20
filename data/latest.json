@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:07:32.140Z",
+  "generatedAt": "2026-10-20T11:10:31.324Z",
   "totalItems": 36,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-20T04:06:33.808Z"
+      "scrapedAt": "2026-10-20T11:09:32.772Z"
     },
     {
       "shop": "Bikester",
@@ -99,13 +99,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-performance-720-fe-diamant-ashgroen-prism",
           "price": 2699,
-          "currency": "EUR"
-        },
-        {
-          "name": "Aim ONE FE (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
-          "price": 599,
           "currency": "EUR"
         },
         {
@@ -134,6 +127,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuride-hybrid-performance-720-diamant-shadowgroeyn-grey",
           "price": 2699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Acid 240 Disc (2027)  | 24 inch jeugd-/kinder-MTB",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-acid-240-disc-lizard-n-blue",
+          "price": 449,
           "currency": "EUR"
         },
         {
@@ -256,7 +256,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-20T04:06:29.708Z"
+      "scrapedAt": "2026-10-20T11:09:29.717Z"
     },
     {
       "shop": "Bike24",
@@ -264,7 +264,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-20T04:06:28.629Z"
+      "scrapedAt": "2026-10-20T11:09:27.682Z"
     },
     {
       "shop": "Decathlon",
@@ -272,7 +272,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-20T04:07:32.129Z"
+      "scrapedAt": "2026-10-20T11:10:31.314Z"
     }
   ]
 }
