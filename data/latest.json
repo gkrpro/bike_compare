@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-21T03:56:12.787Z",
-  "totalItems": 35,
+  "generatedAt": "2026-10-21T11:26:31.232Z",
+  "totalItems": 36,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,13 +80,20 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-21T03:55:13.251Z"
+      "scrapedAt": "2026-10-21T11:25:32.336Z"
     },
     {
       "shop": "Bikester",
       "sourceUrl": "https://www.bikester.be/",
       "ok": true,
       "items": [
+        {
+          "name": "Kathmandu Hybrid ONE11 HPC Pro 800 (2027) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-pro-800-slabgreynblack",
+          "price": 4199,
+          "currency": "EUR"
+        },
         {
           "name": "Attain C:62 Race (2027) | Racefiets",
           "brand": "Cube",
@@ -116,10 +123,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuride Hybrid Performance 720 Diamant (2027) | Trekking E-bike",
+          "name": "Aim Pro (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuride-hybrid-performance-720-diamant-shadowgroeyn-grey",
-          "price": 2699,
+          "url": "https://www.bikester.be/products/cube-aim-pro-topasblue-n-blue",
+          "price": 599,
           "currency": "EUR"
         },
         {
@@ -148,6 +155,13 @@
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-silver",
           "price": 879,
+          "currency": "EUR"
+        },
+        {
+          "name": "Grandurance 30 (2026) | Gravelbike",
+          "brand": "Bergamont",
+          "url": "https://www.bikester.be/products/bergamont-grandurance-30-reddish-black",
+          "price": 999,
           "currency": "EUR"
         },
         {
@@ -193,17 +207,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo 6000K/90 vouwslot + houder SH",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
-          "price": 85.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bordo Big 6000K/120 Vouwslot + Houder SH",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
-          "price": 102.99,
+          "name": "Aura 80/Blaze USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
+          "price": 60.99,
           "currency": "EUR"
         },
         {
@@ -214,17 +221,17 @@
           "currency": "EUR"
         },
         {
-          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
-          "price": 89.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Fietsenstandaard Cubestand CMPT",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
           "price": 22.95,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bordo Big 6000K/120 Vouwslot + Houder SH",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
           "currency": "EUR"
         },
         {
@@ -235,21 +242,21 @@
           "currency": "EUR"
         },
         {
-          "name": "Bagagedragermand 20 RILink",
+          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-20-rilink",
-          "price": 27.99,
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
           "currency": "EUR"
         },
         {
-          "name": "Aura 80/Blaze USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
-          "price": 60.99,
+          "name": "Bordo 6000K/90 vouwslot + houder SH",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
+          "price": 85.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-21T03:55:10.622Z"
+      "scrapedAt": "2026-10-21T11:25:29.145Z"
     },
     {
       "shop": "Bike24",
@@ -257,7 +264,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-21T03:55:09.127Z"
+      "scrapedAt": "2026-10-21T11:25:27.685Z"
     },
     {
       "shop": "Decathlon",
@@ -265,7 +272,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-21T03:56:12.780Z"
+      "scrapedAt": "2026-10-21T11:26:31.223Z"
     }
   ]
 }
