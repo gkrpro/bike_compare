@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T03:54:32.254Z",
+  "generatedAt": "2026-10-24T10:35:23.414Z",
   "totalItems": 37,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-24T03:53:32.878Z"
+      "scrapedAt": "2026-10-24T10:34:24.675Z"
     },
     {
       "shop": "Bikester",
@@ -109,17 +109,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
-          "price": 1999,
-          "currency": "EUR"
-        },
-        {
           "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
           "price": 4099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
+          "price": 1999,
           "currency": "EUR"
         },
         {
@@ -158,6 +158,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Addict Gravel 30 (2026) | Gravelbike",
+          "brand": "Scott",
+          "url": "https://www.bikester.be/products/scott-addict-gravel-30-carbon-grey",
+          "price": 2069,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 Race (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-race-jungalinblack",
@@ -165,10 +172,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Grandurance 30 (2026) | Gravelbike",
-          "brand": "Bergamont",
-          "url": "https://www.bikester.be/products/bergamont-grandurance-30-reddish-black",
-          "price": 1049,
+          "name": "Rove AL/DL (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
+          "price": 699,
           "currency": "EUR"
         },
         {
@@ -176,13 +183,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
           "price": 1999,
-          "currency": "EUR"
-        },
-        {
-          "name": "Rove AL/DL (2026) | Gravelbike",
-          "brand": "Kona",
-          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
-          "price": 699,
           "currency": "EUR"
         },
         {
@@ -207,17 +207,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura Micro Set USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
-          "price": 26.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 80/Blaze USB verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
           "price": 60.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura Micro Set USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
+          "price": 26.99,
           "currency": "EUR"
         },
         {
@@ -232,13 +232,6 @@
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Fietsenstandaard FM PRO",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
-          "price": 27.99,
           "currency": "EUR"
         },
         {
@@ -261,9 +254,16 @@
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
           "price": 56.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM PRO",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
+          "price": 27.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-24T03:53:30.063Z"
+      "scrapedAt": "2026-10-24T10:34:21.418Z"
     },
     {
       "shop": "Bike24",
@@ -271,7 +271,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-24T03:53:28.654Z"
+      "scrapedAt": "2026-10-24T10:34:19.968Z"
     },
     {
       "shop": "Decathlon",
@@ -279,7 +279,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-24T03:54:32.247Z"
+      "scrapedAt": "2026-10-24T10:35:23.407Z"
     }
   ]
 }
