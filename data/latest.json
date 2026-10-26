@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:57:52.362Z",
+  "generatedAt": "2026-10-26T11:51:16.217Z",
   "totalItems": 37,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-26T03:56:53.084Z"
+      "scrapedAt": "2026-10-26T11:50:16.941Z"
     },
     {
       "shop": "Bikester",
@@ -186,10 +186,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
+          "name": "Nuroad Race (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-race-lindgreen-n-matcha",
+          "price": 1499,
           "currency": "EUR"
         },
         {
@@ -235,17 +235,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PURE",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
-          "price": 24.95,
-          "currency": "EUR"
-        },
-        {
           "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
           "price": 89.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM PURE",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
+          "price": 24.95,
           "currency": "EUR"
         },
         {
@@ -263,7 +263,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-26T03:56:50.094Z"
+      "scrapedAt": "2026-10-26T11:50:14.600Z"
     },
     {
       "shop": "Bike24",
@@ -271,7 +271,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-26T03:56:48.794Z"
+      "scrapedAt": "2026-10-26T11:50:12.619Z"
     },
     {
       "shop": "Decathlon",
@@ -279,7 +279,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-26T03:57:52.353Z"
+      "scrapedAt": "2026-10-26T11:51:16.207Z"
     }
   ]
 }
