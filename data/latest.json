@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T12:32:29.216Z",
+  "generatedAt": "2026-10-26T22:38:50.429Z",
   "totalItems": 37,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-26T12:31:29.959Z"
+      "scrapedAt": "2026-10-26T22:37:51.645Z"
     },
     {
       "shop": "Bikester",
@@ -130,10 +130,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Acid 240 Disc (2027)  | 24 inch jeugd-/kinder-MTB",
+          "name": "Aim SLX FE (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-240-disc-lizard-n-blue",
-          "price": 449,
+          "url": "https://www.bikester.be/products/cube-aim-slx-fe-slateblack-n-chrome",
+          "price": 799,
           "currency": "EUR"
         },
         {
@@ -263,7 +263,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-26T12:31:28.020Z"
+      "scrapedAt": "2026-10-26T22:37:48.364Z"
     },
     {
       "shop": "Bike24",
@@ -271,7 +271,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-26T12:31:25.611Z"
+      "scrapedAt": "2026-10-26T22:37:46.930Z"
     },
     {
       "shop": "Decathlon",
@@ -279,7 +279,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-26T12:32:29.205Z"
+      "scrapedAt": "2026-10-26T22:38:50.423Z"
     }
   ]
 }
