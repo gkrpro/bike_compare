@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T04:24:34.046Z",
+  "generatedAt": "2026-10-27T11:50:43.086Z",
   "totalItems": 37,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-27T04:23:35.438Z"
+      "scrapedAt": "2026-10-27T11:49:44.488Z"
     },
     {
       "shop": "Bikester",
@@ -102,13 +102,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Race 800 Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
-          "price": 3699,
-          "currency": "EUR"
-        },
-        {
           "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
@@ -123,6 +116,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Aim SLX FE (2027)  | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-slx-fe-slateblack-n-chrome",
+          "price": 799,
+          "currency": "EUR"
+        },
+        {
           "name": "Stereo Hybrid ONE44 HPC Pro 800 (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-metallicwhite-n-blue",
@@ -130,10 +130,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Aim SLX FE (2027)  | 29 inch MTB Hardtail",
+          "name": "Nuroad Race (2027) | Gravelbike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-slx-fe-slateblack-n-chrome",
-          "price": 799,
+          "url": "https://www.bikester.be/products/cube-nuroad-race-lindgreen-n-matcha",
+          "price": 1499,
           "currency": "EUR"
         },
         {
@@ -200,13 +200,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura Micro Set USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
-          "price": 26.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 30/Curve verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
@@ -218,6 +211,13 @@
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-80-blaze-usb-beleuchtungsset",
           "price": 60.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aura Micro Set USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
+          "price": 26.99,
           "currency": "EUR"
         },
         {
@@ -249,21 +249,21 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PRO",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
-          "price": 27.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Verlichtingsset PRO 100",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
           "price": 56.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM PRO",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
+          "price": 27.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-27T04:23:31.571Z"
+      "scrapedAt": "2026-10-27T11:49:41.889Z"
     },
     {
       "shop": "Bike24",
@@ -271,7 +271,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-27T04:23:30.464Z"
+      "scrapedAt": "2026-10-27T11:49:39.590Z"
     },
     {
       "shop": "Decathlon",
@@ -279,7 +279,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-27T04:24:34.040Z"
+      "scrapedAt": "2026-10-27T11:50:43.076Z"
     }
   ]
 }
