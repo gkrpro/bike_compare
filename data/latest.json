@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T12:25:17.705Z",
-  "totalItems": 35,
+  "generatedAt": "2026-10-28T22:22:49.994Z",
+  "totalItems": 38,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-28T12:24:18.923Z"
+      "scrapedAt": "2026-10-28T22:21:50.167Z"
     },
     {
       "shop": "Bikester",
@@ -99,6 +99,20 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
           "price": 3699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Attain C:62 Race (2027) | Racefiets",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-attain-c62-race-carbon-n-coalchrome",
+          "price": 1699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -127,13 +141,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-slx-fe-slateblack-n-chrome",
           "price": 799,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad Race (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-race-lindgreen-n-matcha",
-          "price": 1499,
           "currency": "EUR"
         },
         {
@@ -247,9 +254,23 @@
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
           "price": 56.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
+          "price": 25.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bagagedragermand 25 RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
+          "price": 27.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-28T12:24:15.816Z"
+      "scrapedAt": "2026-10-28T22:21:49.764Z"
     },
     {
       "shop": "Bike24",
@@ -257,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-28T12:24:14.485Z"
+      "scrapedAt": "2026-10-28T22:21:46.434Z"
     },
     {
       "shop": "Decathlon",
@@ -265,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-28T12:25:17.699Z"
+      "scrapedAt": "2026-10-28T22:22:49.986Z"
     }
   ]
 }
