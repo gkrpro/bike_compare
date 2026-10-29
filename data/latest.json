@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:59:56.352Z",
+  "generatedAt": "2026-10-29T12:34:22.693Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-29T04:58:57.143Z"
+      "scrapedAt": "2026-10-29T12:33:22.735Z"
     },
     {
       "shop": "Bikester",
@@ -95,24 +95,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Race 800 Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
-          "price": 3699,
-          "currency": "EUR"
-        },
-        {
-          "name": "Attain C:62 Race (2027) | Racefiets",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-attain-c62-race-carbon-n-coalchrome",
-          "price": 1699,
-          "currency": "EUR"
-        },
-        {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
           "price": 2599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Race 800 Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
+          "price": 3699,
           "currency": "EUR"
         },
         {
@@ -134,6 +127,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-metallicwhite-n-blue",
           "price": 4099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Pro 800 Diamant (2027) | 29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-diamant-silverdustnprism",
+          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -165,24 +165,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Addict Gravel 30 (2026) | Gravelbike",
-          "brand": "Scott",
-          "url": "https://www.bikester.be/products/scott-addict-gravel-30-carbon-grey",
-          "price": 2069,
-          "currency": "EUR"
-        },
-        {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
           "price": 2599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Rove AL/DL (2026) | Gravelbike",
-          "brand": "Kona",
-          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
-          "price": 699,
           "currency": "EUR"
         },
         {
@@ -193,10 +179,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Rove AL/DL (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
+          "price": 699,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad Race (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-race-lindgreen-n-matcha",
           "price": 1499,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "price": 1099,
           "currency": "EUR"
         },
         {
@@ -270,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-29T04:58:54.480Z"
+      "scrapedAt": "2026-10-29T12:33:20.781Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-29T04:58:52.702Z"
+      "scrapedAt": "2026-10-29T12:33:18.982Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-29T04:59:56.345Z"
+      "scrapedAt": "2026-10-29T12:34:22.685Z"
     }
   ]
 }
