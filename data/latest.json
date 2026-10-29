@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:34:22.693Z",
+  "generatedAt": "2026-10-29T22:35:57.795Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-29T12:33:22.735Z"
+      "scrapedAt": "2026-10-29T22:34:57.952Z"
     },
     {
       "shop": "Bikester",
@@ -91,6 +91,13 @@
           "name": "Kathmandu Hybrid ONE11 HPC Pro 800 (2027) | Trekking E-bike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-pro-800-slabgreynblack",
+          "price": 4199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kathmandu Hybrid ONE11 HPC Pro 800 Easy Entry (2027) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-pro-800-easy-entry-slabgreynblack",
           "price": 4199,
           "currency": "EUR"
         },
@@ -106,6 +113,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
           "price": 3699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Agree C:62 Pro (2027) | Racefiets",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-agree-c62-pro-carbon-n-black",
+          "price": 3299,
           "currency": "EUR"
         },
         {
@@ -127,20 +141,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-metallicwhite-n-blue",
           "price": 4099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Reaction Hybrid Pro 800 Diamant (2027) | 29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-diamant-silverdustnprism",
-          "price": 3199,
-          "currency": "EUR"
-        },
-        {
-          "name": "Aim SLX FE (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-slx-fe-slateblack-n-chrome",
-          "price": 799,
           "currency": "EUR"
         },
         {
@@ -186,31 +186,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad Race (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-race-lindgreen-n-matcha",
           "price": 1499,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
-          "price": 1099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Trans Alpine 30 fietsrugzak",
-          "brand": "deuter",
-          "url": "https://www.bikester.be/products/deuter-trans-alpine-30-black",
-          "price": 119.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Aura 30/Curve verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
-          "price": 20.99,
           "currency": "EUR"
         },
         {
@@ -268,9 +254,23 @@
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
           "price": 25.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Verlichtingsset PRO 30",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
+          "price": 33.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bordo 6000K/90 vouwslot + houder SH",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
+          "price": 85.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-29T12:33:20.781Z"
+      "scrapedAt": "2026-10-29T22:34:56.463Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-29T12:33:18.982Z"
+      "scrapedAt": "2026-10-29T22:34:54.148Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-29T12:34:22.685Z"
+      "scrapedAt": "2026-10-29T22:35:57.785Z"
     }
   ]
 }
