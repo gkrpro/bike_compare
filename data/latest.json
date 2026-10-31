@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T04:46:26.990Z",
+  "generatedAt": "2026-10-31T11:55:54.971Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-10-31T04:45:27.376Z"
+      "scrapedAt": "2026-10-31T11:54:55.424Z"
     },
     {
       "shop": "Bikester",
@@ -165,6 +165,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Rove AL/DL (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
+          "price": 699,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
@@ -176,13 +183,6 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
           "price": 1249,
-          "currency": "EUR"
-        },
-        {
-          "name": "Rove AL/DL (2026) | Gravelbike",
-          "brand": "Kona",
-          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
-          "price": 699,
           "currency": "EUR"
         },
         {
@@ -235,24 +235,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PRO",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
-          "price": 27.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Fietsenstandaard FM PURE",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
-          "price": 24.95,
-          "currency": "EUR"
-        },
-        {
           "name": "Verlichtingsset PRO 100",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
           "price": 56.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM PRO",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
+          "price": 27.99,
           "currency": "EUR"
         },
         {
@@ -263,6 +256,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Fietsenstandaard FM",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
+          "price": 25.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Bagagedragermand 25 RILink",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
@@ -270,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-10-31T04:45:24.703Z"
+      "scrapedAt": "2026-10-31T11:54:53.147Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-10-31T04:45:23.443Z"
+      "scrapedAt": "2026-10-31T11:54:51.321Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-10-31T04:46:26.972Z"
+      "scrapedAt": "2026-10-31T11:55:54.962Z"
     }
   ]
 }
