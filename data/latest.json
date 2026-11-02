@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T05:09:27.515Z",
+  "generatedAt": "2026-11-02T14:09:47.954Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-02T05:08:28.196Z"
+      "scrapedAt": "2026-11-02T14:08:48.633Z"
     },
     {
       "shop": "Bikester",
@@ -109,13 +109,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Agree C:62 Pro (2027) | Racefiets",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-agree-c62-pro-carbon-n-black",
-          "price": 3299,
-          "currency": "EUR"
-        },
-        {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
@@ -127,6 +120,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-pro-800-metallicwhite-n-blue",
           "price": 4099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Race 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-fe-diamant-slabgreynchrome",
+          "price": 3899,
           "currency": "EUR"
         },
         {
@@ -270,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-02T05:08:25.981Z"
+      "scrapedAt": "2026-11-02T14:08:46.780Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-02T05:08:23.882Z"
+      "scrapedAt": "2026-11-02T14:08:44.408Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-02T05:09:27.505Z"
+      "scrapedAt": "2026-11-02T14:09:47.946Z"
     }
   ]
 }
