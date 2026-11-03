@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T13:52:43.798Z",
+  "generatedAt": "2026-11-03T23:02:02.386Z",
   "totalItems": 38,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-03T13:51:45.865Z"
+      "scrapedAt": "2026-11-03T23:01:03.062Z"
     },
     {
       "shop": "Bikester",
@@ -116,6 +116,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Supreme Hybrid Comfort ONE 600 Easy Entry (2027) | Stad E-Bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-storm-n-reflex",
+          "price": 2599,
+          "currency": "EUR"
+        },
+        {
           "name": "Reaction Hybrid Pro 800 FE Diamant (2027) | 29 inch E-MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
@@ -134,13 +141,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-slx-fe-slateblack-n-chrome",
           "price": 799,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad Race (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-race-lindgreen-n-matcha",
-          "price": 1499,
           "currency": "EUR"
         },
         {
@@ -270,7 +270,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-03T13:51:41.885Z"
+      "scrapedAt": "2026-11-03T23:01:00.820Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +278,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-03T13:51:40.454Z"
+      "scrapedAt": "2026-11-03T23:00:58.705Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +286,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-03T13:52:43.788Z"
+      "scrapedAt": "2026-11-03T23:02:02.379Z"
     }
   ]
 }
