@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T14:00:05.347Z",
+  "generatedAt": "2026-11-04T23:26:14.595Z",
   "totalItems": 77,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-04T13:59:05.488Z"
+      "scrapedAt": "2026-11-04T23:25:14.677Z"
     },
     {
       "shop": "Bikester",
@@ -382,10 +382,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Agree C:62 Pro (2027) | Racefiets",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-agree-c62-pro-carbon-n-black",
+          "price": 3299,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
           "price": 2599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Stereo Hybrid ONE44 HPC Race 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-coal-n-green",
+          "price": 4399,
           "currency": "EUR"
         },
         {
@@ -400,20 +414,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
           "price": 3399,
-          "currency": "EUR"
-        },
-        {
-          "name": "Reaction Hybrid Pro 800 Diamant (2027)  | 29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-diamant-silverdustnprism",
-          "price": 3199,
-          "currency": "EUR"
-        },
-        {
-          "name": "Aim SLX FE (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-slx-fe-slateblack-n-chrome",
-          "price": 799,
           "currency": "EUR"
         },
         {
@@ -445,13 +445,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Grandurance 30 (2026) | Gravelbike",
-          "brand": "Bergamont",
-          "url": "https://www.bikester.be/products/bergamont-grandurance-30-reddish-black",
-          "price": 1049,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
@@ -470,6 +463,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-race-lindgreen-n-matcha",
           "price": 1499,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -543,7 +543,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-04T13:59:04.571Z"
+      "scrapedAt": "2026-11-04T23:25:13.026Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-04T13:59:02.042Z"
+      "scrapedAt": "2026-11-04T23:25:10.989Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-04T14:00:05.338Z"
+      "scrapedAt": "2026-11-04T23:26:14.585Z"
     }
   ]
 }
