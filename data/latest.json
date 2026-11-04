@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T05:30:45.211Z",
-  "totalItems": 38,
+  "generatedAt": "2026-11-04T14:00:05.347Z",
+  "totalItems": 77,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,13 +80,286 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-04T05:29:45.380Z"
+      "scrapedAt": "2026-11-04T13:59:05.488Z"
     },
     {
       "shop": "Bikester",
       "sourceUrl": "https://www.bikester.be/",
       "ok": true,
       "items": [
+        {
+          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
+          "brand": "KTM",
+          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
+          "price": 2819,
+          "currency": "EUR"
+        },
+        {
+          "name": "Rove (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-silver",
+          "price": 939,
+          "currency": "EUR"
+        },
+        {
+          "name": "Rove AL/DL (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
+          "price": 699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
+          "price": 1249,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nayta Pro (2026) | 27,5/29 inch MTB Hardtail",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-nayta-pro-rust-sulfur",
+          "price": 549,
+          "currency": "EUR"
+        },
+        {
+          "name": "Territ Pro (2026) | Gravelbike",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/r-raymon-territ-pro-palemauve-saltwhite",
+          "price": 1229,
+          "currency": "EUR"
+        },
+        {
+          "name": "Tahona 600 Diamant (2025) | Trekking E-bike",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-tahona-600-diamant-tenmoku-black-honey",
+          "price": 2399,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nayta Pro (2026) | 27,5/29 inch MTB Hardtail",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-nayta-pro-rust-sulfur",
+          "price": 549,
+          "currency": "EUR"
+        },
+        {
+          "name": "Territ Pro (2026) | Gravelbike",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/r-raymon-territ-pro-palemauve-saltwhite",
+          "price": 1229,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nayta (2026)  | 27,5 inch MTB Hardtail",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-nayta-mustard-lime-black-2025",
+          "price": 489,
+          "currency": "EUR"
+        },
+        {
+          "name": "MX 24 XC | 24 inch kinderfiets",
+          "brand": "Orbea",
+          "url": "https://www.bikester.be/products/orbea-mx-24-xc-halo-silver-spicy-lime-matt",
+          "price": 399,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kirana Ultra (2026) | Racefiets",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
+          "price": 2999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
+          "price": 1249,
+          "currency": "EUR"
+        },
+        {
+          "name": "Agree C:62 ONE (2026) | Racefiets",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-agree-c62-one-storm-n-grey",
+          "price": 2459,
+          "currency": "EUR"
+        },
+        {
+          "name": "MACINA SPORT 710 Diamant (2025) | Trekking E-bike",
+          "brand": "KTM",
+          "url": "https://www.bikester.be/products/ktm-macina-sport-710-diamant-green-purple-flip-matt-silver-blue",
+          "price": 2999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Tahona 600 Diamant (2025) | Trekking E-bike",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-tahona-600-diamant-tenmoku-black-honey",
+          "price": 2399,
+          "currency": "EUR"
+        },
+        {
+          "name": "MACINA STYLE 730 Trapeze 750 | Trekking E-Bike",
+          "brand": "KTM",
+          "url": "https://www.bikester.be/products/ktm-macina-style-730-trapez-750-black-matt-grey-orange",
+          "price": 2509,
+          "currency": "EUR"
+        },
+        {
+          "name": "Voltage eRIDE 910 | 29 inch E-MTB Fully",
+          "brand": "Scott",
+          "url": "https://www.bikester.be/products/scott-voltage-eride-910-2024",
+          "price": 4179,
+          "currency": "EUR"
+        },
+        {
+          "name": "MUGA 30 (2026) | Stadsfiets",
+          "brand": "Orbea",
+          "url": "https://www.bikester.be/products/orbea-muga-30-diamant-600-metallic-rust-diamond-black-matt",
+          "price": 3779,
+          "currency": "EUR"
+        },
+        {
+          "name": "eRX 6.4 MS 630Wh (2026) | Trekking E-bike",
+          "brand": "Superior",
+          "url": "https://www.bikester.be/products/superior-erx-64-ms-630wh-gloss-black",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
+          "name": "eRX 6.4 MS 630Wh (2026) | Trekking E-bike",
+          "brand": "Superior",
+          "url": "https://www.bikester.be/products/superior-erx-6-4-ms-630wh-gloss-soft-green",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
+          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
+          "brand": "KTM",
+          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
+          "price": 2819,
+          "currency": "EUR"
+        },
+        {
+          "name": "PureFlowz Shirt 3/4 | Heren lange mouw fietsjersey",
+          "brand": "Zimtstern",
+          "url": "https://www.bikester.be/products/zimtstern-pureflowz-shirt-3-4-men-burnt-orange-pirate-black",
+          "price": 35.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Flexair SS Jersey | Heren korte mouwen shirt",
+          "brand": "Fox",
+          "url": "https://www.bikester.be/products/fox-flexair-ss-jersey-lime",
+          "price": 48.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Blade Air Jersey korte mouwen | Heren fietsjersey korte mouwen",
+          "brand": "Northwave",
+          "url": "https://www.bikester.be/products/northwave-blade-air-jersey-short-sleeve-white-black",
+          "price": 53.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "PureFlowz Shirt 3/4 | Heren lange mouw fietsjersey",
+          "brand": "Zimtstern",
+          "url": "https://www.bikester.be/products/zimtstern-pureflowz-shirt-3-4-men-pacific-high-rise",
+          "price": 45.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Moab LS PRO Shirt zwart | Heren wielershirt met lange mouwen",
+          "brand": "VAUDE",
+          "url": "https://www.bikester.be/products/vaude-moab-ls-pro-shirt-herren-schwarz",
+          "price": 49.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Adventure Jacket Wind | Heren windjack",
+          "brand": "Gonso",
+          "url": "https://www.bikester.be/products/gonso-adventure-jacket-wind-herren-safety-yellow",
+          "price": 59.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bulletz Shirt LS | Heren wielershirt lange mouw",
+          "brand": "Zimtstern",
+          "url": "https://www.bikester.be/products/zimtstern-bulletz-shirt-ls-men-pirate-black-jester-red",
+          "price": 45.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Tremalzo Shorts III | Dames korte fietsbroek",
+          "brand": "VAUDE",
+          "url": "https://www.bikester.be/products/vaude-womens-tremalzo-shorts-iii-orange",
+          "price": 64.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Pomp Road PRO - minipomp",
+          "brand": "RFR",
+          "url": "https://www.bikester.be/products/rfr-pumpe-road-pro-orange-2023",
+          "price": 9.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Pomp HPA All in one - Minipomp",
+          "brand": "RFR",
+          "url": "https://www.bikester.be/products/rfr-pumpe-hpa-all-in-one",
+          "price": 16.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Iven Chain 8210/85 Kettingslot zwart",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-iven-chain-8210-85-kettenschloss-schwarz",
+          "price": 64.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Heuptas PURE 2",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-hufttasche-pure-2",
+          "price": 36.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Xberg 25 Rugzak Bagagedragerstas",
+          "brand": "deuter",
+          "url": "https://www.bikester.be/products/deuter-xberg-25-raisin-caspia",
+          "price": 139.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Spatbord VANE voor 29\" black´n´blue",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-blue",
+          "price": 8.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fleshouder HPP",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-sand-n-glossy-black-2023",
+          "price": 5.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Voorvork spatbord VANE 29\"",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-green-2023",
+          "price": 8.99,
+          "currency": "EUR"
+        },
         {
           "name": "Kathmandu Hybrid ONE11 HPC Pro 800 (2027) | Trekking E-bike",
           "brand": "Cube",
@@ -172,6 +445,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Grandurance 30 (2026) | Gravelbike",
+          "brand": "Bergamont",
+          "url": "https://www.bikester.be/products/bergamont-grandurance-30-reddish-black",
+          "price": 1049,
+          "currency": "EUR"
+        },
+        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
@@ -193,13 +473,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
-          "currency": "EUR"
-        },
-        {
           "name": "Aura 30/Curve verlichtingsset",
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
@@ -211,13 +484,6 @@
           "brand": "SIGMA",
           "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
           "price": 26.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
-          "price": 89.99,
           "currency": "EUR"
         },
         {
@@ -235,17 +501,17 @@
           "currency": "EUR"
         },
         {
+          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Bordo Big 6000K/120 Vouwslot + Houder SH",
           "brand": "Abus",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Fietsenstandaard FM PRO",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
-          "price": 27.99,
           "currency": "EUR"
         },
         {
@@ -256,10 +522,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Verlichtingsset PRO 30",
+          "name": "Fietsenstandaard FM PRO",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
-          "price": 33.99,
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
+          "price": 27.99,
           "currency": "EUR"
         },
         {
@@ -268,9 +534,16 @@
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
           "price": 24.95,
           "currency": "EUR"
+        },
+        {
+          "name": "Bagagedragermand 25 RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
+          "price": 27.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-04T05:29:43.379Z"
+      "scrapedAt": "2026-11-04T13:59:04.571Z"
     },
     {
       "shop": "Bike24",
@@ -278,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-04T05:29:41.534Z"
+      "scrapedAt": "2026-11-04T13:59:02.042Z"
     },
     {
       "shop": "Decathlon",
@@ -286,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-04T05:30:45.204Z"
+      "scrapedAt": "2026-11-04T14:00:05.338Z"
     }
   ]
 }
