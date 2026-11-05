@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T05:51:11.727Z",
+  "generatedAt": "2026-11-05T14:20:55.841Z",
   "totalItems": 77,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-05T05:50:12.499Z"
+      "scrapedAt": "2026-11-05T14:19:56.273Z"
     },
     {
       "shop": "Bikester",
@@ -99,6 +99,13 @@
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-silver",
           "price": 939,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kirana Ultra (2026) | Racefiets",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
+          "price": 2999,
           "currency": "EUR"
         },
         {
@@ -134,13 +141,6 @@
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/r-raymon-territ-pro-palemauve-saltwhite",
           "price": 1229,
-          "currency": "EUR"
-        },
-        {
-          "name": "Tahona 600 Diamant (2025) | Trekking E-bike",
-          "brand": "Raymon",
-          "url": "https://www.bikester.be/products/raymon-tahona-600-diamant-tenmoku-black-honey",
-          "price": 2399,
           "currency": "EUR"
         },
         {
@@ -203,7 +203,7 @@
           "name": "Tahona 600 Diamant (2025) | Trekking E-bike",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-tahona-600-diamant-tenmoku-black-honey",
-          "price": 2399,
+          "price": 2352,
           "currency": "EUR"
         },
         {
@@ -249,6 +249,20 @@
           "currency": "EUR"
         },
         {
+          "name": "4FORTY Mips Solid zwart MTB Helm",
+          "brand": "Bell",
+          "url": "https://www.bikester.be/products/bell-4forty-mips-mtb-helm-solid-black",
+          "price": 69.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fixture II Y jeugdhelm",
+          "brand": "Giro",
+          "url": "https://www.bikester.be/products/giro-fixture-ii-y-matte-green-rush",
+          "price": 42.99,
+          "currency": "EUR"
+        },
+        {
           "name": "PureFlowz Shirt 3/4 | Heren lange mouw fietsjersey",
           "brand": "Zimtstern",
           "url": "https://www.bikester.be/products/zimtstern-pureflowz-shirt-3-4-men-burnt-orange-pirate-black",
@@ -273,35 +287,21 @@
           "name": "PureFlowz Shirt 3/4 | Heren lange mouw fietsjersey",
           "brand": "Zimtstern",
           "url": "https://www.bikester.be/products/zimtstern-pureflowz-shirt-3-4-men-pacific-high-rise",
-          "price": 45.99,
+          "price": 43.99,
           "currency": "EUR"
         },
         {
           "name": "Moab LS PRO Shirt zwart | Heren wielershirt met lange mouwen",
           "brand": "VAUDE",
           "url": "https://www.bikester.be/products/vaude-moab-ls-pro-shirt-herren-schwarz",
-          "price": 49.99,
+          "price": 44.99,
           "currency": "EUR"
         },
         {
           "name": "Adventure Jacket Wind | Heren windjack",
           "brand": "Gonso",
           "url": "https://www.bikester.be/products/gonso-adventure-jacket-wind-herren-safety-yellow",
-          "price": 59.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bulletz Shirt LS | Heren wielershirt lange mouw",
-          "brand": "Zimtstern",
-          "url": "https://www.bikester.be/products/zimtstern-bulletz-shirt-ls-men-pirate-black-jester-red",
-          "price": 45.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Tremalzo Shorts III | Dames korte fietsbroek",
-          "brand": "VAUDE",
-          "url": "https://www.bikester.be/products/vaude-womens-tremalzo-shorts-iii-orange",
-          "price": 64.99,
+          "price": 56.99,
           "currency": "EUR"
         },
         {
@@ -340,17 +340,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Spatbord VANE voor 29\" black´n´blue",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-blue",
-          "price": 8.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Fleshouder HPP",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-sand-n-glossy-black-2023",
           "price": 5.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Spatbord VANE voor 29\" black´n´blue",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-blue",
+          "price": 8.99,
           "currency": "EUR"
         },
         {
@@ -375,10 +375,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Race 800 Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
-          "price": 3699,
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -386,13 +386,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-agree-c62-pro-carbon-n-black",
           "price": 3299,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -407,6 +400,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-storm-n-reflex",
           "price": 2599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Race 800 Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
+          "price": 3699,
           "currency": "EUR"
         },
         {
@@ -543,7 +543,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-05T05:50:10.543Z"
+      "scrapedAt": "2026-11-05T14:19:54.729Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-05T05:50:08.262Z"
+      "scrapedAt": "2026-11-05T14:19:52.217Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-05T05:51:11.720Z"
+      "scrapedAt": "2026-11-05T14:20:55.834Z"
     }
   ]
 }
