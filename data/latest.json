@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T14:20:55.841Z",
+  "generatedAt": "2026-11-05T23:27:25.003Z",
   "totalItems": 77,
   "shops": [
     {
@@ -80,13 +80,34 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-05T14:19:56.273Z"
+      "scrapedAt": "2026-11-05T23:26:24.873Z"
     },
     {
       "shop": "Bikester",
       "sourceUrl": "https://www.bikester.be/",
       "ok": true,
       "items": [
+        {
+          "name": "Tahona 600 Diamant (2025) | Trekking E-bike",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-tahona-600-diamant-tenmoku-black-honey",
+          "price": 2352,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nayta Pro (2026) | 27,5/29 inch MTB Hardtail",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-nayta-pro-rust-sulfur",
+          "price": 549,
+          "currency": "EUR"
+        },
+        {
+          "name": "Territ Pro (2026) | Gravelbike",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/r-raymon-territ-pro-palemauve-saltwhite",
+          "price": 1229,
+          "currency": "EUR"
+        },
         {
           "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
           "brand": "KTM",
@@ -123,13 +144,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
-          "currency": "EUR"
-        },
-        {
           "name": "Nayta Pro (2026) | 27,5/29 inch MTB Hardtail",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-nayta-pro-rust-sulfur",
@@ -144,21 +158,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Nayta Pro (2026) | 27,5/29 inch MTB Hardtail",
+          "name": "Kirana Ultra (2026) | Racefiets",
           "brand": "Raymon",
-          "url": "https://www.bikester.be/products/raymon-nayta-pro-rust-sulfur",
-          "price": 549,
+          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
+          "price": 2999,
           "currency": "EUR"
         },
         {
-          "name": "Territ Pro (2026) | Gravelbike",
-          "brand": "Raymon",
-          "url": "https://www.bikester.be/products/r-raymon-territ-pro-palemauve-saltwhite",
-          "price": 1229,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nayta (2026)  | 27,5 inch MTB Hardtail",
+          "name": "Nayta (2026) | 27,5 inch MTB Hardtail",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-nayta-mustard-lime-black-2025",
           "price": 489,
@@ -169,13 +176,6 @@
           "brand": "Orbea",
           "url": "https://www.bikester.be/products/orbea-mx-24-xc-halo-silver-spicy-lime-matt",
           "price": 399,
-          "currency": "EUR"
-        },
-        {
-          "name": "Kirana Ultra (2026) | Racefiets",
-          "brand": "Raymon",
-          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
-          "price": 2999,
           "currency": "EUR"
         },
         {
@@ -193,17 +193,17 @@
           "currency": "EUR"
         },
         {
-          "name": "MACINA SPORT 710 Diamant (2025) | Trekking E-bike",
-          "brand": "KTM",
-          "url": "https://www.bikester.be/products/ktm-macina-sport-710-diamant-green-purple-flip-matt-silver-blue",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
           "name": "Tahona 600 Diamant (2025) | Trekking E-bike",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-tahona-600-diamant-tenmoku-black-honey",
           "price": 2352,
+          "currency": "EUR"
+        },
+        {
+          "name": "MACINA SPORT 710 Diamant (2025) | Trekking E-bike",
+          "brand": "KTM",
+          "url": "https://www.bikester.be/products/ktm-macina-sport-710-diamant-green-purple-flip-matt-silver-blue",
+          "price": 2999,
           "currency": "EUR"
         },
         {
@@ -410,10 +410,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Pro 800 FE Diamant (2027) | 29 inch E-MTB Hardtail",
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
           "price": 3399,
+          "currency": "EUR"
+        },
+        {
+          "name": "Territ Pro (2026) | Gravelbike",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/r-raymon-territ-pro-palemauve-saltwhite",
+          "price": 1229,
           "currency": "EUR"
         },
         {
@@ -463,13 +470,6 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
           "price": 1199,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad Race (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-race-lindgreen-n-matcha",
-          "price": 1499,
           "currency": "EUR"
         },
         {
@@ -543,7 +543,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-05T14:19:54.729Z"
+      "scrapedAt": "2026-11-05T23:26:24.075Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-05T14:19:52.217Z"
+      "scrapedAt": "2026-11-05T23:26:21.393Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-05T14:20:55.834Z"
+      "scrapedAt": "2026-11-05T23:27:24.994Z"
     }
   ]
 }
