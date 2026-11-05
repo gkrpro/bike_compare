@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:26:14.595Z",
+  "generatedAt": "2026-11-05T05:51:11.727Z",
   "totalItems": 77,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-04T23:25:14.677Z"
+      "scrapedAt": "2026-11-05T05:50:12.499Z"
     },
     {
       "shop": "Bikester",
@@ -459,17 +459,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad Race (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-race-lindgreen-n-matcha",
-          "price": 1499,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
           "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad Race (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-race-lindgreen-n-matcha",
+          "price": 1499,
           "currency": "EUR"
         },
         {
@@ -501,6 +501,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Bordo Big 6000K/120 Vouwslot + Houder SH",
+          "brand": "Abus",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
+          "currency": "EUR"
+        },
+        {
           "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
@@ -508,10 +515,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo Big 6000K/120 Vouwslot + Houder SH",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
-          "price": 102.99,
+          "name": "Fietsenstandaard FM PURE",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
+          "price": 24.95,
           "currency": "EUR"
         },
         {
@@ -529,21 +536,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PURE",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
-          "price": 24.95,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bagagedragermand 25 RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
-          "price": 27.99,
+          "name": "Aura 40 /HIRO 10 USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-40-hiro-10-usb-beleuchtungsset",
+          "price": 49.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-04T23:25:13.026Z"
+      "scrapedAt": "2026-11-05T05:50:10.543Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-04T23:25:10.989Z"
+      "scrapedAt": "2026-11-05T05:50:08.262Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-04T23:26:14.585Z"
+      "scrapedAt": "2026-11-05T05:51:11.720Z"
     }
   ]
 }
