@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T05:47:04.085Z",
-  "totalItems": 77,
+  "generatedAt": "2026-11-06T13:58:04.041Z",
+  "totalItems": 78,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-06T05:46:03.938Z"
+      "scrapedAt": "2026-11-06T13:57:03.999Z"
     },
     {
       "shop": "Bikester",
@@ -95,7 +95,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Nayta Pro (2026) | 27,5/29 inch MTB Hardtail",
+          "name": "Nayta Pro (2026) | 29 inch MTB Hardtail",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-nayta-pro-rust-sulfur",
           "price": 549,
@@ -106,6 +106,20 @@
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/r-raymon-territ-pro-palemauve-saltwhite",
           "price": 1229,
+          "currency": "EUR"
+        },
+        {
+          "name": "CPT 1.4 X Step (2025) | Compact E-Bike",
+          "brand": "BESV",
+          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-dark-navy-gls-2025",
+          "price": 1769,
+          "currency": "EUR"
+        },
+        {
+          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
+          "brand": "BESV",
+          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-met-gold-gls-2025",
+          "price": 1769,
           "currency": "EUR"
         },
         {
@@ -130,21 +144,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Rove AL/DL (2026) | Gravelbike",
-          "brand": "Kona",
-          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
-          "price": 699,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
-          "price": 1249,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nayta Pro (2026) | 27,5/29 inch MTB Hardtail",
+          "name": "Nayta Pro (2026) | 29 inch MTB Hardtail",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-nayta-pro-rust-sulfur",
           "price": 549,
@@ -158,24 +158,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Nayta Ultra (2026) | 27,5/29 inch MTB Hardtail",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-nayta-ultra-anthracite-black",
+          "price": 739,
+          "currency": "EUR"
+        },
+        {
           "name": "Kirana Ultra (2026) | Racefiets",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
           "price": 2999,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nayta (2026) | 27,5 inch MTB Hardtail",
-          "brand": "Raymon",
-          "url": "https://www.bikester.be/products/raymon-nayta-mustard-lime-black-2025",
-          "price": 489,
-          "currency": "EUR"
-        },
-        {
-          "name": "MX 24 XC | 24 inch kinderfiets",
-          "brand": "Orbea",
-          "url": "https://www.bikester.be/products/orbea-mx-24-xc-halo-silver-spicy-lime-matt",
-          "price": 399,
           "currency": "EUR"
         },
         {
@@ -186,10 +179,24 @@
           "currency": "EUR"
         },
         {
+          "name": "MX 24 XC | 24 inch kinderfiets",
+          "brand": "Orbea",
+          "url": "https://www.bikester.be/products/orbea-mx-24-xc-halo-silver-spicy-lime-matt",
+          "price": 399,
+          "currency": "EUR"
+        },
+        {
           "name": "Agree C:62 ONE (2026) | Racefiets",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-agree-c62-one-storm-n-grey",
           "price": 2459,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nayta (2026) | 27,5 inch MTB Hardtail",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-nayta-mustard-lime-black-2025",
+          "price": 489,
           "currency": "EUR"
         },
         {
@@ -315,7 +322,7 @@
           "name": "Pomp HPA All in one - Minipomp",
           "brand": "RFR",
           "url": "https://www.bikester.be/products/rfr-pumpe-hpa-all-in-one",
-          "price": 16.99,
+          "price": 14.99,
           "currency": "EUR"
         },
         {
@@ -361,17 +368,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Kathmandu Hybrid ONE11 HPC Pro 800 (2027) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-pro-800-slabgreynblack",
-          "price": 4199,
-          "currency": "EUR"
-        },
-        {
           "name": "Kathmandu Hybrid ONE11 HPC SLT 800 Easy Entry (2026) | Trekking E-bike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-slt-800-easy-entry-carbon-n-silverdust",
           "price": 5999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kathmandu Hybrid ONE11 HPC Pro 800 (2027) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-pro-800-slabgreynblack",
+          "price": 4199,
           "currency": "EUR"
         },
         {
@@ -386,13 +393,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-agree-c62-pro-carbon-n-black",
           "price": 3299,
-          "currency": "EUR"
-        },
-        {
-          "name": "Stereo Hybrid ONE44 HPC Race 800 (2027)  | 27,5/29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-coal-n-green",
-          "price": 4399,
           "currency": "EUR"
         },
         {
@@ -414,6 +414,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
           "price": 3399,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid Pro 800 Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-diamant-silverdustnprism",
+          "price": 3199,
           "currency": "EUR"
         },
         {
@@ -466,10 +473,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad Race (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-race-lindgreen-n-matcha",
-          "price": 1499,
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -543,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-06T05:46:02.785Z"
+      "scrapedAt": "2026-11-06T13:57:02.708Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-06T05:46:00.482Z"
+      "scrapedAt": "2026-11-06T13:57:00.502Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-06T05:47:04.078Z"
+      "scrapedAt": "2026-11-06T13:58:04.030Z"
     }
   ]
 }
