@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:58:04.041Z",
+  "generatedAt": "2026-11-06T22:53:42.892Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-06T13:57:03.999Z"
+      "scrapedAt": "2026-11-06T22:52:43.590Z"
     },
     {
       "shop": "Bikester",
@@ -109,20 +109,6 @@
           "currency": "EUR"
         },
         {
-          "name": "CPT 1.4 X Step (2025) | Compact E-Bike",
-          "brand": "BESV",
-          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-dark-navy-gls-2025",
-          "price": 1769,
-          "currency": "EUR"
-        },
-        {
-          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
-          "brand": "BESV",
-          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-met-gold-gls-2025",
-          "price": 1769,
-          "currency": "EUR"
-        },
-        {
           "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
           "brand": "KTM",
           "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
@@ -141,6 +127,20 @@
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
           "price": 2999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Rove AL/DL (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
+          "price": 699,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
+          "price": 1249,
           "currency": "EUR"
         },
         {
@@ -249,10 +249,10 @@
           "currency": "EUR"
         },
         {
-          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
-          "brand": "KTM",
-          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
-          "price": 2819,
+          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
+          "brand": "BESV",
+          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-met-gold-gls-2025",
+          "price": 1769,
           "currency": "EUR"
         },
         {
@@ -333,13 +333,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Heuptas PURE 2",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-hufttasche-pure-2",
-          "price": 36.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Xberg 25 Rugzak Bagagedragerstas",
           "brand": "deuter",
           "url": "https://www.bikester.be/products/deuter-xberg-25-raisin-caspia",
@@ -364,6 +357,13 @@
           "name": "Voorvork spatbord VANE 29\"",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-green-2023",
+          "price": 8.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Spatbord VANE DISC achter 29\"",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-disc-hinten-29-black-n-green-2023",
           "price": 8.99,
           "currency": "EUR"
         },
@@ -396,13 +396,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Supreme Hybrid Comfort ONE 600 Easy Entry (2027) | Stad E-Bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-storm-n-reflex",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
           "name": "Reaction Hybrid Race 800 Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
@@ -421,6 +414,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-diamant-silverdustnprism",
           "price": 3199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aim SLX FE (2027)  | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-slx-fe-slateblack-n-chrome",
+          "price": 799,
           "currency": "EUR"
         },
         {
@@ -550,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-06T13:57:02.708Z"
+      "scrapedAt": "2026-11-06T22:52:42.156Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-06T13:57:00.502Z"
+      "scrapedAt": "2026-11-06T22:52:39.372Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-06T13:58:04.030Z"
+      "scrapedAt": "2026-11-06T22:53:42.879Z"
     }
   ]
 }
