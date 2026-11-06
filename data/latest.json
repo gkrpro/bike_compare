@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:27:25.003Z",
+  "generatedAt": "2026-11-06T05:47:04.085Z",
   "totalItems": 77,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-05T23:26:24.873Z"
+      "scrapedAt": "2026-11-06T05:46:03.938Z"
     },
     {
       "shop": "Bikester",
@@ -320,7 +320,7 @@
         },
         {
           "name": "Iven Chain 8210/85 Kettingslot zwart",
-          "brand": "Abus",
+          "brand": "ABUS",
           "url": "https://www.bikester.be/products/abus-iven-chain-8210-85-kettenschloss-schwarz",
           "price": 64.99,
           "currency": "EUR"
@@ -466,10 +466,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
+          "name": "Nuroad Race (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-race-lindgreen-n-matcha",
+          "price": 1499,
           "currency": "EUR"
         },
         {
@@ -494,20 +494,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard Cubestand CMPT",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
-          "price": 22.95,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bordo Big 6000K/120 Vouwslot + Houder SH",
-          "brand": "Abus",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
-          "price": 102.99,
-          "currency": "EUR"
-        },
-        {
           "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
@@ -515,10 +501,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Fietsenstandaard Cubestand CMPT",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
+          "price": 22.95,
+          "currency": "EUR"
+        },
+        {
           "name": "Fietsenstandaard FM PURE",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
           "price": 24.95,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
+          "brand": "ABUS",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
           "currency": "EUR"
         },
         {
@@ -536,14 +536,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 40 /HIRO 10 USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-40-hiro-10-usb-beleuchtungsset",
-          "price": 49.99,
+          "name": "Verlichtingsset PRO 30",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
+          "price": 33.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-05T23:26:24.075Z"
+      "scrapedAt": "2026-11-06T05:46:02.785Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-05T23:26:21.393Z"
+      "scrapedAt": "2026-11-06T05:46:00.482Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-05T23:27:24.994Z"
+      "scrapedAt": "2026-11-06T05:47:04.078Z"
     }
   ]
 }
