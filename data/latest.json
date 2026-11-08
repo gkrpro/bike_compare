@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T21:38:08.908Z",
+  "generatedAt": "2026-11-08T05:14:33.014Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-07T21:37:09.158Z"
+      "scrapedAt": "2026-11-08T05:13:32.985Z"
     },
     {
       "shop": "Bikester",
@@ -249,9 +249,9 @@
           "currency": "EUR"
         },
         {
-          "name": "CPT 1.4 X Step (2025) | Compact E-Bike",
+          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
           "brand": "BESV",
-          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-dark-navy-gls-2025",
+          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-met-gold-gls-2025",
           "price": 1769,
           "currency": "EUR"
         },
@@ -298,7 +298,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Moab LS PRO Shirt zwart | Heren wielershirt met lange mouwen",
+          "name": "Moab LS PRO Shirt zwart | Heren wielershirt lange mouwen",
           "brand": "VAUDE",
           "url": "https://www.bikester.be/products/vaude-moab-ls-pro-shirt-herren-schwarz",
           "price": 44.99,
@@ -550,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-07T21:37:08.434Z"
+      "scrapedAt": "2026-11-08T05:13:32.737Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-07T21:37:05.402Z"
+      "scrapedAt": "2026-11-08T05:13:29.536Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-07T21:38:08.896Z"
+      "scrapedAt": "2026-11-08T05:14:33.003Z"
     }
   ]
 }
