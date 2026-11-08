@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:59:29.720Z",
+  "generatedAt": "2026-11-08T21:51:54.862Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-08T12:58:29.953Z"
+      "scrapedAt": "2026-11-08T21:50:55.681Z"
     },
     {
       "shop": "Bikester",
@@ -291,7 +291,7 @@
           "currency": "EUR"
         },
         {
-          "name": "PureFlowz Shirt 3/4 | Heren lange mouw fietsjersey",
+          "name": "PureFlowz Shirt 3/4 | Heren wielershirt lange mouw",
           "brand": "Zimtstern",
           "url": "https://www.bikester.be/products/zimtstern-pureflowz-shirt-3-4-men-pacific-high-rise",
           "price": 43.99,
@@ -550,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-08T12:58:29.037Z"
+      "scrapedAt": "2026-11-08T21:50:53.504Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-08T12:58:26.374Z"
+      "scrapedAt": "2026-11-08T21:50:51.307Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-08T12:59:29.713Z"
+      "scrapedAt": "2026-11-08T21:51:54.855Z"
     }
   ]
 }
