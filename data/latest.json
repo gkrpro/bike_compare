@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T14:40:42.743Z",
-  "totalItems": 77,
+  "generatedAt": "2026-11-09T15:41:02.854Z",
+  "totalItems": 78,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-09T14:39:43.128Z"
+      "scrapedAt": "2026-11-09T15:40:03.300Z"
     },
     {
       "shop": "Bikester",
@@ -417,6 +417,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Kathmandu Hybrid ONE11 HPC Pro 800 (2027) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-pro-800-slabgreynblack",
+          "price": 4199,
+          "currency": "EUR"
+        },
+        {
           "name": "Territ Pro (2026) | Gravelbike",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/r-raymon-territ-pro-palemauve-saltwhite",
@@ -543,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-09T14:39:41.841Z"
+      "scrapedAt": "2026-11-09T15:40:01.469Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-09T14:39:39.101Z"
+      "scrapedAt": "2026-11-09T15:39:59.298Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-09T14:40:42.735Z"
+      "scrapedAt": "2026-11-09T15:41:02.845Z"
     }
   ]
 }
