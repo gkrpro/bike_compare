@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T05:25:49.611Z",
-  "totalItems": 78,
+  "generatedAt": "2026-11-09T14:40:42.743Z",
+  "totalItems": 77,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-09T05:24:50.256Z"
+      "scrapedAt": "2026-11-09T14:39:43.128Z"
     },
     {
       "shop": "Bikester",
@@ -109,17 +109,17 @@
           "currency": "EUR"
         },
         {
-          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
-          "brand": "KTM",
-          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
-          "price": 2819,
-          "currency": "EUR"
-        },
-        {
           "name": "Kirana Ultra (2026) | Racefiets",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
           "price": 2999,
+          "currency": "EUR"
+        },
+        {
+          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
+          "brand": "KTM",
+          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
+          "price": 2819,
           "currency": "EUR"
         },
         {
@@ -251,7 +251,7 @@
         {
           "name": "CPT 1.4 X Step (2025) | Compact E-bike",
           "brand": "BESV",
-          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-met-gold-gls-2025",
+          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-dark-navy-gls-2025",
           "price": 1769,
           "currency": "EUR"
         },
@@ -361,10 +361,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Fleshouder HPP mat zwart´n´flashyellow",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-flaschenhalter-hpp-matt-black-n-flashyellow-2023",
-          "price": 5.99,
+          "name": "Fietscomputer CMPT",
+          "brand": "RFR",
+          "url": "https://www.bikester.be/products/rfr-fahrradcomputer-cmpt-blue-2023",
+          "price": 6.99,
           "currency": "EUR"
         },
         {
@@ -375,17 +375,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "name": "Supreme Hybrid Comfort ONE 600 Easy Entry (2027) | Stad E-Bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
-          "price": 1999,
-          "currency": "EUR"
-        },
-        {
-          "name": "Kathmandu Hybrid ONE11 HPC Pro 800 (2027) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-pro-800-slabgreynblack",
-          "price": 4199,
+          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-storm-n-reflex",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -396,31 +389,31 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
+          "price": 3399,
           "currency": "EUR"
         },
         {
-          "name": "Agree C:62 Pro (2027) | Racefiets",
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-agree-c62-pro-carbon-n-black",
-          "price": 3299,
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
+          "price": 1999,
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Race 800 Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
+          "name": "Reaction Hybrid Race 800 Diamant (2027) | 27,5/29 inch E-MTB hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
           "price": 3699,
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
-          "price": 3399,
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -550,7 +543,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-09T05:24:48.028Z"
+      "scrapedAt": "2026-11-09T14:39:41.841Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-09T05:24:46.202Z"
+      "scrapedAt": "2026-11-09T14:39:39.101Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-09T05:25:49.602Z"
+      "scrapedAt": "2026-11-09T14:40:42.735Z"
     }
   ]
 }
