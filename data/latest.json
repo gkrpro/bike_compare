@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:51:54.862Z",
+  "generatedAt": "2026-11-09T05:25:49.611Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-08T21:50:55.681Z"
+      "scrapedAt": "2026-11-09T05:24:50.256Z"
     },
     {
       "shop": "Bikester",
@@ -459,17 +459,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
-          "price": 1999,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
           "price": 1249,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
+          "price": 1999,
           "currency": "EUR"
         },
         {
@@ -498,13 +498,6 @@
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
           "price": 56.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
-          "price": 89.99,
           "currency": "EUR"
         },
         {
@@ -548,9 +541,16 @@
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Aura 40 /HIRO 10 USB verlichtingsset",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-40-hiro-10-usb-beleuchtungsset",
+          "price": 49.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-08T21:50:53.504Z"
+      "scrapedAt": "2026-11-09T05:24:48.028Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-08T21:50:51.307Z"
+      "scrapedAt": "2026-11-09T05:24:46.202Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-08T21:51:54.855Z"
+      "scrapedAt": "2026-11-09T05:25:49.602Z"
     }
   ]
 }
