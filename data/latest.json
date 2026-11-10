@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:35:16.222Z",
+  "generatedAt": "2026-11-10T23:00:07.298Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-10T14:34:17.210Z"
+      "scrapedAt": "2026-11-10T22:59:07.313Z"
     },
     {
       "shop": "Bikester",
@@ -396,13 +396,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Supreme Hybrid Comfort ONE 600 Easy Entry (2027) | Stad E-Bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-storm-n-reflex",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
@@ -421,6 +414,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-nebula-n-prizm",
           "price": 4399,
+          "currency": "EUR"
+        },
+        {
+          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-blackline",
+          "price": 4999,
           "currency": "EUR"
         },
         {
@@ -477,13 +477,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
           "price": 2599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Aura 30/Curve verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
-          "price": 20.99,
           "currency": "EUR"
         },
         {
@@ -548,9 +541,16 @@
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Bagagedragermand 25 RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
+          "price": 27.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-10T14:34:15.259Z"
+      "scrapedAt": "2026-11-10T22:59:06.997Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-10T14:34:12.619Z"
+      "scrapedAt": "2026-11-10T22:59:03.938Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-10T14:35:16.214Z"
+      "scrapedAt": "2026-11-10T23:00:07.290Z"
     }
   ]
 }
