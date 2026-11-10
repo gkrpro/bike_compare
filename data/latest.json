@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:41:02.854Z",
+  "generatedAt": "2026-11-10T01:22:50.038Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-09T15:40:03.300Z"
+      "scrapedAt": "2026-11-10T01:21:50.182Z"
     },
     {
       "shop": "Bikester",
@@ -95,7 +95,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Nayta Pro (2026) | 29 inch MTB Hardtail",
+          "name": "Nayta Pro (2026)  | 29 inch MTB Hardtail",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-nayta-pro-rust-sulfur",
           "price": 549,
@@ -144,7 +144,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Nayta Pro (2026) | 29 inch MTB Hardtail",
+          "name": "Nayta Pro (2026)  | 29 inch MTB Hardtail",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-nayta-pro-rust-sulfur",
           "price": 549,
@@ -251,7 +251,7 @@
         {
           "name": "CPT 1.4 X Step (2025) | Compact E-bike",
           "brand": "BESV",
-          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-dark-navy-gls-2025",
+          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-met-gold-gls-2025",
           "price": 1769,
           "currency": "EUR"
         },
@@ -543,14 +543,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 40 /HIRO 10 USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-40-hiro-10-usb-beleuchtungsset",
-          "price": 49.99,
+          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-09T15:40:01.469Z"
+      "scrapedAt": "2026-11-10T01:21:49.279Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-09T15:39:59.298Z"
+      "scrapedAt": "2026-11-10T01:21:46.638Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-09T15:41:02.845Z"
+      "scrapedAt": "2026-11-10T01:22:50.027Z"
     }
   ]
 }
