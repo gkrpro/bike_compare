@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:22:50.038Z",
+  "generatedAt": "2026-11-10T14:35:16.222Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-10T01:21:50.182Z"
+      "scrapedAt": "2026-11-10T14:34:17.210Z"
     },
     {
       "shop": "Bikester",
@@ -109,17 +109,24 @@
           "currency": "EUR"
         },
         {
+          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
+          "brand": "BESV",
+          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-dark-navy-gls-2025",
+          "price": 1769,
+          "currency": "EUR"
+        },
+        {
+          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
+          "brand": "BESV",
+          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-met-gold-gls-2025",
+          "price": 1769,
+          "currency": "EUR"
+        },
+        {
           "name": "Kirana Ultra (2026) | Racefiets",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
           "price": 2999,
-          "currency": "EUR"
-        },
-        {
-          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
-          "brand": "KTM",
-          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
-          "price": 2819,
           "currency": "EUR"
         },
         {
@@ -130,17 +137,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Rove AL/DL (2026) | Gravelbike",
-          "brand": "Kona",
-          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
-          "price": 699,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
-          "price": 1249,
+          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
+          "brand": "KTM",
+          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
+          "price": 2819,
           "currency": "EUR"
         },
         {
@@ -207,6 +207,20 @@
           "currency": "EUR"
         },
         {
+          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
+          "brand": "BESV",
+          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-dark-navy-gls-2025",
+          "price": 1769,
+          "currency": "EUR"
+        },
+        {
+          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
+          "brand": "BESV",
+          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-met-gold-gls-2025",
+          "price": 1769,
+          "currency": "EUR"
+        },
+        {
           "name": "MACINA SPORT 710 Diamant (2025) | Trekking E-bike",
           "brand": "KTM",
           "url": "https://www.bikester.be/products/ktm-macina-sport-710-diamant-green-purple-flip-matt-silver-blue",
@@ -218,20 +232,6 @@
           "brand": "KTM",
           "url": "https://www.bikester.be/products/ktm-macina-style-730-trapez-750-black-matt-grey-orange",
           "price": 2509,
-          "currency": "EUR"
-        },
-        {
-          "name": "Voltage eRIDE 910 | 29 inch E-MTB Fully",
-          "brand": "Scott",
-          "url": "https://www.bikester.be/products/scott-voltage-eride-910-2024",
-          "price": 4179,
-          "currency": "EUR"
-        },
-        {
-          "name": "MUGA 30 (2026) | Stadsfiets",
-          "brand": "Orbea",
-          "url": "https://www.bikester.be/products/orbea-muga-30-diamant-600-metallic-rust-diamond-black-matt",
-          "price": 3779,
           "currency": "EUR"
         },
         {
@@ -249,10 +249,10 @@
           "currency": "EUR"
         },
         {
-          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
-          "brand": "BESV",
-          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-met-gold-gls-2025",
-          "price": 1769,
+          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
+          "brand": "KTM",
+          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
+          "price": 2819,
           "currency": "EUR"
         },
         {
@@ -375,13 +375,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Supreme Hybrid Comfort ONE 600 Easy Entry (2027) | Stad E-Bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-storm-n-reflex",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
           "name": "Reaction Hybrid Pro 800 Diamant (2027)  | 29 inch E-MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-diamant-silverdustnprism",
@@ -403,10 +396,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Race 800 Diamant (2027) | 27,5/29 inch E-MTB hardtail",
+          "name": "Supreme Hybrid Comfort ONE 600 Easy Entry (2027) | Stad E-Bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-race-800-diamant-slabgrey-n-chrome",
-          "price": 3699,
+          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-storm-n-reflex",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -421,6 +414,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-pro-800-slabgreynblack",
           "price": 4199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Stereo Hybrid ONE44 HPC Race 800 (2027)  | 27,5 / 29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-nebula-n-prizm",
+          "price": 4399,
           "currency": "EUR"
         },
         {
@@ -508,10 +508,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PURE",
+          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
-          "price": 24.95,
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
           "currency": "EUR"
         },
         {
@@ -536,21 +536,21 @@
           "currency": "EUR"
         },
         {
+          "name": "Fietsenstandaard FM PURE",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
+          "price": 24.95,
+          "currency": "EUR"
+        },
+        {
           "name": "Bordo Big 6000K/120 vouwslot + houder SH",
           "brand": "ABUS",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
           "currency": "EUR"
-        },
-        {
-          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
-          "price": 89.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-10T01:21:49.279Z"
+      "scrapedAt": "2026-11-10T14:34:15.259Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-10T01:21:46.638Z"
+      "scrapedAt": "2026-11-10T14:34:12.619Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-10T01:22:50.027Z"
+      "scrapedAt": "2026-11-10T14:35:16.214Z"
     }
   ]
 }
