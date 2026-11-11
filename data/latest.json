@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T05:24:20.485Z",
+  "generatedAt": "2026-11-11T13:49:44.148Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-11T05:23:21.244Z"
+      "scrapedAt": "2026-11-11T13:48:45.190Z"
     },
     {
       "shop": "Bikester",
@@ -123,13 +123,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Kirana Ultra (2026) | Racefiets",
-          "brand": "Raymon",
-          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
           "name": "Rove (2026) | Gravelbike",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-silver",
@@ -137,10 +130,17 @@
           "currency": "EUR"
         },
         {
-          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
-          "brand": "KTM",
-          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
-          "price": 2819,
+          "name": "Kirana Ultra (2026) | Racefiets",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
+          "price": 2999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Rove AL/DL (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
+          "price": 699,
           "currency": "EUR"
         },
         {
@@ -347,13 +347,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Spatbord VANE voor 29\" black´n´blue",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-blue",
-          "price": 8.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Voorvork spatbord VANE 29\"",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-green-2023",
@@ -368,10 +361,31 @@
           "currency": "EUR"
         },
         {
+          "name": "Spatbord VANE voor 29\" black´n´blue",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-blue",
+          "price": 8.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Kathmandu Hybrid ONE11 HPC SLT 800 Easy Entry (2026) | Trekking E-bike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-slt-800-easy-entry-carbon-n-silverdust",
           "price": 5999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Supreme Hybrid Comfort ONE 600 Easy Entry (2027) | Stad E-Bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-storm-n-reflex",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -389,24 +403,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
-          "price": 1999,
-          "currency": "EUR"
-        },
-        {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
           "price": 2599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Kathmandu Hybrid ONE11 HPC Pro 800 (2027) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-pro-800-slabgreynblack",
-          "price": 4199,
           "currency": "EUR"
         },
         {
@@ -550,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-11T05:23:19.872Z"
+      "scrapedAt": "2026-11-11T13:48:43.516Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-11T05:23:16.983Z"
+      "scrapedAt": "2026-11-11T13:48:40.665Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-11T05:24:20.475Z"
+      "scrapedAt": "2026-11-11T13:49:44.138Z"
     }
   ]
 }
