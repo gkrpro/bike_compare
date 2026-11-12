@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T00:16:48.020Z",
-  "totalItems": 78,
+  "generatedAt": "2026-11-12T14:53:03.896Z",
+  "totalItems": 77,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-12T00:15:48.546Z"
+      "scrapedAt": "2026-11-12T14:52:05.288Z"
     },
     {
       "shop": "Bikester",
@@ -137,10 +137,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Rove AL/DL (2026) | Gravelbike",
-          "brand": "Kona",
-          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
-          "price": 699,
+          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
+          "brand": "KTM",
+          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
+          "price": 2819,
           "currency": "EUR"
         },
         {
@@ -333,6 +333,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Heuptas PURE 2",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-hufttasche-pure-2",
+          "price": 36.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Xberg 25 Rugzak Bagagedragerstas",
           "brand": "deuter",
           "url": "https://www.bikester.be/products/deuter-xberg-25-raisin-caspia",
@@ -351,13 +358,6 @@
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-green-2023",
           "price": 8.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Fietscomputer CMPT",
-          "brand": "RFR",
-          "url": "https://www.bikester.be/products/rfr-fahrradcomputer-cmpt-blue-2023",
-          "price": 6.99,
           "currency": "EUR"
         },
         {
@@ -396,6 +396,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-jungalinblack",
+          "price": 4999,
+          "currency": "EUR"
+        },
+        {
           "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
@@ -403,24 +410,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "name": "Stereo Hybrid ONE44 HPC Race 800 (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Stereo Hybrid ONE44 HPC Race 800 (2027)  | 27,5 / 29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-nebula-n-prizm",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-coal-n-green",
           "price": 4399,
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-blackline",
-          "price": 4999,
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -494,17 +494,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
-          "price": 25.99,
-          "currency": "EUR"
-        },
-        {
           "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
           "price": 89.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
+          "price": 25.99,
           "currency": "EUR"
         },
         {
@@ -529,10 +529,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Bagagedragermand 25 RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
-          "price": 27.99,
+          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
+          "brand": "ABUS",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
           "currency": "EUR"
         },
         {
@@ -541,16 +541,9 @@
           "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
           "price": 22.95,
           "currency": "EUR"
-        },
-        {
-          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
-          "brand": "ABUS",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
-          "price": 102.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-12T00:15:46.541Z"
+      "scrapedAt": "2026-11-12T14:52:03.057Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-12T00:15:44.307Z"
+      "scrapedAt": "2026-11-12T14:52:00.398Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-12T00:16:48.013Z"
+      "scrapedAt": "2026-11-12T14:53:03.888Z"
     }
   ]
 }
