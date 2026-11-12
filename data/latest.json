@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:49:44.148Z",
+  "generatedAt": "2026-11-12T00:16:48.020Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-11T13:48:45.190Z"
+      "scrapedAt": "2026-11-12T00:15:48.546Z"
     },
     {
       "shop": "Bikester",
@@ -249,10 +249,10 @@
           "currency": "EUR"
         },
         {
-          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
-          "brand": "KTM",
-          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
-          "price": 2819,
+          "name": "E-Speeder 600 | City E-bike",
+          "brand": "Ortler",
+          "url": "https://www.bikester.be/products/ortler-e-speeder-600-schwarz-2023",
+          "price": 1099,
           "currency": "EUR"
         },
         {
@@ -550,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-11T13:48:43.516Z"
+      "scrapedAt": "2026-11-12T00:15:46.541Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-11T13:48:40.665Z"
+      "scrapedAt": "2026-11-12T00:15:44.307Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-11T13:49:44.138Z"
+      "scrapedAt": "2026-11-12T00:16:48.013Z"
     }
   ]
 }
