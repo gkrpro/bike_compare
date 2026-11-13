@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T23:21:59.048Z",
+  "generatedAt": "2026-11-13T05:47:39.516Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-12T23:20:59.881Z"
+      "scrapedAt": "2026-11-13T05:46:40.006Z"
     },
     {
       "shop": "Bikester",
@@ -277,7 +277,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Flexair SS Jersey | Heren korte mouwen shirt",
+          "name": "Flexair SS Jersey | Heren Korte Mouwen Shirt",
           "brand": "Fox",
           "url": "https://www.bikester.be/products/fox-flexair-ss-jersey-lime",
           "price": 48.99,
@@ -389,7 +389,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Pro 800 Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "name": "Reaction Hybrid Pro 800 Diamant (2027) | 29 inch E-MTB hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-diamant-silverdustnprism",
           "price": 3199,
@@ -501,17 +501,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
-          "price": 25.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Verlichtingsset PRO 30",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
           "price": 33.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
+          "price": 25.99,
           "currency": "EUR"
         },
         {
@@ -529,10 +529,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
-          "brand": "ABUS",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
-          "price": 102.99,
+          "name": "Bagagedragermand 25 RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
+          "price": 27.99,
           "currency": "EUR"
         },
         {
@@ -543,14 +543,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Bagagedragermand 25 RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
-          "price": 27.99,
+          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
+          "brand": "ABUS",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-12T23:20:58.058Z"
+      "scrapedAt": "2026-11-13T05:46:38.066Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-12T23:20:55.450Z"
+      "scrapedAt": "2026-11-13T05:46:35.907Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-12T23:21:59.037Z"
+      "scrapedAt": "2026-11-13T05:47:39.508Z"
     }
   ]
 }
