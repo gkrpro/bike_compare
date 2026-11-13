@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T05:47:39.516Z",
+  "generatedAt": "2026-11-13T14:15:10.650Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-13T05:46:40.006Z"
+      "scrapedAt": "2026-11-13T14:14:11.607Z"
     },
     {
       "shop": "Bikester",
@@ -347,17 +347,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Fleshouder HPP",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-sand-n-glossy-black-2023",
-          "price": 5.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Voorvork spatbord VANE 29\"",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-green-2023",
           "price": 8.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fleshouder HPP",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-sand-n-glossy-black-2023",
+          "price": 5.99,
           "currency": "EUR"
         },
         {
@@ -368,17 +368,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Kathmandu Hybrid ONE11 HPC SLT 800 Easy Entry (2026) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-slt-800-easy-entry-carbon-n-silverdust",
-          "price": 5999,
-          "currency": "EUR"
-        },
-        {
           "name": "Nuroad C:62 ONE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
           "price": 1999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kathmandu Hybrid ONE11 HPC SLT 800 Easy Entry (2026) | Trekking E-bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-slt-800-easy-entry-carbon-n-silverdust",
+          "price": 5999,
           "currency": "EUR"
         },
         {
@@ -417,10 +417,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "name": "Aim Pro FE (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
+          "url": "https://www.bikester.be/products/cube-aim-pro-fe-aloegreen-n-green",
+          "price": 699,
           "currency": "EUR"
         },
         {
@@ -550,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-13T05:46:38.066Z"
+      "scrapedAt": "2026-11-13T14:14:09.408Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-13T05:46:35.907Z"
+      "scrapedAt": "2026-11-13T14:14:06.997Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-13T05:47:39.508Z"
+      "scrapedAt": "2026-11-13T14:15:10.643Z"
     }
   ]
 }
