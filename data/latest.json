@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T14:15:10.650Z",
+  "generatedAt": "2026-11-13T23:24:19.604Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-13T14:14:11.607Z"
+      "scrapedAt": "2026-11-13T23:23:19.698Z"
     },
     {
       "shop": "Bikester",
@@ -466,17 +466,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
           "price": 2599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Topstone 1 (2025) | Gravelbike",
-          "brand": "Cannondale",
-          "url": "https://www.bikester.be/products/cannondale-700-u-topstone-1-obsidian",
-          "price": 1699,
           "currency": "EUR"
         },
         {
@@ -550,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-13T14:14:09.408Z"
+      "scrapedAt": "2026-11-13T23:23:19.179Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-13T14:14:06.997Z"
+      "scrapedAt": "2026-11-13T23:23:15.949Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-13T14:15:10.643Z"
+      "scrapedAt": "2026-11-13T23:24:19.595Z"
     }
   ]
 }
