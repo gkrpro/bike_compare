@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:24:19.604Z",
+  "generatedAt": "2026-11-14T05:38:20.273Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-13T23:23:19.698Z"
+      "scrapedAt": "2026-11-14T05:37:20.373Z"
     },
     {
       "shop": "Bikester",
@@ -459,6 +459,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
@@ -470,13 +477,6 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
           "price": 1199,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -501,13 +501,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Verlichtingsset PRO 30",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
-          "price": 33.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Fietsenstandaard FM",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
@@ -515,10 +508,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PRO",
+          "name": "Verlichtingsset PRO 30",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
-          "price": 27.99,
+          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
+          "price": 33.99,
           "currency": "EUR"
         },
         {
@@ -529,13 +522,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Bagagedragermand 25 RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
-          "price": 27.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Fietsenstandaard Cubestand CMPT",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
@@ -543,14 +529,28 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
+          "name": "Fietsenstandaard FM PRO",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
+          "price": 27.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bagagedragermand 25 RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
+          "price": 27.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bordo 6000K/90 vouwslot + houder SH",
           "brand": "ABUS",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
-          "price": 102.99,
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
+          "price": 85.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-13T23:23:19.179Z"
+      "scrapedAt": "2026-11-14T05:37:18.701Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-13T23:23:15.949Z"
+      "scrapedAt": "2026-11-14T05:37:16.645Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-13T23:24:19.595Z"
+      "scrapedAt": "2026-11-14T05:38:20.265Z"
     }
   ]
 }
