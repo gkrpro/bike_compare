@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T13:14:13.323Z",
+  "generatedAt": "2026-11-14T22:08:47.778Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-14T13:13:14.262Z"
+      "scrapedAt": "2026-11-14T22:07:48.196Z"
     },
     {
       "shop": "Bikester",
@@ -396,13 +396,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-jungalinblack",
-          "price": 4999,
-          "currency": "EUR"
-        },
-        {
           "name": "Stereo Hybrid ONE44 HPC Race 800 (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-coal-n-green",
@@ -421,6 +414,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-nebula-n-prizm",
           "price": 4399,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -550,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-14T13:13:12.391Z"
+      "scrapedAt": "2026-11-14T22:07:48.024Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-14T13:13:09.828Z"
+      "scrapedAt": "2026-11-14T22:07:44.488Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-14T13:14:13.313Z"
+      "scrapedAt": "2026-11-14T22:08:47.767Z"
     }
   ]
 }
