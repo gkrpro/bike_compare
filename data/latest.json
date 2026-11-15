@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:08:47.778Z",
+  "generatedAt": "2026-11-15T05:36:20.231Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-14T22:07:48.196Z"
+      "scrapedAt": "2026-11-15T05:35:20.152Z"
     },
     {
       "shop": "Bikester",
@@ -270,7 +270,7 @@
           "currency": "EUR"
         },
         {
-          "name": "PureFlowz Shirt 3/4 | Heren lange mouw fietsjersey",
+          "name": "PureFlowz Shirt 3/4 | Heren wielershirt met lange mouwen",
           "brand": "Zimtstern",
           "url": "https://www.bikester.be/products/zimtstern-pureflowz-shirt-3-4-men-burnt-orange-pirate-black",
           "price": 35.99,
@@ -291,14 +291,14 @@
           "currency": "EUR"
         },
         {
-          "name": "PureFlowz Shirt 3/4 | Heren wielershirt lange mouw",
+          "name": "PureFlowz Shirt 3/4 | Heren wielershirt met lange mouwen",
           "brand": "Zimtstern",
           "url": "https://www.bikester.be/products/zimtstern-pureflowz-shirt-3-4-men-pacific-high-rise",
           "price": 43.99,
           "currency": "EUR"
         },
         {
-          "name": "Moab LS PRO Shirt zwart | Heren wielershirt lange mouwen",
+          "name": "Moab LS PRO Shirt zwart | Heren fietsjersey met lange mouwen",
           "brand": "VAUDE",
           "url": "https://www.bikester.be/products/vaude-moab-ls-pro-shirt-herren-schwarz",
           "price": 44.99,
@@ -445,13 +445,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Rove (2026) | Gravelbike",
-          "brand": "Kona",
-          "url": "https://www.bikester.be/products/kona-rove-silver",
-          "price": 939,
-          "currency": "EUR"
-        },
-        {
           "name": "Rove AL/DL (2026) | Gravelbike",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-aldl-red",
@@ -459,10 +452,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
-          "price": 1999,
+          "name": "Rove (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-silver",
+          "price": 939,
           "currency": "EUR"
         },
         {
@@ -477,6 +470,13 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
           "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
+          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -501,13 +501,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
-          "price": 25.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Verlichtingsset PRO 30",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
@@ -515,17 +508,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PURE",
+          "name": "Fietsenstandaard FM",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
-          "price": 24.95,
-          "currency": "EUR"
-        },
-        {
-          "name": "Fietsenstandaard Cubestand CMPT",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
-          "price": 22.95,
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
+          "price": 25.99,
           "currency": "EUR"
         },
         {
@@ -536,6 +522,20 @@
           "currency": "EUR"
         },
         {
+          "name": "Fietsenstandaard Cubestand CMPT",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
+          "price": 22.95,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM PURE",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
+          "price": 24.95,
+          "currency": "EUR"
+        },
+        {
           "name": "Bagagedragermand 25 RILink",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
@@ -543,14 +543,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo 6000K/90 vouwslot + houder SH",
+          "name": "Bordo Big 6000K/120 Vouwslot + Houder SH",
           "brand": "ABUS",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
-          "price": 85.99,
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-14T22:07:48.024Z"
+      "scrapedAt": "2026-11-15T05:35:19.468Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-14T22:07:44.488Z"
+      "scrapedAt": "2026-11-15T05:35:16.772Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-14T22:08:47.767Z"
+      "scrapedAt": "2026-11-15T05:36:20.222Z"
     }
   ]
 }
