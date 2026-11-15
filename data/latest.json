@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T05:36:20.231Z",
+  "generatedAt": "2026-11-15T13:42:02.747Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-15T05:35:20.152Z"
+      "scrapedAt": "2026-11-15T13:41:03.723Z"
     },
     {
       "shop": "Bikester",
@@ -137,10 +137,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Rove (2026) | Gravelbike",
+          "name": "Rove AL/DL (2026) | Gravelbike",
           "brand": "Kona",
-          "url": "https://www.bikester.be/products/kona-rove-silver",
-          "price": 939,
+          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
+          "price": 699,
           "currency": "EUR"
         },
         {
@@ -368,6 +368,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-jungalinblack",
+          "price": 4999,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 ONE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
@@ -375,17 +382,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Kathmandu Hybrid ONE11 HPC SLT 800 Easy Entry (2026) | Trekking E-bike",
+          "name": "Attain C:62 SLT (2027) | Racefiets",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-slt-800-easy-entry-carbon-n-silverdust",
-          "price": 5999,
-          "currency": "EUR"
-        },
-        {
-          "name": "Supreme Hybrid Comfort ONE 600 Easy Entry (2027) | Stad E-Bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-storm-n-reflex",
-          "price": 2599,
+          "url": "https://www.bikester.be/products/cube-attain-c62-slt-carbon-n-white",
+          "price": 2999,
           "currency": "EUR"
         },
         {
@@ -410,17 +410,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Aim Pro FE (2027)  | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-pro-fe-aloegreen-n-green",
+          "price": 699,
+          "currency": "EUR"
+        },
+        {
           "name": "Stereo Hybrid ONE44 HPC Race 800 (2027)  | 27,5 / 29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-nebula-n-prizm",
           "price": 4399,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
           "currency": "EUR"
         },
         {
@@ -529,28 +529,28 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PURE",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pure",
-          "price": 24.95,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bagagedragermand 25 RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
-          "price": 27.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bordo Big 6000K/120 Vouwslot + Houder SH",
           "brand": "ABUS",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Bordo 6000K/90 vouwslot + houder SH",
+          "brand": "ABUS",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
+          "price": 85.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bagagedrager SIC 28\" RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktrager-sic-28-rilink",
+          "price": 41.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-15T05:35:19.468Z"
+      "scrapedAt": "2026-11-15T13:41:00.842Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-15T05:35:16.772Z"
+      "scrapedAt": "2026-11-15T13:40:59.132Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-15T05:36:20.222Z"
+      "scrapedAt": "2026-11-15T13:42:02.739Z"
     }
   ]
 }
