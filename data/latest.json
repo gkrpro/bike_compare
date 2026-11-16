@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T14:16:44.091Z",
+  "generatedAt": "2026-11-16T15:15:43.767Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-16T14:15:44.416Z"
+      "scrapedAt": "2026-11-16T15:14:44.691Z"
     },
     {
       "shop": "Bikester",
@@ -249,10 +249,10 @@
           "currency": "EUR"
         },
         {
-          "name": "E-Speeder 600 | City E-bike",
-          "brand": "Ortler",
-          "url": "https://www.bikester.be/products/ortler-e-speeder-600-schwarz-2023",
-          "price": 1099,
+          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
+          "brand": "KTM",
+          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
+          "price": 2819,
           "currency": "EUR"
         },
         {
@@ -396,6 +396,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Stereo Hybrid ONE44 Pro 800 FE (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-pro-800-fe-coal-n-black",
+          "price": 4099,
+          "currency": "EUR"
+        },
+        {
           "name": "Stereo Hybrid ONE44 HPC Race 800 (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-coal-n-green",
@@ -403,24 +410,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Aim ONE FE (2027)  | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
+          "price": 599,
+          "currency": "EUR"
+        },
+        {
           "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
           "price": 3399,
-          "currency": "EUR"
-        },
-        {
-          "name": "Aim Pro FE (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-pro-fe-aloegreen-n-green",
-          "price": 699,
-          "currency": "EUR"
-        },
-        {
-          "name": "Attain C:62 SLX (2027) | Racefiets",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-attain-c62-slx-metallicwhite-n-black",
-          "price": 2499,
           "currency": "EUR"
         },
         {
@@ -550,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-16T14:15:43.192Z"
+      "scrapedAt": "2026-11-16T15:14:43.108Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-16T14:15:40.538Z"
+      "scrapedAt": "2026-11-16T15:14:40.309Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-16T14:16:44.086Z"
+      "scrapedAt": "2026-11-16T15:15:43.756Z"
     }
   ]
 }
