@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T05:35:45.339Z",
+  "generatedAt": "2026-11-16T14:16:44.091Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-16T05:34:46.038Z"
+      "scrapedAt": "2026-11-16T14:15:44.416Z"
     },
     {
       "shop": "Bikester",
@@ -130,17 +130,17 @@
           "currency": "EUR"
         },
         {
-          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
-          "brand": "KTM",
-          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
-          "price": 2819,
-          "currency": "EUR"
-        },
-        {
           "name": "Rove AL/DL (2026) | Gravelbike",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-aldl-red",
           "price": 699,
+          "currency": "EUR"
+        },
+        {
+          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
+          "brand": "KTM",
+          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
+          "price": 2819,
           "currency": "EUR"
         },
         {
@@ -326,7 +326,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Iven Chain 8210/85 Kettingslot zwart",
+          "name": "Iven Chain 8210/85 Kettenslot zwart",
           "brand": "ABUS",
           "url": "https://www.bikester.be/products/abus-iven-chain-8210-85-kettenschloss-schwarz",
           "price": 64.99,
@@ -354,17 +354,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Fleshouder HPP",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-sand-n-glossy-black-2023",
-          "price": 5.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Spatbord VANE voor 29\" black´n´blue",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-blue",
           "price": 8.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fleshouder HPP mat groen´n´glanzend zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-green-n-glossy-black-2023",
+          "price": 5.99,
           "currency": "EUR"
         },
         {
@@ -417,10 +417,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE44 HPC Race 800 (2027)  | 27,5 / 29 inch E-MTB Fully",
+          "name": "Attain C:62 SLX (2027) | Racefiets",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-nebula-n-prizm",
-          "price": 4399,
+          "url": "https://www.bikester.be/products/cube-attain-c62-slx-metallicwhite-n-black",
+          "price": 2499,
           "currency": "EUR"
         },
         {
@@ -550,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-16T05:34:44.378Z"
+      "scrapedAt": "2026-11-16T14:15:43.192Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-16T05:34:41.592Z"
+      "scrapedAt": "2026-11-16T14:15:40.538Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-16T05:35:45.328Z"
+      "scrapedAt": "2026-11-16T14:16:44.086Z"
     }
   ]
 }
