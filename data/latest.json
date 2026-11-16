@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:38:47.185Z",
+  "generatedAt": "2026-11-16T05:35:45.339Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-15T22:37:47.214Z"
+      "scrapedAt": "2026-11-16T05:34:46.038Z"
     },
     {
       "shop": "Bikester",
@@ -284,7 +284,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Blade Air Jersey korte mouwen | Heren fietsjersey korte mouwen",
+          "name": "Blade Air Jersey Korte Mouw | Heren Fietsshirt Korte Mouw",
           "brand": "Northwave",
           "url": "https://www.bikester.be/products/northwave-blade-air-jersey-short-sleeve-white-black",
           "price": 53.99,
@@ -340,7 +340,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Xberg 25 Rugzak Bagagedragerstas",
+          "name": "Xberg 25 Rugzak dragerstas",
           "brand": "deuter",
           "url": "https://www.bikester.be/products/deuter-xberg-25-raisin-caspia",
           "price": 139.99,
@@ -473,10 +473,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 Pro FE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-pro-fe-cedern-stone",
-          "price": 2599,
+          "name": "Topstone 1 (2025) | Gravelbike",
+          "brand": "Cannondale",
+          "url": "https://www.bikester.be/products/cannondale-700-u-topstone-1-obsidian",
+          "price": 1699,
           "currency": "EUR"
         },
         {
@@ -494,13 +494,6 @@
           "currency": "EUR"
         },
         {
-          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
-          "price": 89.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Verlichtingsset PRO 30",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
@@ -508,10 +501,24 @@
           "currency": "EUR"
         },
         {
+          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Fietsenstandaard FM",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
           "price": 25.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bordo 6000K/90 vouwslot + houder SH",
+          "brand": "ABUS",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
+          "price": 85.99,
           "currency": "EUR"
         },
         {
@@ -536,13 +543,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo 6000K/90 vouwslot + houder SH",
-          "brand": "ABUS",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
-          "price": 85.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bagagedrager SIC 28\" RILink",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-gepacktrager-sic-28-rilink",
@@ -550,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-15T22:37:45.809Z"
+      "scrapedAt": "2026-11-16T05:34:44.378Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-15T22:37:43.337Z"
+      "scrapedAt": "2026-11-16T05:34:41.592Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-15T22:38:47.177Z"
+      "scrapedAt": "2026-11-16T05:35:45.328Z"
     }
   ]
 }
