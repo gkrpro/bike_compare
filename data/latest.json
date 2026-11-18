@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T15:42:57.279Z",
+  "generatedAt": "2026-11-18T00:45:41.522Z",
   "totalItems": 77,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-17T15:41:57.537Z"
+      "scrapedAt": "2026-11-18T00:44:41.436Z"
     },
     {
       "shop": "Bikester",
@@ -529,21 +529,21 @@
           "currency": "EUR"
         },
         {
-          "name": "Bagagedragermand 25 RILink",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktragerkorb-25-rilink",
-          "price": 27.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bagagedrager SIC 28\" RILink",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-gepacktrager-sic-28-rilink",
           "price": 41.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
+          "brand": "ABUS",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-17T15:41:56.481Z"
+      "scrapedAt": "2026-11-18T00:44:40.913Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-17T15:41:53.599Z"
+      "scrapedAt": "2026-11-18T00:44:37.916Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-17T15:42:57.272Z"
+      "scrapedAt": "2026-11-18T00:45:41.514Z"
     }
   ]
 }
