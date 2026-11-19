@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:03:23.946Z",
+  "generatedAt": "2026-11-19T15:29:08.930Z",
   "totalItems": 77,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-19T00:02:24.635Z"
+      "scrapedAt": "2026-11-19T15:28:09.722Z"
     },
     {
       "shop": "Bikester",
@@ -389,13 +389,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Aim ONE FE (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
-          "price": 599,
-          "currency": "EUR"
-        },
-        {
           "name": "Attain C:62 SLX (2027) | Racefiets",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-attain-c62-slx-metallicwhite-n-black",
@@ -403,10 +396,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Pro 800 Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "name": "Aim ONE FE (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-diamant-silverdustnprism",
-          "price": 3199,
+          "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
+          "price": 599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Aim SLT (2027)  | 29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-slt-soot-n-black",
+          "price": 799,
           "currency": "EUR"
         },
         {
@@ -452,6 +452,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
@@ -459,17 +466,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
-          "price": 1199,
-          "currency": "EUR"
-        },
-        {
-          "name": "Topstone 1 (2025) | Gravelbike",
-          "brand": "Cannondale",
-          "url": "https://www.bikester.be/products/cannondale-700-u-topstone-1-obsidian",
-          "price": 1699,
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "price": 1099,
           "currency": "EUR"
         },
         {
@@ -494,17 +494,17 @@
           "currency": "EUR"
         },
         {
-          "name": "E-Bike voorlicht PRO-E 150 X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
-          "price": 89.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Fietsenstandaard FM",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
           "price": 25.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "E-Bike voorlicht PRO-E 150 X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
           "currency": "EUR"
         },
         {
@@ -515,17 +515,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM PRO",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
-          "price": 27.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Fietsenstandaard Cubestand CMPT",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
           "price": 22.95,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM PRO",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
+          "price": 27.99,
           "currency": "EUR"
         },
         {
@@ -543,7 +543,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-19T00:02:23.145Z"
+      "scrapedAt": "2026-11-19T15:28:09.066Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-19T00:02:20.385Z"
+      "scrapedAt": "2026-11-19T15:28:05.496Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-19T00:03:23.936Z"
+      "scrapedAt": "2026-11-19T15:29:08.919Z"
     }
   ]
 }
