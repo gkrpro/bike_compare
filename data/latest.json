@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:24:03.645Z",
+  "generatedAt": "2026-11-19T00:03:23.946Z",
   "totalItems": 77,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-18T15:23:03.798Z"
+      "scrapedAt": "2026-11-19T00:02:24.635Z"
     },
     {
       "shop": "Bikester",
@@ -319,7 +319,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Iven Chain 8210/85 Kettenslot zwart",
+          "name": "Iven Chain 8210/85 Kettingslot zwart",
           "brand": "ABUS",
           "url": "https://www.bikester.be/products/abus-iven-chain-8210-85-kettenschloss-schwarz",
           "price": 64.99,
@@ -347,7 +347,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Spatbord VANE voor 29\" black´n´blue",
+          "name": "Voorvorkspatbord VANE voor 29\" black´n´blue",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-blue",
           "price": 8.99,
@@ -480,13 +480,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura 30/Curve verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-30-curve-beleuchtungsset",
-          "price": 20.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Verlichtingsset PRO 30",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
@@ -501,7 +494,7 @@
           "currency": "EUR"
         },
         {
-          "name": "E-bike voorlicht PRO-E 150 X-Connect zwart",
+          "name": "E-Bike voorlicht PRO-E 150 X-Connect zwart",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
           "price": 89.99,
@@ -541,9 +534,16 @@
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
           "currency": "EUR"
+        },
+        {
+          "name": "Bagagedrager SIC 28\" RILink",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-gepacktrager-sic-28-rilink",
+          "price": 41.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-18T15:23:02.913Z"
+      "scrapedAt": "2026-11-19T00:02:23.145Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-18T15:22:59.980Z"
+      "scrapedAt": "2026-11-19T00:02:20.385Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-18T15:24:03.637Z"
+      "scrapedAt": "2026-11-19T00:03:23.936Z"
     }
   ]
 }
