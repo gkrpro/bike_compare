@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T23:49:32.249Z",
-  "totalItems": 77,
+  "generatedAt": "2026-11-21T06:17:21.293Z",
+  "totalItems": 76,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-20T23:48:33.058Z"
+      "scrapedAt": "2026-11-21T06:16:22.056Z"
     },
     {
       "shop": "Bikester",
@@ -354,13 +354,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietscomputer CMPT",
-          "brand": "RFR",
-          "url": "https://www.bikester.be/products/rfr-fahrradcomputer-cmpt-blue-2023",
-          "price": 6.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Nuroad C:62 ONE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
@@ -375,10 +368,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Supreme Hybrid Comfort ONE 600 Easy Entry (2027) | Stad E-Bike",
+          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-storm-n-reflex",
-          "price": 2599,
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-jungalinblack",
+          "price": 4999,
           "currency": "EUR"
         },
         {
@@ -403,17 +396,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Supreme Hybrid Comfort ONE 600 Easy Entry (2027) | Stad E-Bike",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-storm-n-reflex",
+          "price": 2599,
+          "currency": "EUR"
+        },
+        {
           "name": "Aim SLT (2027)  | 29 inch MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-slt-soot-n-black",
           "price": 799,
-          "currency": "EUR"
-        },
-        {
-          "name": "Aim Pro FE (2027)  | 29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-pro-fe-aloegreen-n-green",
-          "price": 699,
           "currency": "EUR"
         },
         {
@@ -480,13 +473,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Verlichtingsset PRO 100",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
-          "price": 56.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Verlichtingsset PRO 30",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
@@ -494,17 +480,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM",
+          "name": "Verlichtingsset PRO 100",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
-          "price": 25.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "E-Bike voorlicht PRO-E 150 X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
-          "price": 89.99,
+          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
+          "price": 56.99,
           "currency": "EUR"
         },
         {
@@ -515,10 +494,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard Cubestand CMPT",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
-          "price": 22.95,
+          "name": "Fietsenstandaard FM",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
+          "price": 25.99,
           "currency": "EUR"
         },
         {
@@ -529,10 +508,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Fietsenstandaard Cubestand CMPT",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
+          "price": 22.95,
+          "currency": "EUR"
+        },
+        {
           "name": "Fietsenstandaard FM PRO",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
           "price": 27.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "E-Bike voorlicht PRO-E 150 X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
           "currency": "EUR"
         },
         {
@@ -543,7 +536,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-20T23:48:30.337Z"
+      "scrapedAt": "2026-11-21T06:16:19.567Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +544,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-20T23:48:28.614Z"
+      "scrapedAt": "2026-11-21T06:16:17.693Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +552,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-20T23:49:32.242Z"
+      "scrapedAt": "2026-11-21T06:17:21.280Z"
     }
   ]
 }
