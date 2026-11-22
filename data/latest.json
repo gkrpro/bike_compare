@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:53:46.081Z",
+  "generatedAt": "2026-11-22T05:50:23.187Z",
   "totalItems": 76,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-21T18:52:46.271Z"
+      "scrapedAt": "2026-11-22T05:49:23.432Z"
     },
     {
       "shop": "Bikester",
@@ -176,13 +176,6 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
           "price": 1249,
-          "currency": "EUR"
-        },
-        {
-          "name": "MX 24 XC | 24 inch kinderfiets",
-          "brand": "Orbea",
-          "url": "https://www.bikester.be/products/orbea-mx-24-xc-halo-silver-spicy-lime-matt",
-          "price": 399,
           "currency": "EUR"
         },
         {
@@ -347,6 +340,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Bidonhouder HPP mat zwart´n´classic green",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-flaschenhalter-hpp-matt-black-n-classic-green",
+          "price": 5.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Voorvorkspatbord VANE voor 29\" black´n´blue",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-blue",
@@ -445,17 +445,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
-          "price": 1999,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
-          "price": 1249,
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "price": 1099,
           "currency": "EUR"
         },
         {
@@ -463,6 +456,13 @@
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 2 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
+          "price": 1249,
           "currency": "EUR"
         },
         {
@@ -494,17 +494,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
-          "price": 25.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bordo Big 6000K/120 vouwslot + houder SH",
           "brand": "ABUS",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
+          "price": 25.99,
           "currency": "EUR"
         },
         {
@@ -522,10 +522,10 @@
           "currency": "EUR"
         },
         {
-          "name": "E-Bike voorlicht PRO-E 150 X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
-          "price": 89.99,
+          "name": "Bordo Granit 6500K/120 SH vouwslot",
+          "brand": "ABUS",
+          "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
+          "price": 149.99,
           "currency": "EUR"
         },
         {
@@ -536,7 +536,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-21T18:52:45.337Z"
+      "scrapedAt": "2026-11-22T05:49:21.577Z"
     },
     {
       "shop": "Bike24",
@@ -544,7 +544,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-21T18:52:42.468Z"
+      "scrapedAt": "2026-11-22T05:49:19.564Z"
     },
     {
       "shop": "Decathlon",
@@ -552,7 +552,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-21T18:53:46.073Z"
+      "scrapedAt": "2026-11-22T05:50:23.178Z"
     }
   ]
 }
