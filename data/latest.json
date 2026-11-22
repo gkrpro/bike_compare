@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T05:50:23.187Z",
+  "generatedAt": "2026-11-22T14:19:37.059Z",
   "totalItems": 76,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-22T05:49:23.432Z"
+      "scrapedAt": "2026-11-22T14:18:37.904Z"
     },
     {
       "shop": "Bikester",
@@ -361,10 +361,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Kathmandu Hybrid ONE11 HPC SLT 800 Easy Entry (2027) | Trekking E-bike",
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-one11-hpc-slt-800-easy-entry-carbon-n-silverdust",
-          "price": 5999,
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
+          "price": 3399,
           "currency": "EUR"
         },
         {
@@ -396,10 +396,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Supreme Hybrid Comfort ONE 600 Easy Entry (2027) | Stad E-Bike",
+          "name": "Acid 260 Disc (2027)  | 26 inch jeugd-/kinder-MTB",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-supreme-hybrid-comfort-one-600-easy-entry-storm-n-reflex",
-          "price": 2599,
+          "url": "https://www.bikester.be/products/cube-acid-260-disc-actionteam-2025",
+          "price": 499,
           "currency": "EUR"
         },
         {
@@ -536,7 +536,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-22T05:49:21.577Z"
+      "scrapedAt": "2026-11-22T14:18:37.061Z"
     },
     {
       "shop": "Bike24",
@@ -544,7 +544,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-22T05:49:19.564Z"
+      "scrapedAt": "2026-11-22T14:18:33.461Z"
     },
     {
       "shop": "Decathlon",
@@ -552,7 +552,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-22T05:50:23.178Z"
+      "scrapedAt": "2026-11-22T14:19:37.050Z"
     }
   ]
 }
