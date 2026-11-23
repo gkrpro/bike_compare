@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T06:37:05.367Z",
-  "totalItems": 76,
+  "generatedAt": "2026-11-23T16:48:38.802Z",
+  "totalItems": 78,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-23T06:36:05.283Z"
+      "scrapedAt": "2026-11-23T16:47:39.274Z"
     },
     {
       "shop": "Bikester",
@@ -95,31 +95,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Nayta Pro (2026)  | 29 inch MTB Hardtail",
-          "brand": "Raymon",
-          "url": "https://www.bikester.be/products/raymon-nayta-pro-rust-sulfur",
-          "price": 549,
-          "currency": "EUR"
-        },
-        {
           "name": "Territ Pro (2026) | Gravelbike",
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/r-raymon-territ-pro-palemauve-saltwhite",
           "price": 1229,
-          "currency": "EUR"
-        },
-        {
-          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
-          "brand": "BESV",
-          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-dark-navy-gls-2025",
-          "price": 1769,
-          "currency": "EUR"
-        },
-        {
-          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
-          "brand": "BESV",
-          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-met-gold-gls-2025",
-          "price": 1769,
           "currency": "EUR"
         },
         {
@@ -130,31 +109,38 @@
           "currency": "EUR"
         },
         {
-          "name": "Rove AL/DL (2026) | Gravelbike",
-          "brand": "Kona",
-          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
-          "price": 699,
+          "name": "Nayta Ultra (2026) | 27,5/29 inch MTB Hardtail",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-nayta-ultra-anthracite-black",
+          "price": 739,
           "currency": "EUR"
         },
         {
-          "name": "Kirana Ultra (2026) | Racefiets",
-          "brand": "Raymon",
-          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
-          "price": 2999,
+          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
+          "brand": "BESV",
+          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-dark-navy-gls-2025",
+          "price": 1769,
           "currency": "EUR"
         },
         {
-          "name": "Nayta Pro (2026)  | 29 inch MTB Hardtail",
-          "brand": "Raymon",
-          "url": "https://www.bikester.be/products/raymon-nayta-pro-rust-sulfur",
-          "price": 549,
+          "name": "CPT 1.4 X Step (2026) | Compact E-Bike",
+          "brand": "BESV",
+          "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-met-gold-gls-2025",
+          "price": 1769,
           "currency": "EUR"
         },
         {
-          "name": "Territ Pro (2026) | Gravelbike",
+          "name": "eRX 6.4 MS 630Wh (2026) | Trekking E-bike",
+          "brand": "Superior",
+          "url": "https://www.bikester.be/products/superior-erx-64-ms-630wh-gloss-black",
+          "price": 1999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Nayta (2026) | 27,5 inch MTB Hardtail",
           "brand": "Raymon",
-          "url": "https://www.bikester.be/products/r-raymon-territ-pro-palemauve-saltwhite",
-          "price": 1229,
+          "url": "https://www.bikester.be/products/raymon-nayta-mustard-lime-black-2025",
+          "price": 489,
           "currency": "EUR"
         },
         {
@@ -165,17 +151,24 @@
           "currency": "EUR"
         },
         {
-          "name": "Kirana Ultra (2026) | Racefiets",
+          "name": "Territ Pro (2026) | Gravelbike",
           "brand": "Raymon",
-          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
-          "price": 2999,
+          "url": "https://www.bikester.be/products/r-raymon-territ-pro-palemauve-saltwhite",
+          "price": 1229,
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 2 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
-          "price": 1249,
+          "name": "Nayta Pro (2026)  | 29 inch MTB Hardtail",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-nayta-pro-rust-sulfur",
+          "price": 549,
+          "currency": "EUR"
+        },
+        {
+          "name": "Rove AL/DL (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-aldl-red",
+          "price": 699,
           "currency": "EUR"
         },
         {
@@ -183,6 +176,27 @@
           "brand": "Raymon",
           "url": "https://www.bikester.be/products/raymon-nayta-mustard-lime-black-2025",
           "price": 489,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kirana Ultra (2026) | Racefiets",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
+          "price": 2999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Rove (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-silver",
+          "price": 939,
+          "currency": "EUR"
+        },
+        {
+          "name": "Dew (2026) | Stadsfiets",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-dew-blue",
+          "price": 469,
           "currency": "EUR"
         },
         {
@@ -200,7 +214,7 @@
           "currency": "EUR"
         },
         {
-          "name": "CPT 1.4 X Step (2025) | Compact E-bike",
+          "name": "CPT 1.4 X Step (2026) | Compact E-Bike",
           "brand": "BESV",
           "url": "https://www.bikester.be/products/besv-cpt-1-4-x-step-met-gold-gls-2025",
           "price": 1769,
@@ -361,7 +375,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 29 inch E-MTB Hardtail",
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
           "price": 3399,
@@ -382,7 +396,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Aim ONE FE (2027)  | 29 inch MTB Hardtail",
+          "name": "Aim ONE FE (2027)  | 27,5/29 inch MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
           "price": 599,
@@ -403,10 +417,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Aim SLT (2027)  | 29 inch MTB Hardtail",
+          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-slt-soot-n-black",
-          "price": 799,
+          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
+          "price": 1999,
           "currency": "EUR"
         },
         {
@@ -536,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-23T06:36:05.122Z"
+      "scrapedAt": "2026-11-23T16:47:38.333Z"
     },
     {
       "shop": "Bike24",
@@ -544,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-23T06:36:01.755Z"
+      "scrapedAt": "2026-11-23T16:47:34.981Z"
     },
     {
       "shop": "Decathlon",
@@ -552,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-23T06:37:05.359Z"
+      "scrapedAt": "2026-11-23T16:48:38.795Z"
     }
   ]
 }
