@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T23:25:53.982Z",
+  "generatedAt": "2026-11-23T06:37:05.367Z",
   "totalItems": 76,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-22T23:24:54.277Z"
+      "scrapedAt": "2026-11-23T06:36:05.283Z"
     },
     {
       "shop": "Bikester",
@@ -333,16 +333,16 @@
           "currency": "EUR"
         },
         {
-          "name": "Bidonhouder HPP mat groen´n´glossy zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-green-n-glossy-black-2023",
+          "name": "Bidonhouder HPP mat zwart´n´classic green",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-flaschenhalter-hpp-matt-black-n-classic-green",
           "price": 5.99,
           "currency": "EUR"
         },
         {
-          "name": "Bidonhouder HPP mat zwart´n´classic green",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-flaschenhalter-hpp-matt-black-n-classic-green",
+          "name": "Bidonhouder HPP mat groen´n´glossy zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-green-n-glossy-black-2023",
           "price": 5.99,
           "currency": "EUR"
         },
@@ -438,6 +438,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "price": 1099,
+          "currency": "EUR"
+        },
+        {
           "name": "Rove (2026) | Gravelbike",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-silver",
@@ -448,13 +455,6 @@
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
-          "price": 1099,
-          "currency": "EUR"
-        },
-        {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
           "currency": "EUR"
         },
@@ -480,13 +480,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Verlichtingsset PRO 100",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
-          "price": 56.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bordo 6000K/90 vouwslot + houder SH",
           "brand": "ABUS",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
@@ -494,10 +487,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
-          "brand": "ABUS",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
-          "price": 102.99,
+          "name": "Verlichtingsset PRO 100",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
+          "price": 56.99,
           "currency": "EUR"
         },
         {
@@ -512,6 +505,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
           "price": 22.95,
+          "currency": "EUR"
+        },
+        {
+          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
+          "brand": "ABUS",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
           "currency": "EUR"
         },
         {
@@ -536,7 +536,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-22T23:24:53.955Z"
+      "scrapedAt": "2026-11-23T06:36:05.122Z"
     },
     {
       "shop": "Bike24",
@@ -544,7 +544,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-22T23:24:50.525Z"
+      "scrapedAt": "2026-11-23T06:36:01.755Z"
     },
     {
       "shop": "Decathlon",
@@ -552,7 +552,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-22T23:25:53.976Z"
+      "scrapedAt": "2026-11-23T06:37:05.359Z"
     }
   ]
 }
