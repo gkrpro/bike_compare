@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:48:38.802Z",
+  "generatedAt": "2026-11-23T23:37:16.656Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-23T16:47:39.274Z"
+      "scrapedAt": "2026-11-23T23:36:17.229Z"
     },
     {
       "shop": "Bikester",
@@ -382,7 +382,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5 / 29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-jungalinblack",
           "price": 4999,
@@ -431,7 +431,7 @@
           "currency": "EUR"
         },
         {
-          "name": "Rove ST MicroShift (2025) | Gravelbike",
+          "name": "Rove ST MicroShift (2026) (2025) | Gravelbike",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-st-microshift-black",
           "price": 849,
@@ -550,7 +550,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-23T16:47:38.333Z"
+      "scrapedAt": "2026-11-23T23:36:15.747Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-23T16:47:34.981Z"
+      "scrapedAt": "2026-11-23T23:36:13.102Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-23T16:48:38.795Z"
+      "scrapedAt": "2026-11-23T23:37:16.644Z"
     }
   ]
 }
