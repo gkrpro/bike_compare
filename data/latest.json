@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:37:16.656Z",
+  "generatedAt": "2026-11-24T09:05:20.541Z",
   "totalItems": 78,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-23T23:36:17.229Z"
+      "scrapedAt": "2026-11-24T09:04:21.075Z"
     },
     {
       "shop": "Bikester",
@@ -347,16 +347,16 @@
           "currency": "EUR"
         },
         {
-          "name": "Bidonhouder HPP mat zwart´n´classic green",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-flaschenhalter-hpp-matt-black-n-classic-green",
+          "name": "Bidonhouder HPP mat groen´n´glossy zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-green-n-glossy-black-2023",
           "price": 5.99,
           "currency": "EUR"
         },
         {
-          "name": "Bidonhouder HPP mat groen´n´glossy zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-green-n-glossy-black-2023",
+          "name": "Bidonhouder HPP mat zwart´n´classic green",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-flaschenhalter-hpp-matt-black-n-classic-green",
           "price": 5.99,
           "currency": "EUR"
         },
@@ -396,20 +396,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Aim ONE FE (2027)  | 27,5/29 inch MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
-          "price": 599,
-          "currency": "EUR"
-        },
-        {
-          "name": "Attain C:62 SLX (2027) | Racefiets",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-attain-c62-slx-metallicwhite-n-black",
-          "price": 2499,
-          "currency": "EUR"
-        },
-        {
           "name": "Acid 260 Disc (2027)  | 26 inch jeugd-/kinder-MTB",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-acid-260-disc-actionteam-2025",
@@ -417,10 +403,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Aim ONE FE (2027)  | 27,5/29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
+          "price": 599,
+          "currency": "EUR"
+        },
+        {
           "name": "Nuroad C:62 ONE (2027) | Gravelbike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
           "price": 1999,
+          "currency": "EUR"
+        },
+        {
+          "name": "Acid 240 Disc (2027)  | 24 inch jeugd-/kinder-MTB",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-acid-240-disc-actionteam-2025",
+          "price": 449,
           "currency": "EUR"
         },
         {
@@ -454,7 +454,7 @@
         {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
           "price": 1099,
           "currency": "EUR"
         },
@@ -468,7 +468,7 @@
         {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
           "price": 1099,
           "currency": "EUR"
         },
@@ -494,13 +494,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo 6000K/90 vouwslot + houder SH",
-          "brand": "ABUS",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
-          "price": 85.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Verlichtingsset PRO 100",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
@@ -508,10 +501,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Fietsenstandaard FM",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
-          "price": 25.99,
+          "name": "Bordo 6000K/90 vouwslot + houder SH",
+          "brand": "ABUS",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
+          "price": 85.99,
           "currency": "EUR"
         },
         {
@@ -519,6 +512,13 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
           "price": 22.95,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
+          "price": 25.99,
           "currency": "EUR"
         },
         {
@@ -543,14 +543,14 @@
           "currency": "EUR"
         },
         {
-          "name": "Bagagedrager SIC 28\" RILink",
+          "name": "E-Bike voorlicht PRO-E 200 High Beam X-Connect zwart",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-gepacktrager-sic-28-rilink",
-          "price": 41.99,
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-200-high-beam-x-connect-black",
+          "price": 139.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-23T23:36:15.747Z"
+      "scrapedAt": "2026-11-24T09:04:20.650Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-23T23:36:13.102Z"
+      "scrapedAt": "2026-11-24T09:04:16.882Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-23T23:37:16.644Z"
+      "scrapedAt": "2026-11-24T09:05:20.529Z"
     }
   ]
 }
