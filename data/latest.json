@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T09:05:20.541Z",
-  "totalItems": 78,
+  "generatedAt": "2026-11-24T22:07:29.688Z",
+  "totalItems": 77,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-24T09:04:21.075Z"
+      "scrapedAt": "2026-11-24T22:06:30.703Z"
     },
     {
       "shop": "Bikester",
@@ -284,13 +284,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Blade Air Jersey Korte Mouw | Heren Fietsshirt Korte Mouw",
-          "brand": "Northwave",
-          "url": "https://www.bikester.be/products/northwave-blade-air-jersey-short-sleeve-white-black",
-          "price": 53.99,
-          "currency": "EUR"
-        },
-        {
           "name": "PureFlowz Shirt 3/4 | Heren wielershirt met lange mouwen",
           "brand": "Zimtstern",
           "url": "https://www.bikester.be/products/zimtstern-pureflowz-shirt-3-4-men-pacific-high-rise",
@@ -298,17 +291,24 @@
           "currency": "EUR"
         },
         {
-          "name": "Moab LS PRO Shirt zwart | Heren fietsjersey met lange mouwen",
-          "brand": "VAUDE",
-          "url": "https://www.bikester.be/products/vaude-moab-ls-pro-shirt-herren-schwarz",
-          "price": 44.99,
+          "name": "Bulletz Shirt LS | Heren wielershirt met lange mouwen",
+          "brand": "Zimtstern",
+          "url": "https://www.bikester.be/products/zimtstern-bulletz-shirt-ls-men-pirate-black-jester-red",
+          "price": 43.99,
           "currency": "EUR"
         },
         {
-          "name": "Adventure Jacket Wind | Heren windjack",
-          "brand": "Gonso",
-          "url": "https://www.bikester.be/products/gonso-adventure-jacket-wind-herren-safety-yellow",
-          "price": 56.99,
+          "name": "DEEMAX ENDURO LS JERSEY M | Heren fietsjersey lange mouwen",
+          "brand": "Mavic",
+          "url": "https://www.bikester.be/products/mavic-deemax-enduro-ls-jersey-m-camo-iron-gate",
+          "price": 29.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "ATX WS Baggy Shorts CMPT | Heren MTB Shorts",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-atx-ws-baggy-shorts-cmpt-khaki",
+          "price": 19.99,
           "currency": "EUR"
         },
         {
@@ -414,13 +414,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-nuroad-c62-one-hintofmint-n-green",
           "price": 1999,
-          "currency": "EUR"
-        },
-        {
-          "name": "Acid 240 Disc (2027)  | 24 inch jeugd-/kinder-MTB",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-240-disc-actionteam-2025",
-          "price": 449,
           "currency": "EUR"
         },
         {
@@ -550,7 +543,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-24T09:04:20.650Z"
+      "scrapedAt": "2026-11-24T22:06:28.683Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-24T09:04:16.882Z"
+      "scrapedAt": "2026-11-24T22:06:26.054Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-24T09:05:20.529Z"
+      "scrapedAt": "2026-11-24T22:07:29.677Z"
     }
   ]
 }
