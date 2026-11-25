@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T22:07:29.688Z",
-  "totalItems": 77,
+  "generatedAt": "2026-11-25T07:42:58.680Z",
+  "totalItems": 78,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-24T22:06:30.703Z"
+      "scrapedAt": "2026-11-25T07:41:59.553Z"
     },
     {
       "shop": "Bikester",
@@ -179,17 +179,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Kirana Ultra (2026) | Racefiets",
-          "brand": "Raymon",
-          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
           "name": "Rove (2026) | Gravelbike",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-rove-silver",
           "price": 939,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kirana Ultra (2026) | Racefiets",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
+          "price": 2999,
           "currency": "EUR"
         },
         {
@@ -347,13 +347,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Bidonhouder HPP mat groen´n´glossy zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-green-n-glossy-black-2023",
-          "price": 5.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bidonhouder HPP mat zwart´n´classic green",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-flaschenhalter-hpp-matt-black-n-classic-green",
@@ -361,10 +354,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Voorvorkspatbord VANE voor 29\" black´n´blue",
+          "name": "Bidonhouder HPP mat groen´n´glossy zwart",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-steckschutzblech-vane-vorne-29-black-n-blue",
-          "price": 8.99,
+          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-green-n-glossy-black-2023",
+          "price": 5.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fietscomputer CMPT",
+          "brand": "RFR",
+          "url": "https://www.bikester.be/products/rfr-fahrradcomputer-cmpt-blue-2023",
+          "price": 6.99,
           "currency": "EUR"
         },
         {
@@ -389,10 +389,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Stereo Hybrid ONE44 HPC Race 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "name": "Aim ONE FE (2027)  | 27,5/29 inch MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-coal-n-green",
-          "price": 4399,
+          "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
+          "price": 599,
           "currency": "EUR"
         },
         {
@@ -403,10 +403,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Aim ONE FE (2027)  | 27,5/29 inch MTB Hardtail",
+          "name": "Aim SLT (2027)  | 27,5/29 inch MTB Hardtail",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
-          "price": 599,
+          "url": "https://www.bikester.be/products/cube-aim-slt-soot-n-black",
+          "price": 799,
+          "currency": "EUR"
+        },
+        {
+          "name": "Attain C:62 SLX (2027) | Racefiets",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-attain-c62-slx-metallicwhite-n-black",
+          "price": 2499,
           "currency": "EUR"
         },
         {
@@ -487,24 +494,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Verlichtingsset PRO 100",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
-          "price": 56.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Bordo 6000K/90 vouwslot + houder SH",
           "brand": "ABUS",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
           "price": 85.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Fietsenstandaard Cubestand CMPT",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
-          "price": 22.95,
           "currency": "EUR"
         },
         {
@@ -515,10 +508,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
-          "brand": "ABUS",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
-          "price": 102.99,
+          "name": "Fietsenstandaard Cubestand CMPT",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-fahrradstander-cubestand-cmpt",
+          "price": 22.95,
+          "currency": "EUR"
+        },
+        {
+          "name": "Verlichtingsset PRO 100",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
+          "price": 56.99,
           "currency": "EUR"
         },
         {
@@ -529,21 +529,28 @@
           "currency": "EUR"
         },
         {
+          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
+          "brand": "ABUS",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "E-Bike voorlicht PRO-E 150 X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Bordo Granit 6500K/120 SH vouwslot",
           "brand": "ABUS",
           "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
           "price": 149.99,
           "currency": "EUR"
-        },
-        {
-          "name": "E-Bike voorlicht PRO-E 200 High Beam X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-200-high-beam-x-connect-black",
-          "price": 139.99,
-          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-24T22:06:28.683Z"
+      "scrapedAt": "2026-11-25T07:41:57.861Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +558,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-24T22:06:26.054Z"
+      "scrapedAt": "2026-11-25T07:41:55.070Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +566,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-24T22:07:29.677Z"
+      "scrapedAt": "2026-11-25T07:42:58.673Z"
     }
   ]
 }
