@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T07:42:58.680Z",
-  "totalItems": 78,
+  "generatedAt": "2026-11-25T21:22:53.339Z",
+  "totalItems": 77,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-25T07:41:59.553Z"
+      "scrapedAt": "2026-11-25T21:21:53.912Z"
     },
     {
       "shop": "Bikester",
@@ -221,6 +221,13 @@
           "currency": "EUR"
         },
         {
+          "name": "RISE SL H30 (2026)  | 29 inch E-MTB Fully",
+          "brand": "Orbea",
+          "url": "https://www.bikester.be/products/orbea-rise-sl-h30-diamant-540-diamond-black-splash-olive-green-matt",
+          "price": 3999,
+          "currency": "EUR"
+        },
+        {
           "name": "MACINA SPORT 710 Diamant (2025) | Trekking E-bike",
           "brand": "KTM",
           "url": "https://www.bikester.be/products/ktm-macina-sport-710-diamant-green-purple-flip-matt-silver-blue",
@@ -249,13 +256,6 @@
           "currency": "EUR"
         },
         {
-          "name": "MACINA STYLE 730 Diamant | Trekking E-bike",
-          "brand": "KTM",
-          "url": "https://www.bikester.be/products/ktm-macina-style-730-diamant-black-matt-grey-orange",
-          "price": 2819,
-          "currency": "EUR"
-        },
-        {
           "name": "4FORTY Mips Solid zwart MTB Helm",
           "brand": "Bell",
           "url": "https://www.bikester.be/products/bell-4forty-mips-mtb-helm-solid-black",
@@ -270,31 +270,10 @@
           "currency": "EUR"
         },
         {
-          "name": "PureFlowz Shirt 3/4 | Heren wielershirt met lange mouwen",
-          "brand": "Zimtstern",
-          "url": "https://www.bikester.be/products/zimtstern-pureflowz-shirt-3-4-men-burnt-orange-pirate-black",
-          "price": 35.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Flexair SS Jersey | Heren Korte Mouwen Shirt",
           "brand": "Fox",
           "url": "https://www.bikester.be/products/fox-flexair-ss-jersey-lime",
           "price": 48.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "PureFlowz Shirt 3/4 | Heren wielershirt met lange mouwen",
-          "brand": "Zimtstern",
-          "url": "https://www.bikester.be/products/zimtstern-pureflowz-shirt-3-4-men-pacific-high-rise",
-          "price": 43.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bulletz Shirt LS | Heren wielershirt met lange mouwen",
-          "brand": "Zimtstern",
-          "url": "https://www.bikester.be/products/zimtstern-bulletz-shirt-ls-men-pirate-black-jester-red",
-          "price": 43.99,
           "currency": "EUR"
         },
         {
@@ -309,6 +288,20 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-atx-ws-baggy-shorts-cmpt-khaki",
           "price": 19.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "ATX WS CMPT | Dames MTB Shorts",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-atx-ws-baggy-shorts-cmpt-violet",
+          "price": 19.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Charge elleboogbeschermers",
+          "brand": "Race Face",
+          "url": "https://www.bikester.be/products/race-face-charge-ellenbogenprotektoren-schwarz",
+          "price": 14.99,
           "currency": "EUR"
         },
         {
@@ -396,10 +389,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Acid 260 Disc (2027)  | 26 inch jeugd-/kinder-MTB",
+          "name": "Kathmandu Hybrid Pro 800 Diamant (2027) | Trekking E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-acid-260-disc-actionteam-2025",
-          "price": 499,
+          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-smaragdgreynblack",
+          "price": 3599,
           "currency": "EUR"
         },
         {
@@ -550,7 +543,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-25T07:41:57.861Z"
+      "scrapedAt": "2026-11-25T21:21:53.328Z"
     },
     {
       "shop": "Bike24",
@@ -558,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-25T07:41:55.070Z"
+      "scrapedAt": "2026-11-25T21:21:49.634Z"
     },
     {
       "shop": "Decathlon",
@@ -566,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-25T07:42:58.673Z"
+      "scrapedAt": "2026-11-25T21:22:53.331Z"
     }
   ]
 }
