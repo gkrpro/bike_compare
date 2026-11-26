@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T07:32:58.182Z",
+  "generatedAt": "2026-11-26T21:09:54.582Z",
   "totalItems": 77,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-26T07:31:58.738Z"
+      "scrapedAt": "2026-11-26T21:08:54.455Z"
     },
     {
       "shop": "Bikester",
@@ -473,13 +473,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Aura Micro Set USB verlichtingsset",
-          "brand": "SIGMA",
-          "url": "https://www.bikester.be/products/sigma-aura-micro-set-usb-beleuchtungsset",
-          "price": 26.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Verlichtingsset PRO 30",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-30",
@@ -541,9 +534,16 @@
           "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
           "price": 102.99,
           "currency": "EUR"
+        },
+        {
+          "name": "E-Bike voorlicht PRO-E 200 High Beam X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-200-high-beam-x-connect-black",
+          "price": 139.99,
+          "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-26T07:31:58.207Z"
+      "scrapedAt": "2026-11-26T21:08:52.689Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-26T07:31:54.660Z"
+      "scrapedAt": "2026-11-26T21:08:50.829Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-26T07:32:58.174Z"
+      "scrapedAt": "2026-11-26T21:09:54.574Z"
     }
   ]
 }
