@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:09:54.582Z",
+  "generatedAt": "2026-11-27T07:30:35.484Z",
   "totalItems": 77,
   "shops": [
     {
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-26T21:08:54.455Z"
+      "scrapedAt": "2026-11-27T07:29:36.387Z"
     },
     {
       "shop": "Bikester",
@@ -340,16 +340,16 @@
           "currency": "EUR"
         },
         {
-          "name": "Bidonhouder HPP mat zwart´n´classic green",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-flaschenhalter-hpp-matt-black-n-classic-green",
+          "name": "Bidonhouder HPP mat groen´n´glossy zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-green-n-glossy-black-2023",
           "price": 5.99,
           "currency": "EUR"
         },
         {
-          "name": "Bidonhouder HPP mat groen´n´glossy zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-green-n-glossy-black-2023",
+          "name": "Bidonhouder HPP mat zwart´n´classic green",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-flaschenhalter-hpp-matt-black-n-classic-green",
           "price": 5.99,
           "currency": "EUR"
         },
@@ -368,20 +368,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
-          "price": 3399,
-          "currency": "EUR"
-        },
-        {
-          "name": "Stereo Hybrid ONE77 HPC AT 800 (2027) | 27,5 / 29 inch E-MTB Fully",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one77-hpc-at-800-carbon-n-white",
-          "price": 7199,
-          "currency": "EUR"
-        },
-        {
           "name": "Touring Hybrid Pro 800 Easy Entry (2027) | Trekking E-bike",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-touring-hybrid-pro-800-easy-entry-metallicumbranblack",
@@ -389,10 +375,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Reaction Hybrid Pro 800 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-pro-800-fe-diamant-silverdust-n-prism",
+          "price": 3399,
+          "currency": "EUR"
+        },
+        {
           "name": "Aim ONE FE (2027)  | 27,5/29 inch MTB Hardtail",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
           "price": 599,
+          "currency": "EUR"
+        },
+        {
+          "name": "Stereo Hybrid ONE44 HPC SLX 800 (2027)  | 27,5/29 inch E-MTB Fully",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-slx-800-blackline",
+          "price": 4999,
           "currency": "EUR"
         },
         {
@@ -445,17 +445,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Rove (2026) | Gravelbike",
-          "brand": "Kona",
-          "url": "https://www.bikester.be/products/kona-rove-silver",
-          "price": 939,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 1 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-schwarz-matt",
           "price": 1099,
+          "currency": "EUR"
+        },
+        {
+          "name": "Rove (2026) | Gravelbike",
+          "brand": "Kona",
+          "url": "https://www.bikester.be/products/kona-rove-silver",
+          "price": 939,
           "currency": "EUR"
         },
         {
@@ -468,8 +468,8 @@
         {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-dark-grey-blue",
-          "price": 1249,
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
+          "price": 1199,
           "currency": "EUR"
         },
         {
@@ -487,13 +487,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Verlichtingsset PRO 100",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
-          "price": 56.99,
-          "currency": "EUR"
-        },
-        {
           "name": "Fietsenstandaard FM",
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
@@ -508,10 +501,10 @@
           "currency": "EUR"
         },
         {
-          "name": "E-Bike voorlicht PRO-E 150 X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
-          "price": 89.99,
+          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
+          "brand": "ABUS",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
           "currency": "EUR"
         },
         {
@@ -522,17 +515,24 @@
           "currency": "EUR"
         },
         {
+          "name": "Verlichtingsset PRO 100",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
+          "price": 56.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "E-Bike voorlicht PRO-E 150 X-Connect zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-150-x-connect-black",
+          "price": 89.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Bordo Granit 6500K/120 SH vouwslot",
           "brand": "ABUS",
           "url": "https://www.bikester.be/products/abus-bordo-granit-6500k-120-sh-faltschloss-schwarz",
           "price": 149.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
-          "brand": "ABUS",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
-          "price": 102.99,
           "currency": "EUR"
         },
         {
@@ -543,7 +543,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-26T21:08:52.689Z"
+      "scrapedAt": "2026-11-27T07:29:34.998Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +551,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-26T21:08:50.829Z"
+      "scrapedAt": "2026-11-27T07:29:31.991Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +559,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-26T21:09:54.574Z"
+      "scrapedAt": "2026-11-27T07:30:35.473Z"
     }
   ]
 }
