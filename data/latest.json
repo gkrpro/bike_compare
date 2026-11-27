@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T07:30:35.484Z",
-  "totalItems": 77,
+  "generatedAt": "2026-11-27T20:54:29.776Z",
+  "totalItems": 74,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-27T07:29:36.387Z"
+      "scrapedAt": "2026-11-27T20:53:30.822Z"
     },
     {
       "shop": "Bikester",
@@ -270,13 +270,6 @@
           "currency": "EUR"
         },
         {
-          "name": "Flexair SS Jersey | Heren Korte Mouwen Shirt",
-          "brand": "Fox",
-          "url": "https://www.bikester.be/products/fox-flexair-ss-jersey-lime",
-          "price": 48.99,
-          "currency": "EUR"
-        },
-        {
           "name": "DEEMAX ENDURO LS JERSEY M | Heren fietsjersey lange mouwen",
           "brand": "Mavic",
           "url": "https://www.bikester.be/products/mavic-deemax-enduro-ls-jersey-m-camo-iron-gate",
@@ -323,13 +316,6 @@
           "brand": "ABUS",
           "url": "https://www.bikester.be/products/abus-iven-chain-8210-85-kettenschloss-schwarz",
           "price": 64.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Heuptas PURE 2",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-hufttasche-pure-2",
-          "price": 36.99,
           "currency": "EUR"
         },
         {
@@ -400,13 +386,6 @@
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-coal-n-green",
           "price": 4399,
-          "currency": "EUR"
-        },
-        {
-          "name": "Kathmandu Hybrid Pro 800 Diamant (2027) | Trekking E-bike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-kathmandu-hybrid-pro-800-diamant-smaragdgreynblack",
-          "price": 3599,
           "currency": "EUR"
         },
         {
@@ -543,7 +522,7 @@
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-27T07:29:34.998Z"
+      "scrapedAt": "2026-11-27T20:53:28.870Z"
     },
     {
       "shop": "Bike24",
@@ -551,7 +530,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-27T07:29:31.991Z"
+      "scrapedAt": "2026-11-27T20:53:26.258Z"
     },
     {
       "shop": "Decathlon",
@@ -559,7 +538,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-27T07:30:35.473Z"
+      "scrapedAt": "2026-11-27T20:54:29.768Z"
     }
   ]
 }
