@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T20:54:29.776Z",
-  "totalItems": 74,
+  "generatedAt": "2026-11-28T06:59:20.100Z",
+  "totalItems": 75,
   "shops": [
     {
       "shop": "Cyclovia",
@@ -80,7 +80,7 @@
           "url": "https://www.cycloviastore.com/shop/wilier-filante-slr-copie-1/"
         }
       ],
-      "scrapedAt": "2026-11-27T20:53:30.822Z"
+      "scrapedAt": "2026-11-28T06:58:20.216Z"
     },
     {
       "shop": "Bikester",
@@ -186,17 +186,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Kirana Ultra (2026) | Racefiets",
-          "brand": "Raymon",
-          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
-          "price": 2999,
-          "currency": "EUR"
-        },
-        {
           "name": "Dew (2026) | Stadsfiets",
           "brand": "Kona",
           "url": "https://www.bikester.be/products/kona-dew-blue",
           "price": 469,
+          "currency": "EUR"
+        },
+        {
+          "name": "Kirana Ultra (2026) | Racefiets",
+          "brand": "Raymon",
+          "url": "https://www.bikester.be/products/raymon-kirana-ultra-carmine-red-stealth",
+          "price": 2999,
           "currency": "EUR"
         },
         {
@@ -277,16 +277,16 @@
           "currency": "EUR"
         },
         {
-          "name": "ATX WS CMPT | Dames MTB Shorts",
+          "name": "ATX WS Baggy Shorts CMPT | Heren MTB Shorts",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-atx-ws-baggy-shorts-cmpt-violet",
+          "url": "https://www.bikester.be/products/cube-atx-ws-baggy-shorts-cmpt-khaki",
           "price": 19.99,
           "currency": "EUR"
         },
         {
-          "name": "ATX WS Baggy Shorts CMPT | Heren MTB Shorts",
+          "name": "ATX WS CMPT | Dames MTB Shorts",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-atx-ws-baggy-shorts-cmpt-khaki",
+          "url": "https://www.bikester.be/products/cube-atx-ws-baggy-shorts-cmpt-violet",
           "price": 19.99,
           "currency": "EUR"
         },
@@ -326,16 +326,16 @@
           "currency": "EUR"
         },
         {
-          "name": "Bidonhouder HPP mat groen´n´glossy zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-green-n-glossy-black-2023",
+          "name": "Bidonhouder HPP mat zwart´n´classic green",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-flaschenhalter-hpp-matt-black-n-classic-green",
           "price": 5.99,
           "currency": "EUR"
         },
         {
-          "name": "Bidonhouder HPP mat zwart´n´classic green",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-flaschenhalter-hpp-matt-black-n-classic-green",
+          "name": "Bidonhouder HPP mat groen´n´glossy zwart",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-flaschenhalter-hpp-matt-green-n-glossy-black-2023",
           "price": 5.99,
           "currency": "EUR"
         },
@@ -344,13 +344,6 @@
           "brand": "RFR",
           "url": "https://www.bikester.be/products/rfr-fahrradcomputer-cmpt-blue-2023",
           "price": 6.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Nuroad C:62 ONE (2027) | Gravelbike",
-          "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-nuroad-c62-one-carbon-n-shiftverde",
-          "price": 1999,
           "currency": "EUR"
         },
         {
@@ -368,10 +361,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Aim ONE FE (2027)  | 27,5/29 inch MTB Hardtail",
+          "name": "Stereo Hybrid ONE77 HPC AT 800 (2027) | 27,5 / 29 inch E-MTB Fully",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
-          "price": 599,
+          "url": "https://www.bikester.be/products/cube-stereo-hybrid-one77-hpc-at-800-carbon-n-white",
+          "price": 7199,
           "currency": "EUR"
         },
         {
@@ -382,6 +375,13 @@
           "currency": "EUR"
         },
         {
+          "name": "Aim ONE FE (2027)  | 27,5/29 inch MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-aim-one-fe-mole-n-prism",
+          "price": 599,
+          "currency": "EUR"
+        },
+        {
           "name": "Stereo Hybrid ONE44 HPC Race 800 (2027)  | 27,5/29 inch E-MTB Fully",
           "brand": "Cube",
           "url": "https://www.bikester.be/products/cube-stereo-hybrid-one44-hpc-race-800-coal-n-green",
@@ -389,10 +389,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Attain C:62 SLX (2027) | Racefiets",
+          "name": "Nuride Hybrid EXC 800 Diamant (2027) | Trekking E-bike",
           "brand": "Cube",
-          "url": "https://www.bikester.be/products/cube-attain-c62-slx-metallicwhite-n-black",
-          "price": 2499,
+          "url": "https://www.bikester.be/products/cube-nuride-hybrid-exc-800-diamant-coal-n-chrome",
+          "price": 3799,
+          "currency": "EUR"
+        },
+        {
+          "name": "Reaction Hybrid ONE 720 FE Diamant (2027)  | 27,5/29 inch E-MTB Hardtail",
+          "brand": "Cube",
+          "url": "https://www.bikester.be/products/cube-reaction-hybrid-one-720-fe-diamant-oolonggrey-n-reflex",
+          "price": 2999,
           "currency": "EUR"
         },
         {
@@ -438,17 +445,17 @@
           "currency": "EUR"
         },
         {
-          "name": "Gravix Pro 1 (2027) | Gravelbike",
-          "brand": "Serious",
-          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
-          "price": 1099,
-          "currency": "EUR"
-        },
-        {
           "name": "Gravix Pro 2 (2027) | Gravelbike",
           "brand": "Serious",
           "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-2-schwarz-matt",
           "price": 1199,
+          "currency": "EUR"
+        },
+        {
+          "name": "Gravix Pro 1 (2027) | Gravelbike",
+          "brand": "Serious",
+          "url": "https://www.bikester.be/products/serious-bikes-gravix-pro-1-grey-yell-green",
+          "price": 1099,
           "currency": "EUR"
         },
         {
@@ -459,17 +466,17 @@
           "currency": "EUR"
         },
         {
+          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
+          "brand": "ABUS",
+          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
+          "price": 102.99,
+          "currency": "EUR"
+        },
+        {
           "name": "Bordo 6000K/90 vouwslot + houder SH",
           "brand": "ABUS",
           "url": "https://www.bikester.be/products/abus-bordo-6000k-90-sh-faltschloss-schwarz",
           "price": 85.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Fietsenstandaard FM",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
-          "price": 25.99,
           "currency": "EUR"
         },
         {
@@ -480,17 +487,10 @@
           "currency": "EUR"
         },
         {
-          "name": "Bordo Big 6000K/120 vouwslot + houder SH",
-          "brand": "ABUS",
-          "url": "https://www.bikester.be/products/abus-bordo-6000k-120-sh-faltschloss-schwarz",
-          "price": 102.99,
-          "currency": "EUR"
-        },
-        {
-          "name": "Fietsenstandaard FM PRO",
+          "name": "Fietsenstandaard FM",
           "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
-          "price": 27.99,
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm",
+          "price": 25.99,
           "currency": "EUR"
         },
         {
@@ -498,6 +498,13 @@
           "brand": "ACID",
           "url": "https://www.bikester.be/products/acid-beleuchtungsset-pro-100",
           "price": 56.99,
+          "currency": "EUR"
+        },
+        {
+          "name": "Fietsenstandaard FM PRO",
+          "brand": "ACID",
+          "url": "https://www.bikester.be/products/acid-fahrradstander-fm-pro",
+          "price": 27.99,
           "currency": "EUR"
         },
         {
@@ -515,14 +522,14 @@
           "currency": "EUR"
         },
         {
-          "name": "E-Bike voorlicht PRO-E 200 High Beam X-Connect zwart",
-          "brand": "ACID",
-          "url": "https://www.bikester.be/products/acid-e-bike-frontlicht-pro-e-200-high-beam-x-connect-black",
-          "price": 139.99,
+          "name": "Aura 40 USB voorlicht",
+          "brand": "SIGMA",
+          "url": "https://www.bikester.be/products/sigma-aura-40-usb-frontlicht",
+          "price": 32.99,
           "currency": "EUR"
         }
       ],
-      "scrapedAt": "2026-11-27T20:53:28.870Z"
+      "scrapedAt": "2026-11-28T06:58:19.976Z"
     },
     {
       "shop": "Bike24",
@@ -530,7 +537,7 @@
       "ok": false,
       "items": [],
       "error": "blocked (status 403, title \"Access Denied\")",
-      "scrapedAt": "2026-11-27T20:53:26.258Z"
+      "scrapedAt": "2026-11-28T06:58:16.526Z"
     },
     {
       "shop": "Decathlon",
@@ -538,7 +545,7 @@
       "ok": false,
       "items": [],
       "error": "page.waitForSelector: Timeout 20000ms exceeded.",
-      "scrapedAt": "2026-11-27T20:54:29.768Z"
+      "scrapedAt": "2026-11-28T06:59:20.088Z"
     }
   ]
 }
